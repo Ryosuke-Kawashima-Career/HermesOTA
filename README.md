@@ -39,6 +39,29 @@ Because each fire is a brand-new session with no memory of previous runs, all
 continuity lives in the committed files — that's why `state/` and dated reports
 matter: they're how tomorrow's run knows what today's run already found.
 
+### Getting results into your local directory
+
+The routine only pushes to GitHub — it never touches your local disk. Your local
+clone won't show a given day's `sources/`, `data/`, `state/`, or
+`reports/daily/` files until you pull:
+
+```bash
+git pull
+```
+
+Since the routine only adds new dated files and rarely touches anything you'd be
+editing locally, this is almost always a clean fast-forward with no conflicts. To
+check what's new without merging it in yet:
+
+```bash
+git fetch
+git log origin/master -5 --oneline
+```
+
+If you use VS Code, the Source Control panel shows an "incoming changes" count
+once the routine pushes — click Sync/Pull there instead of the terminal if you
+prefer.
+
 ### Viewing and managing the routine
 
 All routine management happens at **https://claude.ai/code/routines**:
