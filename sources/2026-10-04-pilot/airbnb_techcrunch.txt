@@ -1,0 +1,126 @@
+Airbnb adds AI search, more social features | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Airbnb
+Apps
+Airbnb adds AI search, more social features
+Ivan Mehta
+5:00 AM PDT · September 30, 2026
+Airbnb is evolving in two directions: On the ground, it wants to compete with hotels by providing myriad services; online, it is using AI and people in its Airbnb network to aid travel discovery.
+As part of its fall product update, the company is adding services to the app it had launched last year, such as meal delivery, laundry, baby-gear rental, ski and boat rental in limited locations, and expanded grocery delivery.
+The second big feature is AI search. The company has taken a cautious approach to rolling out AI features, with CEO Brian Chesky opting to
+stay away from a chatbot-like interface
+. Earlier this year, he teased the
+new search feature for property discovery
+.
+Now, users can switch on a toggle to search for properties via text or voice prompts. Once you start the search, the interface will show you dynamic filters based on your preferences. For instance, if you type “baby” in the AI search filter, Airbnb will automatically show you further filters like cribs, playgrounds, or children’s books and toys.
+Image Credits:
+Airbnb
+The platform is also using AI to bring out relevant features of a property, and will let you compare properties in your wish list by way of AI-powered summaries and reviews.
+“We are finally making our first foray into AI search. And what you see is just the very beginning of something. And over the coming months, we’re going to really be iterating this very quickly. It’s not hard to create AI search; it’s hard to create AI search in e-commerce when you have $100 billion going through your platform,” Airbnb CEO Brian Chesky told TechCrunch.
+“Anyone can vibe-code a search function, but to do something that doesn’t kill conversion rate, that’s the hard part.”
+Image Credits:
+Airbnb
+The company is also doubling down on social features that nudge people to take more trips and book additional experiences such as food tastings and craft workshops. Last year, the app started allowing users to
+connect with fellow travelers and friends
+on its platform.
+Image Credits:
+Airbnb
+Now, travelers can look at a map based on their connections’ past or upcoming trips. When you tap on a trip, you can see where your connection stayed, and which experiences they sought out. For those conscious about their privacy, there’s an option to not share their trips with others as well.
+Airbnb is also building pages about neighborhoods based on guest reviews and other sources to help travelers discover places to eat and things to do.
+Topics
+AI
+,
+Airbnb
+,
+Apps
+,
+TC
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+Ivan Mehta
+Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
+You can contact or verify outreach from Ivan by emailing
+im@ivanmehta.com
+or via encrypted message at ivan.42 on Signal.
+View Bio
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Most Popular
+Federal judge calls Flock ‘indiscriminate mass surveillance’
+Anthony Ha
+Amazon responds to data center backlash, says it no longer uses NDAs
+Anthony Ha
+OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+Anthony Ha
+Jack Dorsey’s Bitchat disappears from app stores in India after government order
+Jagmeet Singh
+Vessev built an electric ferry that almost flies
+Tim De Chant
+All the AI agents that can live in your text messages
+Lauren Forristal
+Spotify billionaire’s body scan startup has come to America
+Dominic-Madori Davis
+Loading the next article
+Error loading the next article

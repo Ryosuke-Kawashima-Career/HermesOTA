@@ -1,0 +1,27 @@
+{
+  "cutoff": "2026-10-04T14:39:33+05:30",
+  "window_start": "2026-09-27T14:39:33+05:30",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": "data/2026-10-04-pilot/source-manifest.json",
+  "exclusions": [
+    {
+      "source_id": "expedia_layla",
+      "reason": "Primary publication July 31, outside window; recent recirculation is not a new acquisition."
+    },
+    {
+      "source_id": "agoda_ai_report",
+      "reason": "Primary article date September 25, outside window; Booking newsroom labels October 1. Date conflict unresolved."
+    }
+  ],
+  "report": "reports/daily/2026-10-04-pilot.md",
+  "status": "pilot_report_validated",
+  "limitations": "Non-exhaustive public-source pilot; partial IR archives, blocked filing bodies, and no systematic HKEX/Nasdaq exchange sweep.",
+  "validated_at": "2026-10-04T14:53:05.779906+05:30",
+  "validation_path": "data/2026-10-04-pilot/validation-results.json"
+}

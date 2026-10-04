@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "validated_at": "2026-10-04T14:53:05.779906+05:30",
+  "companies_covered": 5,
+  "unique_development_records": 7,
+  "source_records": 33,
+  "in_window_sec_filing_count": 4,
+  "sec_filing_counts_by_company_and_form": {
+    "booking": {},
+    "expedia": {},
+    "trip": {},
+    "mmyt": {
+      "6-K": 1
+    },
+    "airbnb": {
+      "4": 2,
+      "144": 1
+    }
+  },
+  "financial_comparisons": 0,
+  "citation_verification": "info: stats: 102 prose sentence(s), 28 with declared provenance (27%) — 28 cited, 0 marked [unverified] (a sentence may be both); 33 distinct source(s) cited, 33 in ledger (17 with evidence quotes)\ncitations OK\n",
+  "limitations": "Schema, provenance, quotation, file, date-window, deduplication, and citation checks are not independent verification of company claims."
+}

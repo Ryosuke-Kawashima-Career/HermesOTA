@@ -1,0 +1,192 @@
+{
+  "source_id": "airbnb_archive",
+  "accessed_url": "https://investors.airbnb.com/press-releases/default.aspx",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:56.915573+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://investors.airbnb.com/press-releases/default.aspx",
+  "title": "Investor Relations | Airbnb | Press Releases",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "Home",
+      "url": "https://investors.airbnb.com/home/default.aspx"
+    },
+    {
+      "text": "Events & Presentations",
+      "url": "https://investors.airbnb.com/events-and-presentations/default.aspx"
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://investors.airbnb.com/press-releases/default.aspx"
+    },
+    {
+      "text": "Stock Info",
+      "url": "https://investors.airbnb.com/stock-info/default.aspx"
+    },
+    {
+      "text": "Stock Quote",
+      "url": "/stock-info/default.aspx#stock-quote"
+    },
+    {
+      "text": "Analyst Coverage",
+      "url": "/stock-info/default.aspx#analyst-coverage"
+    },
+    {
+      "text": "Financials",
+      "url": "https://investors.airbnb.com/financials/default.aspx"
+    },
+    {
+      "text": "Quarterly Results",
+      "url": "/financials/default.aspx#quarterly"
+    },
+    {
+      "text": "SEC Filings",
+      "url": "/financials/default.aspx#sec"
+    },
+    {
+      "text": "Governance",
+      "url": "https://investors.airbnb.com/governance/default.aspx"
+    },
+    {
+      "text": "Executive Management",
+      "url": "/governance/default.aspx#management"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "/governance/default.aspx#board"
+    },
+    {
+      "text": "Committee Composition",
+      "url": "/governance/default.aspx#committee"
+    },
+    {
+      "text": "Governance Documents",
+      "url": "/governance/default.aspx#governance"
+    },
+    {
+      "text": "Sustainability",
+      "url": "/governance/default.aspx#sustainability"
+    },
+    {
+      "text": "Resources",
+      "url": "https://investors.airbnb.com/resources/default.aspx"
+    },
+    {
+      "text": "Investor FAQs",
+      "url": "/resources/default.aspx#faqs"
+    },
+    {
+      "text": "Investor Email Alerts",
+      "url": "/resources/default.aspx#email"
+    },
+    {
+      "text": "Investor Contacts",
+      "url": "/resources/default.aspx#contacts"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "#maincontent"
+    },
+    {
+      "text": "Airbnb Investor",
+      "url": "/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://www.airbnb.com/help/?from=footer&audience=guest"
+    },
+    {
+      "text": "AirCover",
+      "url": "https://www.airbnb.com/aircover"
+    },
+    {
+      "text": "Combating discrimination",
+      "url": "https://www.airbnb.com/against-discrimination"
+    },
+    {
+      "text": "Supporting people with disabilities",
+      "url": "https://www.airbnb.com/accessibility"
+    },
+    {
+      "text": "Cancellation options",
+      "url": "https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19"
+    },
+    {
+      "text": "Report a neighborhood concern",
+      "url": "https://www.airbnb.com/neighbors"
+    },
+    {
+      "text": "Airbnb your home",
+      "url": "https://www.airbnb.com/host/homes?from_footer=1"
+    },
+    {
+      "text": "AirCover for Hosts",
+      "url": "https://www.airbnb.com/aircover-for-hosts"
+    },
+    {
+      "text": "Hosting resources",
+      "url": "https://www.airbnb.com/resources/hosting-homes"
+    },
+    {
+      "text": "Community forum",
+      "url": "https://community.withairbnb.com/t5/Community-Center/ct-p/community-center"
+    },
+    {
+      "text": "Hosting responsibly",
+      "url": "https://www.airbnb.com/help/article/1376/responsible-hosting-in-the-united-states"
+    },
+    {
+      "text": "Airbnb-friendly apartments",
+      "url": "https://www.airbnb.com/airbnb-friendly"
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://news.airbnb.com/"
+    },
+    {
+      "text": "New features",
+      "url": "https://www.airbnb.com/release"
+    },
+    {
+      "text": "Careers",
+      "url": "https://careers.airbnb.com/"
+    },
+    {
+      "text": "Investors",
+      "url": "https://investors.airbnb.com/home/default.aspx"
+    },
+    {
+      "text": "Gift cards",
+      "url": "https://www.airbnb.com/gift-cards"
+    },
+    {
+      "text": "Airbnb.org emergency stays",
+      "url": "https://www.airbnb.org/"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.airbnb.com/terms"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.airbnb.com/terms/privacy_policy"
+    },
+    {
+      "text": "Powered By Q4 Inc. 5.189.1.6 (opens in new window)",
+      "url": "https://www.q4inc.com/Powered-by-Q4/"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_archive.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_archive.html",
+  "sha256": "20a23deba038957b9c88302d5977d07300c88d15f1f1f3286a2ef0d64c628ba7",
+  "text_length": 327
+}

@@ -1,0 +1,19 @@
+{
+  "source_id": "sec_trip",
+  "accessed_url": "https://data.sec.gov/submissions/CIK0001269238.json",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:43:20.012880+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://data.sec.gov/submissions/CIK0001269238.json",
+  "title": null,
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_trip.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_trip.html",
+  "sha256": "0f8ef95e8d9b71136e0b36cf2e4ea144c5ecf12bb526c935366547809cc8f6a1",
+  "text_length": 101668
+}

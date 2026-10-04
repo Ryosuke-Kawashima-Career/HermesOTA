@@ -1,0 +1,15 @@
+{
+  "status": "no_new_operating_result_inputs_verified_in_window",
+  "comparisons": [],
+  "reason": "No in-window operating earnings release was verified. No currencies, GAAP/non-GAAP figures or missing metrics were synthesized.",
+  "filings_index": "sec-window-filings.json",
+  "original_price_disclosures": {
+    "source_id": "lola_launch",
+    "symbol_as_published": "$",
+    "currency_code_explicitly_stated": null,
+    "plus_per_month": "5",
+    "vip_per_month": "25",
+    "commitment_months": 12,
+    "status": "announced; current FAQ says paid plans forthcoming"
+  }
+}

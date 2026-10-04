@@ -1,0 +1,19 @@
+{
+  "source_id": "airbnb_trade",
+  "accessed_url": "https://www.phocuswire.com/news/online/airbnb-expands-social-discovery-strategy-latest-app-updates-fall-2026",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:57.343654+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 403,
+  "final_url": "https://www.phocuswire.com/news/online/airbnb-expands-social-discovery-strategy-latest-app-updates-fall-2026",
+  "title": "Just a moment...",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [],
+  "access_status": "blocked",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_trade.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_trade.html",
+  "sha256": "6a65f4a62cdda952dd62ae784bdd56e6f87bb0d063e8d18c5c5522d48f638c27",
+  "text_length": 58
+}

@@ -1,0 +1,2087 @@
+{
+  "source_id": "mmyt_cto",
+  "accessed_url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-cto/",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:57.569112+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/",
+  "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
+  "date_metadata": [
+    {
+      "property": "article:published_time",
+      "content": "2026-09-30T16:43:15+05:30"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2026-09-30T18:40:49+05:30"
+    }
+  ],
+  "json_ld": [
+    "\n[{\"@context\":\"https:\\/\\/schema.org\\/\",\"@type\":\"NewsArticle\",\"@id\":\"https:\\/\\/inc42.com\\/buzz\\/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto\\/#newsarticle\",\"url\":\"https:\\/\\/inc42.com\\/buzz\\/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto\\/\",\"headline\":\"AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO\",\"mainEntityOfPage\":\"https:\\/\\/inc42.com\\/buzz\\/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto\\/\",\"datePublished\":\"2026-09-30T16:43:15+05:30\",\"dateModified\":\"2026-09-30T18:40:49+05:30\",\"description\":\"Travellers are combining flight preferences, visa queries, and payment offers in single AI conversations, combining legacy booking steps.\",\"articleSection\":\"News\",\"articleBody\":\"Generative AI is compressing the traditional travel-booking journey, with travellers combining questions about flights, transit visas, and card offers in a single conversation, according to MakeMyTrip Group CTO Sanjay Mohan.    Speaking at Inc42\\u2019s inaugural \\u2018The CTO Summit 2026\\u2019, Mohan said this behaviour requires travel platforms to rethink both their search experience and the technology connecting different parts of a booking.    His session, \\u201cWhat Lakhs Of AI Conversations Are Teaching MakeMyTrip About How India Travels\\u201d, explored how conversational AI is changing the way users express their travel needs.    A conventional travel app takes users through a sequence: browsing listings, reviewing a selection, entering passenger details, paying, and receiving confirmation. In a conversation, however, users can bring up requirements associated with several of these stages at once.    Mohan cited the example of a traveller asking for a flight with limits on layover duration, no transit visa requirement, and deals on specific bank cards \\u2014 all within the same request.    For the platform, answering that request means bringing together information that users would otherwise find across separate screens.  Moving Beyond Keywords And Filters  MakeMyTrip is adapting its data systems to handle these overlapping requirements, Mohan said. This includes using knowledge graphs, which connect related information, and search technology that interprets meaning rather than relying solely on exact keyword matches.    For instance, a traveller asking for a \\u201cserene getaway\\u201d should be able to find suitable properties even if their listings do not contain that phrase.    \\u201cIf you tell me, \\u2018I want a vacation in a very serene getaway\\u2019. If no one has put that text, then you will not be able to find it,\\u201d Mohan said. \\u201cI have to understand what you really mean by \\u2018serene\\u2019.\\u201d    The shift towards interpreting intent also featured in Flipkart\\u2019s session at the Summit, where CPTO Balaji Thiagarajan discussed moving beyond keyword-led search to combine conversational interactions, voice, visual inputs, and content feeds.    For MakeMyTrip, voice is another part of this shift. Mohan said the platform is expanding speech-to-text and text-to-speech capabilities to serve users in smaller cities where typing can be a barrier. Voice interactions already account for a significant activity in Tier III and IV regions, he added.  How Myra Handles Travel Queries  MakeMyTrip uses its in-house AI assistant Myra to handle conversational interactions across customer touchpoints. Mohan argued that the company\\u2019s travel expertise helps it address the detailed questions involved in choosing a trip.    \\u201cTravel is a very experiential buying thing. You don't want to look at a toothpaste from five different angles. But if you're booking a hotel room, you want to know what the view from the window looks like,\\u201d he said.    Myra comprises around 10-12 specialist AI agents covering different travel needs, including flights and accommodation. A central coordinating system routes tasks to these agents and brings their responses together.  Balancing Quality, Speed &amp; Cost  Mohan said using the largest AI models for every task increases both costs and response times. MakeMyTrip instead combines frontier models with open-source and open-weight alternatives, depending on the task.    He also emphasised the need for detailed evaluation sets to test whether each specialist agent produces relevant answers.    \\u201cA vertical applied AI can be only as good as your eval set. And therefore, for every expert, flights and hotels and holidays, there has to be a very rich set of evals. Otherwise, you will not know whether the answers are relevant,\\u201d Mohan said.    These checks cover live prices and availability, the relevance of responses, and whether the system retains details shared earlier in a conversation.\",\"keywords\":[\"AI Economy\",\" Spot News\",\" \"],\"name\":\"AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO\",\"thumbnailUrl\":\"https:\\/\\/inc42.com\\/cdn-cgi\\/image\\/quality=90\\/https:\\/\\/asset.inc42.com\\/2026\\/09\\/CTO_summit_MMT_CTO_ftr-150x150.jpg\",\"wordCount\":\"567\",\"timeRequired\":\"PT2M31S\",\"author\":{\"@type\":\"Person\",\"name\":\"Gaurav Bagur\",\"description\":\"Gaurav reports on startups in sectors like consumer internet, e-commerce, and logistics. He is based out of Bengaluru and has a background in journalism and economics.\",\"url\":\"https:\\/\\/inc42.com\\/author\\/gaurav-bagur\\/\",\"sameAs\":[\"gk_bagur\",\"https:\\/\\/www.linkedin.com\\/in\\/gaurav-bagur\\/\"],\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/f908e2dafc835e38c10dce3acc952550?s=96&d=mm&r=g\",\"height\":96,\"width\":96}},\"editor\":{\"@type\":\"Person\",\"name\":\"Gaurav Bagur\",\"description\":\"Gaurav reports on startups in sectors like consumer internet, e-commerce, and logistics. He is based out of Bengaluru and has a background in journalism and economics.\",\"url\":\"https:\\/\\/inc42.com\\/author\\/gaurav-bagur\\/\",\"sameAs\":[\"gk_bagur\",\"https:\\/\\/www.linkedin.com\\/in\\/gaurav-bagur\\/\"],\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/f908e2dafc835e38c10dce3acc952550?s=96&d=mm&r=g\",\"height\":96,\"width\":96}},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Inc42 Media\",\"url\":\"https:\\/\\/inc42.com\\/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/inc42.com\\/wp-content\\/uploads\\/2021\\/09\\/Orignal-Black-e1631011317739.png\",\"width\":100,\"height\":28}},\"image\":[{\"@type\":\"ImageObject\",\"@id\":\"https:\\/\\/inc42.com\\/buzz\\/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto\\/#primaryimage\",\"url\":\"https:\\/\\/inc42.com\\/cdn-cgi\\/image\\/quality=90\\/https:\\/\\/asset.inc42.com\\/2026\\/09\\/CTO_summit_MMT_CTO_ftr.jpg\",\"width\":\"1361\",\"height\":\"1021\",\"caption\":\"AI Is Compressing The Travel-Booking Journey: MakeMyTrip CTO\"}]}]\n"
+  ],
+  "links": [
+    {
+      "text": "Skip to content",
+      "url": "#content"
+    },
+    {
+      "text": "MEDIA",
+      "url": "/"
+    },
+    {
+      "text": "REPORTS",
+      "url": "/reports/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "EVENTS",
+      "url": "/events/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "COURSES",
+      "url": "#"
+    },
+    {
+      "text": "D2CX",
+      "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "D2CX by Inc42 is a 12-week hands-on program to help you level up your D2C game. Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view",
+      "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "view",
+      "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "ManagementX",
+      "url": "https://managementx.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "ManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view",
+      "url": "https://managementx.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "view",
+      "url": "https://managementx.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "D2CX Foundations",
+      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb"
+    },
+    {
+      "text": "D2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably. Learn from India’s top 1% of D2C founders & experts through actionable insights, proven strategies and tactics on how to launch a successful D2C Brand in 6 weeks. view",
+      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb"
+    },
+    {
+      "text": "view",
+      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb"
+    },
+    {
+      "text": "BRANDLABS",
+      "url": "https://brandlabs.inc42.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "ABOUT",
+      "url": "/about/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "DATALABS",
+      "url": "/datalabs/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "NEWS",
+      "url": "/buzz/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "IN-DEPTH",
+      "url": "/features/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "STARTUPS",
+      "url": "/startups/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "NEWSLETTERS",
+      "url": "/newsletter/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Fintech",
+      "url": "/industry/fintech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Travel Tech",
+      "url": "/industry/traveltech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Electric Vehicle",
+      "url": "/industry/electric-vehicles/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Health Tech",
+      "url": "/industry/healthtech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Edtech",
+      "url": "/industry/edtech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "IT",
+      "url": "/industry/it/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Logistics",
+      "url": "/industry/logistics/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Retail",
+      "url": "/industry/retail/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Ecommerce",
+      "url": "/industry/ecommerce/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Startup Ecosystem",
+      "url": "/industry/startup-ecosystem/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Enterprise Tech",
+      "url": "/industry/enterprisetech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Clean Tech",
+      "url": "/industry/cleantech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Consumer Internet",
+      "url": "/industry/consumer-internet/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Agritech",
+      "url": "/industry/agritech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Startup Spotlight",
+      "url": "https://tally.so/r/w2poXD?utm_medium=website&utm_source=landing-page&utm_campaign=startup-spotlight"
+    },
+    {
+      "text": "Guest Posts",
+      "url": "https://pages.inc42.com/submit-your-guest-post/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://brandlabs.inc42.com/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "About",
+      "url": "/about/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Ethics",
+      "url": "/ethics/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Careers",
+      "url": "https://inc42.keka.com/careers/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "GLOSSARY",
+      "url": "/glossary/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "RESOURCES",
+      "url": "/resources/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "INDIA’S AI ECONOMY",
+      "url": "/tag/ai-economy/"
+    },
+    {
+      "text": "Markets",
+      "url": "/tag/markets/"
+    },
+    {
+      "text": "Login",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "JOIN INC42 PLUS",
+      "url": "/plus"
+    },
+    {
+      "text": "NEWS",
+      "url": "/buzz/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "IN-DEPTH",
+      "url": "/features/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "STARTUPS",
+      "url": "/startups/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "NEWSLETTERS",
+      "url": "/newsletter/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Fintech",
+      "url": "/industry/fintech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Travel Tech",
+      "url": "/industry/traveltech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Electric Vehicle",
+      "url": "/industry/electric-vehicles/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Health Tech",
+      "url": "/industry/healthtech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Edtech",
+      "url": "/industry/edtech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "IT",
+      "url": "/industry/it/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Logistics",
+      "url": "/industry/logistics/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Retail",
+      "url": "/industry/retail/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Ecommerce",
+      "url": "/industry/ecommerce/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Startup Ecosystem",
+      "url": "/industry/startup-ecosystem/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Enterprise Tech",
+      "url": "/industry/enterprisetech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Clean Tech",
+      "url": "/industry/cleantech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Consumer Internet",
+      "url": "/industry/consumer-internet/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Agritech",
+      "url": "/industry/agritech/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Startup Spotlight",
+      "url": "https://tally.so/r/w2poXD?utm_medium=website&utm_source=landing-page&utm_campaign=startup-spotlight"
+    },
+    {
+      "text": "Guest Posts",
+      "url": "https://pages.inc42.com/submit-your-guest-post/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://brandlabs.inc42.com/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "About",
+      "url": "/about/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Ethics",
+      "url": "/ethics/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Careers",
+      "url": "https://inc42.keka.com/careers/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "GLOSSARY",
+      "url": "/glossary/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "RESOURCES",
+      "url": "/resources/?utm_medium=referral&utm_source=menu"
+    },
+    {
+      "text": "INDIA’S AI ECONOMY",
+      "url": "/tag/ai-economy/"
+    },
+    {
+      "text": "Markets",
+      "url": "/tag/markets/"
+    },
+    {
+      "text": "SIGN IN",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "JOIN INC42 PLUS NOW",
+      "url": "/plus"
+    },
+    {
+      "text": "MEDIA",
+      "url": "/"
+    },
+    {
+      "text": "REPORTS",
+      "url": "/reports/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "EVENTS",
+      "url": "/events/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "COURSES",
+      "url": "#"
+    },
+    {
+      "text": "D2CX",
+      "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "D2CX by Inc42 is a 12-week hands-on program to help you level up your D2C game. Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand. view",
+      "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "view",
+      "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "ManagementX",
+      "url": "https://managementx.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "ManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”. view",
+      "url": "https://managementx.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "view",
+      "url": "https://managementx.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "D2CX Foundations",
+      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb"
+    },
+    {
+      "text": "D2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably. Learn from India’s top 1% of D2C founders & experts through actionable insights, proven strategies and tactics on how to launch a successful D2C Brand in 6 weeks. view",
+      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb"
+    },
+    {
+      "text": "view",
+      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb"
+    },
+    {
+      "text": "BRANDLABS",
+      "url": "https://brandlabs.inc42.com/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "ABOUT",
+      "url": "/about/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "DATALABS",
+      "url": "/datalabs/?utm_medium=referral&utm_source=menu/"
+    },
+    {
+      "text": "FOLLOW INC42",
+      "url": "#"
+    },
+    {
+      "text": "Share on Facebook",
+      "url": "https://www.facebook.com/sharer.php?u=https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/"
+    },
+    {
+      "text": "Share on Twitter",
+      "url": "https://twitter.com/share?url=https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/"
+    },
+    {
+      "text": "Share on Whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=whatsappphonenumber&text=https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/"
+    },
+    {
+      "text": "Share on LinkedIn",
+      "url": "http://www.linkedin.com/shareArticle?mini=true&url=https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/"
+    },
+    {
+      "text": "Share on Email",
+      "url": "/cdn-cgi/l/email-protection#132c406671797670672e7b67676360293c3c7a7d7027213d707c7e3c716669693c727a3e7a603e707c7e63617660607a7d743e677b763e67617265767f3e717c7c787a7d743e797c66617d766a3e7e7278767e6a67617a633e74617c66633e70677c3c"
+    },
+    {
+      "text": "Travel Tech",
+      "url": "/industry/travel-tech/"
+    },
+    {
+      "text": "Gaurav Bagur",
+      "url": "https://inc42.com/author/gaurav-bagur/"
+    },
+    {
+      "text": "FOLLOW US",
+      "url": "https://bit.ly/4aa6nJp"
+    },
+    {
+      "text": "FOLLOW US",
+      "url": "https://bit.ly/485XFKn"
+    },
+    {
+      "text": "VIEW SAVED STORIES",
+      "url": "/my-inc42/saved-stories/"
+    },
+    {
+      "text": "to combine conversational interactions, voice, visual inputs, and content feeds",
+      "url": "https://inc42.com/buzz/how-flipkart-is-using-ai-to-move-beyond-keyword-led-product-discovery/"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://www.mobavenue.ai/?utm_source=inc42"
+    },
+    {
+      "text": "Explore More",
+      "url": "https://inc42.com/company/?filter=8671969d975c808960b265c72d5c0d6e&utm_medium=referral&utm_source=website&utm_campaign=datalabs-cross-integration&utm_content=trending-companies"
+    },
+    {
+      "text": "AI Economy",
+      "url": "https://inc42.com/tag/ai-economy/"
+    },
+    {
+      "text": "Spot News",
+      "url": "https://inc42.com/tag/spot-news/"
+    },
+    {
+      "text": "MakeMyTrip",
+      "url": "https://inc42.com/company/makemytrip/"
+    },
+    {
+      "text": "Online Travel Agency",
+      "url": "https://inc42.com/industry/online-travel-agency/"
+    },
+    {
+      "text": "Travel Tech",
+      "url": "https://inc42.com/industry/travel-tech/"
+    },
+    {
+      "text": "here.",
+      "url": "https://inc42.com/ethics"
+    },
+    {
+      "text": "Zomato",
+      "url": "https://inc42.com/company/zomato/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Zoho",
+      "url": "https://inc42.com/company/zoho/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Zetwerk",
+      "url": "https://inc42.com/company/zetwerk/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Zeta",
+      "url": "https://inc42.com/company/zeta/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Zerodha",
+      "url": "https://inc42.com/company/zerodha/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Zepto",
+      "url": "https://inc42.com/company/zepto/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Zenoti",
+      "url": "https://inc42.com/company/zenoti/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Yubi",
+      "url": "https://inc42.com/company/yubi/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Xpressbees",
+      "url": "https://inc42.com/company/xpressbees/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Vedantu",
+      "url": "https://inc42.com/company/vedantu/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Urban Company",
+      "url": "https://inc42.com/company/urban-company/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Upstox",
+      "url": "https://inc42.com/company/upstox/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "upGrad",
+      "url": "https://inc42.com/company/upgrad/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Uniphore",
+      "url": "https://inc42.com/company/uniphore/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Unacademy",
+      "url": "https://inc42.com/company/unacademy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Udaan",
+      "url": "https://inc42.com/company/udaan/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Swiggy",
+      "url": "https://inc42.com/company/swiggy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Spinny",
+      "url": "https://inc42.com/company/spinny/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Snapdeal",
+      "url": "https://inc42.com/company/snapdeal/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Slice",
+      "url": "https://inc42.com/company/slicepay/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Shopclues",
+      "url": "https://inc42.com/company/shopclues/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Shiprocket",
+      "url": "https://inc42.com/company/shiprocket/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "ShareChat",
+      "url": "https://inc42.com/company/sharechat/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Rivigo",
+      "url": "https://inc42.com/company/rivigo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "ReNew Energy",
+      "url": "https://inc42.com/company/renew-power/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Rebel Foods",
+      "url": "https://inc42.com/company/rebel-foods/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Razorpay",
+      "url": "https://inc42.com/company/razorpay/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "RateGain",
+      "url": "https://inc42.com/company/rategain/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Rapido",
+      "url": "https://inc42.com/company/rapido/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Quikr",
+      "url": "https://inc42.com/company/quikr/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Purplle",
+      "url": "https://inc42.com/company/purplle/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Pristyn Care",
+      "url": "https://inc42.com/company/pristyn-care/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Postman",
+      "url": "https://inc42.com/company/postman/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "PolicyBazaar",
+      "url": "https://inc42.com/company/policybazaar/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Pine Labs",
+      "url": "https://inc42.com/company/pine-labs/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "PhysicsWallah",
+      "url": "https://inc42.com/company/physicswallah/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "PhonePe",
+      "url": "https://inc42.com/company/phonepe/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "PharmEasy",
+      "url": "https://inc42.com/company/pharmeasy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Perfios",
+      "url": "https://inc42.com/company/perfios/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Paytm Mall",
+      "url": "https://inc42.com/company/paytm-mall/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Paytm",
+      "url": "https://inc42.com/company/paytm/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "OYO",
+      "url": "https://inc42.com/company/oyo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Oxyzo",
+      "url": "https://inc42.com/company/oxyzo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Open Money",
+      "url": "https://inc42.com/company/open-money/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "OneCard",
+      "url": "https://inc42.com/company/onecard/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Ola Electric",
+      "url": "https://inc42.com/company/ola-electric/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Ola",
+      "url": "https://inc42.com/company/ola/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "OfBusiness",
+      "url": "https://inc42.com/company/ofbusiness/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Nykaa",
+      "url": "https://inc42.com/company/nykaa/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "NoBroker",
+      "url": "https://inc42.com/company/nobroker/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Mu Sigma",
+      "url": "https://inc42.com/company/mu-sigma/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Moglix",
+      "url": "https://inc42.com/company/moglix/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Mobile Premier League",
+      "url": "https://inc42.com/company/mobile-premier-league/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "MobiKwik",
+      "url": "https://inc42.com/company/mobikwik/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Mindtickle",
+      "url": "https://inc42.com/company/mindtickle/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Mensa Brands",
+      "url": "https://inc42.com/company/mensa-brands/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Meesho",
+      "url": "https://inc42.com/company/meesho/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "MapmyIndia",
+      "url": "https://inc42.com/company/mapmyindia/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Mamaearth",
+      "url": "https://inc42.com/company/mamaearth/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "MakeMyTrip",
+      "url": "https://inc42.com/company/makemytrip/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Livspace",
+      "url": "https://inc42.com/company/livspace/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Licious",
+      "url": "https://inc42.com/company/licious/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "LensKart",
+      "url": "https://inc42.com/company/lenskart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "LeadSquared",
+      "url": "https://inc42.com/company/leadsquared/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "LEAD School",
+      "url": "https://inc42.com/company/lead-school/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Ola Krutrim",
+      "url": "https://inc42.com/company/ola-krutrim/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Innovaccer",
+      "url": "https://inc42.com/company/innovaccer/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "InMobi",
+      "url": "https://inc42.com/company/inmobi/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Infra.Market",
+      "url": "https://inc42.com/company/infra-market/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Info Edge",
+      "url": "https://inc42.com/company/info-edge/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "IndiaMART",
+      "url": "https://inc42.com/company/indiamart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "InCred",
+      "url": "https://inc42.com/company/incred/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Icertis",
+      "url": "https://inc42.com/company/icertis/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Hike",
+      "url": "https://inc42.com/company/hike/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Hasura",
+      "url": "https://inc42.com/company/hasura/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Gupshup",
+      "url": "https://inc42.com/company/gupshup/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Groww",
+      "url": "https://inc42.com/company/groww/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "MyGlamm",
+      "url": "https://inc42.com/company/myglamm/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "GlobalBees",
+      "url": "https://inc42.com/company/globalbees/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Glance",
+      "url": "https://inc42.com/company/glance/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Games24x7",
+      "url": "https://inc42.com/company/games24x7/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Freshworks",
+      "url": "https://inc42.com/company/freshworks/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Fractal Analytics",
+      "url": "https://inc42.com/company/fractal-analytics/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Flipkart",
+      "url": "https://inc42.com/company/flipkart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "FirstCry",
+      "url": "https://inc42.com/company/firstcry/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Eruditus Executive Education",
+      "url": "https://inc42.com/company/eruditus/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "ElasticRun",
+      "url": "https://inc42.com/company/elasticrun/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "EaseMyTrip",
+      "url": "https://inc42.com/company/easemytrip/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Druva",
+      "url": "https://inc42.com/company/druva/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Droom",
+      "url": "https://inc42.com/company/droom/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Dream11",
+      "url": "https://inc42.com/company/dream11/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Digit Insurance",
+      "url": "https://inc42.com/company/digit-insurance/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Delhivery",
+      "url": "https://inc42.com/company/delhivery/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "DealShare",
+      "url": "https://inc42.com/company/dealshare/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "DarwinBox",
+      "url": "https://inc42.com/company/darwinbox/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "DailyHunt",
+      "url": "https://inc42.com/company/dailyhunt/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "cult.fit",
+      "url": "https://inc42.com/company/cultfit/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "CRED",
+      "url": "https://inc42.com/company/cred/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "CoinSwitch",
+      "url": "https://inc42.com/company/coinswitch/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "CoinDCX",
+      "url": "https://inc42.com/company/coindcx/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "ChargeBee",
+      "url": "https://inc42.com/company/chargebee/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Cars24",
+      "url": "https://inc42.com/company/cars24/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "CarDekho",
+      "url": "https://inc42.com/company/cardekho/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "BYJU'S",
+      "url": "https://inc42.com/company/byjus/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "BrowserStack",
+      "url": "https://inc42.com/company/browserstack/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "boAt",
+      "url": "https://inc42.com/company/boat/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Blinkit",
+      "url": "https://inc42.com/company/grofers/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "BlackBuck",
+      "url": "https://inc42.com/company/blackbuck/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "BillDesk",
+      "url": "https://inc42.com/company/billdesk/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "BigBasket",
+      "url": "https://inc42.com/company/bigbasket/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "BharatPe",
+      "url": "https://inc42.com/company/bharatpe/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Ather Energy",
+      "url": "https://inc42.com/company/ather-energy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "apna",
+      "url": "https://inc42.com/company/apna/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Amagi",
+      "url": "https://inc42.com/company/amagi/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "Acko",
+      "url": "https://inc42.com/company/acko/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "5ire",
+      "url": "https://inc42.com/company/5ire/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "1MG",
+      "url": "https://inc42.com/company/tata-1mg/?itm_medium=website&itm_source=inc42-footer&itm_campaign=unicorns&itm_content=company"
+    },
+    {
+      "text": "CarTrade",
+      "url": "https://inc42.com/company/cartrade/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "FINO PayTech",
+      "url": "https://inc42.com/company/fino-paytech/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Infibeam Avenues",
+      "url": "https://inc42.com/company/infibeam/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Nazara Technologies",
+      "url": "https://inc42.com/company/nazara-technologies/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Absolute",
+      "url": "https://inc42.com/company/absolute/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Adda247",
+      "url": "https://inc42.com/company/adda247/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Aequs",
+      "url": "https://inc42.com/company/aequs/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Atlan",
+      "url": "https://inc42.com/company/atlan/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "BankBazaar",
+      "url": "https://inc42.com/company/bankbazaar/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "BetterPlace",
+      "url": "https://inc42.com/company/betterplace/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Bira 91",
+      "url": "https://inc42.com/company/bira91/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Bizongo",
+      "url": "https://inc42.com/company/bizongo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "BlueStone",
+      "url": "https://inc42.com/company/bluestone/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "BluSmart",
+      "url": "https://inc42.com/company/blusmart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "BookMyShow",
+      "url": "https://inc42.com/company/bookmyshow/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "BrightChamps",
+      "url": "https://inc42.com/company/brightchamps/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Capillary Technologies",
+      "url": "https://inc42.com/company/capillary-technologies/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Capital Float",
+      "url": "https://inc42.com/company/capital-float/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Captain Fresh",
+      "url": "https://inc42.com/company/captain-fresh/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Cashfree Payments",
+      "url": "https://inc42.com/company/cashfree/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Chaayos",
+      "url": "https://inc42.com/company/chaayos/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Chalo",
+      "url": "https://inc42.com/company/chalo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "CityMall",
+      "url": "https://inc42.com/company/citymall/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Classplus",
+      "url": "https://inc42.com/company/classplus/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Clear",
+      "url": "https://inc42.com/company/clear/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Country Delight",
+      "url": "https://inc42.com/company/country-delight/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Credgenics",
+      "url": "https://inc42.com/company/credgenics/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "CueMath",
+      "url": "https://inc42.com/company/cuemath/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "DeHaat",
+      "url": "https://inc42.com/company/dehaat/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Drip Capital",
+      "url": "https://inc42.com/company/drip-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Drools",
+      "url": "https://inc42.com/company/drools/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "EatClub Brands",
+      "url": "https://inc42.com/company/eatclub-brands/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Ecom Express",
+      "url": "https://inc42.com/company/ecom-express/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Exotel",
+      "url": "https://inc42.com/company/exotel/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "FarEye",
+      "url": "https://inc42.com/company/fareye/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Fashinza",
+      "url": "https://inc42.com/company/fashinza/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Fi.Money",
+      "url": "https://inc42.com/company/fi-money/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Finova Capital",
+      "url": "https://inc42.com/company/finova-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "FreshToHome",
+      "url": "https://inc42.com/company/freshtohome/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "GIVA",
+      "url": "https://inc42.com/company/giva/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "GreyOrange",
+      "url": "https://inc42.com/company/greyorange/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "HackerRank",
+      "url": "https://inc42.com/company/hackerrank/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "HealthifyMe",
+      "url": "https://inc42.com/company/healthifyme/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "HealthKart",
+      "url": "https://inc42.com/company/healthkart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "HomeLane",
+      "url": "https://inc42.com/company/homelane/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Hopscotch",
+      "url": "https://inc42.com/company/hopscotch/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Hubilo",
+      "url": "https://inc42.com/company/hubilo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "ideaForge",
+      "url": "https://inc42.com/company/ideaforge/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "IndMoney",
+      "url": "https://inc42.com/company/indmoney/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Inshorts",
+      "url": "https://inc42.com/company/inshorts/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "InsuranceDekho",
+      "url": "https://inc42.com/company/insurancedekho/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Jumbotail",
+      "url": "https://inc42.com/company/jumbotail/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Jupiter",
+      "url": "https://inc42.com/company/jupiter/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Juspay",
+      "url": "https://inc42.com/company/juspay/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Khatabook",
+      "url": "https://inc42.com/company/khatabook/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Kissht",
+      "url": "https://inc42.com/company/kissht/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "KreditBee",
+      "url": "https://inc42.com/company/kreditbee/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Kuku FM",
+      "url": "https://inc42.com/company/kuku-fm/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "LambdaTest",
+      "url": "https://inc42.com/company/lambda-test/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Leap",
+      "url": "https://inc42.com/company/leap/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Lendingkart",
+      "url": "https://inc42.com/company/lendingkart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Loco",
+      "url": "https://inc42.com/company/loco/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Log9 Materials",
+      "url": "https://inc42.com/company/log9-materials/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "LogiNext",
+      "url": "https://inc42.com/company/loginext/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "M2P Fintech",
+      "url": "https://inc42.com/company/m2p-fintech/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "mCaffeine",
+      "url": "https://inc42.com/company/mcaffeine/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "MedGenome",
+      "url": "https://inc42.com/company/medgenome/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Medikabazaar",
+      "url": "https://inc42.com/company/medikabazaar/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Mintifi",
+      "url": "https://inc42.com/company/mintifi/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "MoEngage",
+      "url": "https://inc42.com/company/moengage/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Money View",
+      "url": "https://inc42.com/company/money-view/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Mswipe",
+      "url": "https://inc42.com/company/mswipe/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "MyGate",
+      "url": "https://inc42.com/company/mygate/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Navi Technologies",
+      "url": "https://inc42.com/company/navi-technologies/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Netradyne",
+      "url": "https://inc42.com/company/netradyne/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Ninjacart",
+      "url": "https://inc42.com/company/ninjacart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "NiYO Solutions",
+      "url": "https://inc42.com/company/niyo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "PayMate",
+      "url": "https://inc42.com/company/paymate/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Pepperfry",
+      "url": "https://inc42.com/company/pepperfry/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Pernia's Pop-Up Shop",
+      "url": "https://inc42.com/company/pernia-s-pop-up-shop/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Pixis",
+      "url": "https://inc42.com/company/pixis/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Plum",
+      "url": "https://inc42.com/company/plum/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Pocket FM",
+      "url": "https://inc42.com/company/pocket-fm/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Porter",
+      "url": "https://inc42.com/company/porter/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Practo",
+      "url": "https://inc42.com/company/practo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Pratilipi",
+      "url": "https://inc42.com/company/pratilipi/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Refyne",
+      "url": "https://inc42.com/company/refyne/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "RenewBuy",
+      "url": "https://inc42.com/company/renewbuy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Ripplr",
+      "url": "https://inc42.com/company/ripplr/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Rupeek",
+      "url": "https://inc42.com/company/rupeek/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Scaler Academy",
+      "url": "https://inc42.com/company/scaler-academy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Scripbox",
+      "url": "https://inc42.com/company/scripbox/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Simple Energy",
+      "url": "https://inc42.com/company/simple-energy/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Smartron",
+      "url": "https://inc42.com/company/smartron/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Square Yards",
+      "url": "https://inc42.com/company/square-yards/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Stader Labs",
+      "url": "https://inc42.com/company/stader-labs/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Stanza Living",
+      "url": "https://inc42.com/company/stanza-living/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Stashfin",
+      "url": "https://inc42.com/company/stashfin/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "SUGAR Cosmetics",
+      "url": "https://inc42.com/company/sugar/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Teachmint",
+      "url": "https://inc42.com/company/teachmint/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "True Balance",
+      "url": "https://inc42.com/company/true-balance/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Turtlemint",
+      "url": "https://inc42.com/company/turtlemint/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Uni Cards",
+      "url": "https://inc42.com/company/uni-cards/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Wakefit",
+      "url": "https://inc42.com/company/wakefit/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "WayCool",
+      "url": "https://inc42.com/company/waycool/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Whatfix",
+      "url": "https://inc42.com/company/whatfix/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "WinZO",
+      "url": "https://inc42.com/company/winzo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "WOW Skin Science",
+      "url": "https://inc42.com/company/wow-skin-science/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Yulu",
+      "url": "https://inc42.com/company/yulu/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Zaggle",
+      "url": "https://inc42.com/company/zaggle/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Zenwork",
+      "url": "https://inc42.com/company/zenwork/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Zolve",
+      "url": "https://inc42.com/company/zolve/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "ZoomCar",
+      "url": "https://inc42.com/company/zoomcar/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Zupee",
+      "url": "https://inc42.com/company/zupee/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Arya.Ag",
+      "url": "https://inc42.com/company/arya-ag/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Innoviti",
+      "url": "https://inc42.com/company/innoviti/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Aye Finance",
+      "url": "https://inc42.com/company/aye-finance/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "Battery Smart",
+      "url": "https://inc42.com/company/battery-smart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=soonicorns&itm_content=company"
+    },
+    {
+      "text": "MapmyIndia",
+      "url": "https://inc42.com/company/mapmyindia/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "CarTrade",
+      "url": "https://inc42.com/company/cartrade/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Delhivery",
+      "url": "https://inc42.com/company/delhivery/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "FINO PayTech",
+      "url": "https://inc42.com/company/fino-paytech/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "EaseMyTrip",
+      "url": "https://inc42.com/company/easemytrip/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Nykaa",
+      "url": "https://inc42.com/company/nykaa/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "ideaForge",
+      "url": "https://inc42.com/company/ideaforge/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "IndiaMART",
+      "url": "https://inc42.com/company/indiamart/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Infibeam Avenues",
+      "url": "https://inc42.com/company/infibeam/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Info Edge",
+      "url": "https://inc42.com/company/info-edge/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Nazara Technologies",
+      "url": "https://inc42.com/company/nazara-technologies/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Paytm",
+      "url": "https://inc42.com/company/paytm/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "PolicyBazaar",
+      "url": "https://inc42.com/company/policybazaar/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "RateGain",
+      "url": "https://inc42.com/company/rategain/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Tracxn",
+      "url": "https://inc42.comcompany/tracxn/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Yatra",
+      "url": "https://inc42.com/company/yatra/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Zaggle",
+      "url": "https://inc42.com/company/zaggle/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Zomato",
+      "url": "https://inc42.com/company/zomato/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Mamaearth",
+      "url": "https://inc42.com/company/mamaearth/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "TAC Security",
+      "url": "https://inc42.com/company/tac-security/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Digit Insurance",
+      "url": "https://inc42.com/company/digit-insurance/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Awfis",
+      "url": "https://inc42.com/company/awfis/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Ixigo",
+      "url": "https://inc42.com/company/ixigo/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Menhood",
+      "url": "https://inc42.com/company/menhood/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Ola Electric",
+      "url": "https://inc42.com/company/ola-electric/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "FirstCry",
+      "url": "https://inc42.com/company/firstcry/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Unicommerce",
+      "url": "https://inc42.com/company/unicommerce/?itm_medium=website&itm_source=inc42-footer&itm_campaign=listed-startups&itm_content=company"
+    },
+    {
+      "text": "Peak XV Partners",
+      "url": "https://inc42.com/company/peak-xv-partners/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Blume Ventures",
+      "url": "https://inc42.com/company/blume-ventures/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Venture Catalysts",
+      "url": "https://inc42.com/company/venture-catalysts/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Inflection Point Ventures",
+      "url": "https://inc42.com/company/inflection-point-ventures/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Matrix Partners India",
+      "url": "https://inc42.com/company/matrix-partners-india/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Kalaari Capital",
+      "url": "https://inc42.com/company/kalaari-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Mumbai Angels",
+      "url": "https://inc42.com/company/mumbai-angels/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "9Unicorns Accelerator Fund",
+      "url": "https://inc42.com/company/9unicorns-accelerator-fund/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Indian Angel Network",
+      "url": "https://inc42.com/company/indian-angel-network/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Titan Capital",
+      "url": "https://inc42.com/company/titan-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "3one4 Capital",
+      "url": "https://inc42.com/company/3one4-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Elevation Capital",
+      "url": "https://inc42.com/company/elevation-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Brand Capital",
+      "url": "https://inc42.com/company/brand-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "InnoVen Capital",
+      "url": "https://inc42.com/company/innoven-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "India Quotient",
+      "url": "https://inc42.com/company/india-quotient/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Chiratae Ventures",
+      "url": "https://inc42.com/company/chiratae-ventures/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Trifecta Capital Advisors",
+      "url": "https://inc42.com/company/trifecta-capital-advisors/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Alteria Capital",
+      "url": "https://inc42.com/company/alteria-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Axilor Ventures",
+      "url": "https://inc42.com/company/axilor-ventures/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Kae Capital",
+      "url": "https://inc42.com/company/kae-capital/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "100X.VC",
+      "url": "https://inc42.com/company/100x-vc/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "ah! Ventures",
+      "url": "https://inc42.com/company/ah-ventures/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Fireside Ventures",
+      "url": "https://inc42.com/company/fireside-ventures/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Lightspeed India Partners",
+      "url": "https://inc42.com/company/lightspeed-india-partners/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "Orios Venture Partners",
+      "url": "https://inc42.com/company/orios-venture-partners/?itm_medium=website&itm_source=inc42-footer&itm_campaign=investors&itm_content=investor"
+    },
+    {
+      "text": "News",
+      "url": "https://inc42.com/buzz/"
+    },
+    {
+      "text": "In-Depth",
+      "url": "https://inc42.com/features/"
+    },
+    {
+      "text": "Startup Spotlight",
+      "url": "https://inc42.com/startup-spotlight/"
+    },
+    {
+      "text": "Newsletter",
+      "url": "https://inc42.com/newsletter/"
+    },
+    {
+      "text": "Resources",
+      "url": "https://inc42.com/resources/"
+    },
+    {
+      "text": "Glossary",
+      "url": "https://inc42.com/glossary/"
+    },
+    {
+      "text": "Company",
+      "url": "https://inc42.com/company/"
+    },
+    {
+      "text": "Investor",
+      "url": "https://inc42.com/investor/"
+    },
+    {
+      "text": "Research Report",
+      "url": "https://inc42.com/reports/"
+    },
+    {
+      "text": "Industry",
+      "url": "https://inc42.com/industry/"
+    },
+    {
+      "text": "Location",
+      "url": "https://inc42.com/location/"
+    },
+    {
+      "text": "D2CX",
+      "url": "https://d2cx.co/"
+    },
+    {
+      "text": "MANAGEMENTX",
+      "url": "https://managementx.com/"
+    },
+    {
+      "text": "ANGELX",
+      "url": "https://angelx.vc/"
+    },
+    {
+      "text": "Griffin Retreat",
+      "url": "https://griffin.club/"
+    },
+    {
+      "text": "FAST42 D2C Edition 2025",
+      "url": "https://inc42.com/fast42-2025-d2c-edition/"
+    },
+    {
+      "text": "The GenAI Summit 2025",
+      "url": "https://events.inc42.com/genai-summit/"
+    },
+    {
+      "text": "D2C Retreat 2025",
+      "url": "https://d2cretreat.com/"
+    },
+    {
+      "text": "MoneyX 2025",
+      "url": "https://moneyx.vc/"
+    },
+    {
+      "text": "The D2C Summit 2025",
+      "url": "https://thed2csummit.co/"
+    },
+    {
+      "text": "Partner With Inc42",
+      "url": "https://brandlabs.inc42.com/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://inc42.com/about/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://inc42.com/contact/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://inc42.keka.com/careers"
+    },
+    {
+      "text": "terms of use",
+      "url": "https://inc42.com/terms-and-conditions/"
+    },
+    {
+      "text": "disclaimer",
+      "url": "https://inc42.com/disclaimer/"
+    },
+    {
+      "text": "privacy policy",
+      "url": "https://inc42.com/privacy-policy/"
+    },
+    {
+      "text": "refund policy",
+      "url": "https://inc42.com/refund-policy/"
+    },
+    {
+      "text": "Join Inc42+",
+      "url": "/plus"
+    },
+    {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
+      "text": "News",
+      "url": "https://inc42.com/buzz/"
+    },
+    {
+      "text": "In Depth",
+      "url": "https://inc42.com/features/"
+    },
+    {
+      "text": "Startup Stories",
+      "url": "/startups"
+    },
+    {
+      "text": "FinTech",
+      "url": "https://inc42.com/industry/fintech/"
+    },
+    {
+      "text": "TravelTech",
+      "url": "https://inc42.com/industry/traveltech/"
+    },
+    {
+      "text": "Electric Vehicles",
+      "url": "https://inc42.com/industry/electric-vehicles/"
+    },
+    {
+      "text": "HealthTech",
+      "url": "https://inc42.com/industry/healthtech/"
+    },
+    {
+      "text": "EdTech",
+      "url": "https://inc42.com/industry/edtech/"
+    },
+    {
+      "text": "IT",
+      "url": "https://inc42.com/industry/it/"
+    },
+    {
+      "text": "Logistics",
+      "url": "https://inc42.com/industry/logistics/"
+    },
+    {
+      "text": "Retail",
+      "url": "https://inc42.com/industry/retail/"
+    },
+    {
+      "text": "Ecommerce",
+      "url": "https://inc42.com/industry/ecommerce/"
+    },
+    {
+      "text": "Startup Ecosystem",
+      "url": "https://inc42.com/industry/startup-ecosystem/"
+    },
+    {
+      "text": "EnterpriseTech",
+      "url": "https://inc42.com/industry/enterprisetech/"
+    },
+    {
+      "text": "CleanTech",
+      "url": "https://inc42.com/industry/cleantech/"
+    },
+    {
+      "text": "Consumer Internet",
+      "url": "https://inc42.com/industry/consumer-internet/"
+    },
+    {
+      "text": "AgriTech",
+      "url": "https://inc42.com/industry/agritech/"
+    },
+    {
+      "text": "WHAT THE FINANCIALS",
+      "url": "https://inc42.com/tag/what-the-financials/"
+    },
+    {
+      "text": "30 Startups To Watch",
+      "url": "https://inc42.com/tag/30-startups-to-watch/"
+    },
+    {
+      "text": "Weekly Startup Funding",
+      "url": "https://inc42.com/tag/funding-galore/"
+    },
+    {
+      "text": "New Age Tech Stocks",
+      "url": "https://inc42.com/tag/new-age-tech-stocks/"
+    },
+    {
+      "text": "Resources",
+      "url": "/resources"
+    },
+    {
+      "text": "Glossary",
+      "url": "https://inc42.com/glossary/?itm_medium=website&itm_source=website&itm_campaign=menu&itm_content=d2c-economy"
+    },
+    {
+      "text": "Videos",
+      "url": "https://inc42.com/videos/"
+    },
+    {
+      "text": "Inc42 Plus",
+      "url": "/plus"
+    },
+    {
+      "text": "Inc42 Datalabs",
+      "url": "https://inc42.com/datalabs/"
+    },
+    {
+      "text": "Research Reports",
+      "url": "https://inc42.com/reports/"
+    },
+    {
+      "text": "D2CX",
+      "url": "https://d2cx.co/?utm_medium=website&utm_source=menu&utm_campaign=d2cx-2024&utm_content=hamburger-menu"
+    },
+    {
+      "text": "AngelX",
+      "url": "https://angelx.vc/?utm_medium=website&utm_source=menu&utm_campaign=angelx&utm_content=hamburger-menu"
+    },
+    {
+      "text": "ManagementX",
+      "url": "https://managementx.com/?utm_medium=website&utm_source=menu&utm_campaign=angelx&utm_content=hamburger-menu"
+    },
+    {
+      "text": "My Inc42",
+      "url": "#"
+    },
+    {
+      "text": "My Feed",
+      "url": "/my-inc42/#myFeed"
+    },
+    {
+      "text": "Member Library",
+      "url": "/my-inc42/#memberLibrary"
+    },
+    {
+      "text": "My Membership",
+      "url": "/my-inc42/#myMembership"
+    },
+    {
+      "text": "Account Setting",
+      "url": "/my-inc42/#accountSetting"
+    },
+    {
+      "text": "Inc42 Startup Spotlight",
+      "url": "https://inc42.typeform.com/to/QILhCuDo?utm_source=website%20&utm_medium=website%20&utm_campaign=menu"
+    },
+    {
+      "text": "Get Featured On Inc42",
+      "url": "https://inc42.com/startup-submission/"
+    },
+    {
+      "text": "Contribute On Inc42",
+      "url": "https://inc42.com/contact/"
+    },
+    {
+      "text": "Advertise On Inc42",
+      "url": "https://brandlabs.inc42.com/"
+    },
+    {
+      "text": "About Inc42",
+      "url": "https://inc42.com/about/"
+    },
+    {
+      "text": "Contact Inc42",
+      "url": "https://inc42.com/contact/"
+    },
+    {
+      "text": "Careers At Inc42",
+      "url": "https://careers.inc42.com/jobs/"
+    },
+    {
+      "text": "Ethics @ Inc42",
+      "url": "https://inc42.com/ethics/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://inc42.com/terms-and-conditions/"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "/disclaimer/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "Refund Policy",
+      "url": "/refund-policy/"
+    },
+    {
+      "text": "Advanced filter",
+      "url": "/company/"
+    },
+    {
+      "text": "News",
+      "url": "https://inc42.com/buzz/"
+    },
+    {
+      "text": "Jack Dorsey’s Bitchat Goes Offline In India, Apple Cites MeitY Order",
+      "url": "https://inc42.com/buzz/jack-dorseys-bitchat-goes-offline-in-india-apple-cites-meity-order/"
+    },
+    {
+      "text": "By Gaurav B.",
+      "url": "https://inc42.com/author/gaurav-bagur/"
+    },
+    {
+      "text": "Media & Entertainment",
+      "url": "/industry/media-entertainment/"
+    },
+    {
+      "text": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6...",
+      "url": "https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/"
+    },
+    {
+      "text": "By Anne F.",
+      "url": "https://inc42.com/author/anne-florentyna/"
+    },
+    {
+      "text": "News",
+      "url": "https://inc42.com/buzz/"
+    },
+    {
+      "text": "New-Age Tech Stocks Extend Slide, Turtlemint Slumps Another 20% This W...",
+      "url": "https://inc42.com/buzz/new-age-tech-stocks-extend-slide-turtlemint-slumps-another-20-this-week/"
+    },
+    {
+      "text": "By Akshit P.",
+      "url": "https://inc42.com/author/akshit-pushkarna/"
+    },
+    {
+      "text": "In-Depth",
+      "url": "https://inc42.com/features/"
+    },
+    {
+      "text": "Is Apple Pay’s India Entry Too Late?",
+      "url": "https://inc42.com/features/is-apple-pays-india-entry-too-late/"
+    },
+    {
+      "text": "By Debarghya S.",
+      "url": "https://inc42.com/author/debarghya-sil/"
+    },
+    {
+      "text": "In-Depth",
+      "url": "https://inc42.com/features/"
+    },
+    {
+      "text": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More...",
+      "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/"
+    },
+    {
+      "text": "By Akshit P.",
+      "url": "https://inc42.com/author/akshit-pushkarna/"
+    },
+    {
+      "text": "In-Depth",
+      "url": "https://inc42.com/features/"
+    },
+    {
+      "text": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+      "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/"
+    },
+    {
+      "text": "By Shraddha G.",
+      "url": "https://inc42.com/author/shraddha-goled/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/checkout/?add-to-cart=296961"
+    },
+    {
+      "text": "Become a member",
+      "url": "/checkout/?add-to-cart=296962"
+    },
+    {
+      "text": "Become a member",
+      "url": "/checkout/?add-to-cart=296958"
+    },
+    {
+      "text": "Become a member                        ₹\n                        7999",
+      "url": "/checkout/?add-to-cart=296961"
+    },
+    {
+      "text": "Sign In Here",
+      "url": ""
+    },
+    {
+      "text": "Unlimited\n                                    Access Unlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of\n                                    40,000+ stories.",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "Inc42 Academy Unlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of\n                                    40,000+ stories.",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "Startup Deals Over $250,000 worth deals on software & tools to help your business scale up.",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "Member-Only\n                                    Events Network with industry leaders & operators with exclusive invites to Inc42’s\n                                    member-only virtual events",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "Clutter-Free Experience Enjoy an ad-free and clutter-free\n                                    experience as a member, focus on\n                                    what really matters to you",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "Support Independent\n                                    Journalism Your contribution will go on to\n                                    support and empower our unbiased\n                                    & data-driven journalism",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "Join Inc42 Plus Now",
+      "url": "#membership"
+    },
+    {
+      "text": "Sign In To Inc42",
+      "url": "#"
+    },
+    {
+      "text": "Sign In To Inc42",
+      "url": "#"
+    },
+    {
+      "text": "REGISTER NOW",
+      "url": "javascript:void(0);"
+    },
+    {
+      "text": "LOGIN",
+      "url": "javascript:void(0);"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_cto.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_cto.html",
+  "sha256": "7a70e51b4c4cb970978f3f7722311498b5cca421bce8e13332ca28b5ac62bd5a",
+  "text_length": 13683
+}

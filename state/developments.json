@@ -1,0 +1,364 @@
+{
+  "developments": [
+    {
+      "development_id": "booking-lola-2026-09-29",
+      "company": "Booking Holdings",
+      "brand": "Lola",
+      "topic": "strategy_ai",
+      "title": "Lola membership and multi-category AI assistant",
+      "event_date": "2026-09-29",
+      "reporting_period": null,
+      "claim_type": "reported_fact",
+      "claim_text": "Lola published an AI experiences assistant and membership announcement; current FAQ restricts access to invitation waves.",
+      "ai_status": "piloted",
+      "outcome_evidence_status": "not_independently_evidenced",
+      "source_ids": [
+        "lola_launch",
+        "lola_home"
+      ],
+      "source_url": "https://lola.com/blog/lola-launches-ai-powered-experiences-memberships-and-new-partners",
+      "publication_date": "2026-09-29",
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\lola_launch.txt",
+      "evidence_locator": "Personalized Discovery Meets Member Access",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "No independently measured outcome evidence; paid plans forthcoming.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "lola_launch",
+          "accessed_url": "https://lola.com/blog/lola-launches-ai-powered-experiences-memberships-and-new-partners",
+          "publication_date": "2026-09-29",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\lola_launch.txt",
+          "citation_id": 1
+        },
+        {
+          "source_id": "lola_home",
+          "accessed_url": "https://www.lola.com/",
+          "publication_date": null,
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\lola_home.txt",
+          "citation_id": 2
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "lola_launch",
+            "lola_home"
+          ]
+        }
+      ]
+    },
+    {
+      "development_id": "expedia-qantas-2026-09-30",
+      "company": "Expedia Group",
+      "brand": "Expedia Group B2B",
+      "topic": "strategy_ai",
+      "title": "Qantas Loyalty technology partnership",
+      "event_date": "2026-09-30",
+      "reporting_period": null,
+      "claim_type": "reported_fact",
+      "claim_text": "Expedia published the Qantas partnership announcement; integration is underway.",
+      "ai_status": "announced",
+      "outcome_evidence_status": "not_independently_evidenced",
+      "source_ids": [
+        "expedia_qantas"
+      ],
+      "source_url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/QANTAS-LOYALTY-PARTNERS-WITH-EXPEDIA-GROUP-TO-TRANSFORM-QANTAS-HOTELS--HOLIDAYS-BOOKING-EXPERIENCE/default.aspx",
+      "publication_date": "2026-09-30",
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\expedia_qantas.txt",
+      "evidence_locator": "Build and integration work",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "H1 2027 launch is a management schedule, not evidence of current availability.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "expedia_qantas",
+          "accessed_url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/QANTAS-LOYALTY-PARTNERS-WITH-EXPEDIA-GROUP-TO-TRANSFORM-QANTAS-HOTELS--HOLIDAYS-BOOKING-EXPERIENCE/default.aspx",
+          "publication_date": "2026-09-30",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\expedia_qantas.txt",
+          "citation_id": 3
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "expedia_qantas"
+          ]
+        }
+      ]
+    },
+    {
+      "development_id": "trip-uk-tours-2026-10-02",
+      "company": "Trip.com Group",
+      "brand": "Trip.com",
+      "topic": "strategy",
+      "title": "Women in Travel CIC UK tours",
+      "event_date": "2026-10-02",
+      "reporting_period": null,
+      "claim_type": "reported_fact",
+      "claim_text": "Trip.com announced three women-led tours in London, Edinburgh and Manchester.",
+      "ai_status": null,
+      "outcome_evidence_status": "not_applicable",
+      "source_ids": [
+        "trip_uk_tours"
+      ],
+      "source_url": "https://group.trip.com/media/article_detail/Trip-com-Group-and-Women-in-Travel-CIC-Launch-Tours-Across-the-UK?id=757",
+      "publication_date": "2026-10-02",
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_uk_tours.txt",
+      "evidence_locator": "Opening paragraph",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "No booking-volume or revenue data supplied.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "trip_uk_tours",
+          "accessed_url": "https://group.trip.com/media/article_detail/Trip-com-Group-and-Women-in-Travel-CIC-Launch-Tours-Across-the-UK?id=757",
+          "publication_date": "2026-10-02",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_uk_tours.txt",
+          "citation_id": 4
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "trip_uk_tours"
+          ]
+        }
+      ]
+    },
+    {
+      "development_id": "mmyt-myra-cto-2026-09-30",
+      "company": "MakeMyTrip",
+      "brand": "Myra",
+      "topic": "strategy_ai",
+      "title": "CTO describes multi-agent travel architecture",
+      "event_date": null,
+      "reporting_period": null,
+      "claim_type": "management_claim",
+      "claim_text": "CTO says Myra uses around 10-12 specialist agents and mixes model types.",
+      "ai_status": "launched",
+      "outcome_evidence_status": "not_independently_evidenced",
+      "source_ids": [
+        "mmyt_cto"
+      ],
+      "source_url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-cto/",
+      "publication_date": "2026-09-30",
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_cto.txt",
+      "evidence_locator": "How Myra Handles Travel Queries",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "Existing deployed assistant according to CTO; no new launch verified or independently measured outcomes.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "mmyt_cto",
+          "accessed_url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-cto/",
+          "publication_date": "2026-09-30",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_cto.txt",
+          "citation_id": 5
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "mmyt_cto"
+          ]
+        }
+      ]
+    },
+    {
+      "development_id": "airbnb-fall-2026-09-30",
+      "company": "Airbnb",
+      "brand": "Airbnb",
+      "topic": "strategy_ai",
+      "title": "Fall update: social discovery, AI search and services",
+      "event_date": "2026-09-30",
+      "reporting_period": null,
+      "claim_type": "reported_fact",
+      "claim_text": "Airbnb published a fall update introducing US-first AI search, filters, listing descriptions, and home comparisons.",
+      "ai_status": "launched",
+      "outcome_evidence_status": "not_independently_evidenced",
+      "source_ids": [
+        "airbnb_fall",
+        "airbnb_techcrunch"
+      ],
+      "source_url": "https://news.airbnb.com/airbnb-2026-fall-update",
+      "publication_date": "2026-09-30",
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_fall.txt",
+      "evidence_locator": "Better AI-powered trip planning",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "Company-reported rollout, press corroboration, no hands-on test or independently measured business impact.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "airbnb_fall",
+          "accessed_url": "https://news.airbnb.com/airbnb-2026-fall-update",
+          "publication_date": "2026-09-30",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_fall.txt",
+          "citation_id": 6
+        },
+        {
+          "source_id": "airbnb_techcrunch",
+          "accessed_url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+          "publication_date": "2026-09-30",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_techcrunch.txt",
+          "citation_id": 8
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "airbnb_fall",
+            "airbnb_techcrunch"
+          ]
+        }
+      ]
+    },
+    {
+      "development_id": "booking-cfo-aiq-2026-10-01",
+      "company": "Booking Holdings",
+      "brand": null,
+      "topic": "strategy_ai",
+      "title": "CFO discusses AI cost routing and productivity",
+      "event_date": "2026-10-01",
+      "reporting_period": null,
+      "claim_type": "management_claim",
+      "claim_text": "CFO reports roughly 30% more production code and early customer-service/conversion benefits.",
+      "ai_status": null,
+      "outcome_evidence_status": "not_independently_evidenced",
+      "source_ids": [
+        "booking_cfo"
+      ],
+      "source_url": "https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/",
+      "publication_date": "2026-10-02",
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\booking_cfo.txt",
+      "evidence_locator": "Watching the token bill",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "Measurement period, comparable baseline, methodology, and independent validation unavailable.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "booking_cfo",
+          "accessed_url": "https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/",
+          "publication_date": "2026-10-02",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\booking_cfo.txt",
+          "citation_id": 7
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "booking_cfo"
+          ]
+        }
+      ]
+    },
+    {
+      "development_id": "mmyt-6k-0001193125-26-403477",
+      "company": "MakeMyTrip",
+      "brand": null,
+      "topic": "governance",
+      "title": "September 28 Form 6-K filing",
+      "event_date": "2026-09-28",
+      "reporting_period": null,
+      "claim_type": "reported_fact",
+      "claim_text": "SEC submission metadata lists the 6-K; primary filing body was blocked.",
+      "ai_status": null,
+      "outcome_evidence_status": "not_applicable",
+      "source_ids": [
+        "sec_mmyt",
+        "mmyt_agm_primary"
+      ],
+      "source_url": "https://data.sec.gov/submissions/CIK0001495153.json",
+      "publication_date": null,
+      "retrieval_date": "2026-10-04",
+      "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_mmyt.pretty.json",
+      "evidence_locator": "filings.recent; accession 0001193125-26-403477",
+      "first_seen": "2026-10-04",
+      "last_checked": "2026-10-04",
+      "limitations": "No verified voting outcome or new financial figures.",
+      "status": "pilot_reported",
+      "source_provenance": [
+        {
+          "source_id": "sec_mmyt",
+          "accessed_url": "https://data.sec.gov/submissions/CIK0001495153.json",
+          "publication_date": null,
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_mmyt.pretty.json",
+          "citation_id": 15
+        },
+        {
+          "source_id": "mmyt_agm_primary",
+          "accessed_url": "https://www.sec.gov/Archives/edgar/data/1495153/000119312526403477/mmyt-6k-post_agm-sep_202.htm",
+          "publication_date": "2026-09-28",
+          "retrieval_date": "2026-10-04",
+          "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_agm_primary.txt",
+          "citation_id": 17
+        }
+      ],
+      "history": [
+        {
+          "checked": "2026-10-04T14:49:59.001671+05:30",
+          "status": "first_pilot_record"
+        },
+        {
+          "checked": "2026-10-04T14:52:11.920363+05:30",
+          "source_ids": [
+            "sec_mmyt",
+            "mmyt_agm_primary"
+          ]
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-10-04T14:52:11.920363+05:30"
+}

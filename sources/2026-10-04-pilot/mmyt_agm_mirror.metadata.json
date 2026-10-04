@@ -1,0 +1,443 @@
+{
+  "source_id": "mmyt_agm_mirror",
+  "accessed_url": "https://www.metatrader.com/en/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:43:19.752949+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://www.metatrader.com/en/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026",
+  "title": "Makemytrip Ltd current report, Q3 FY2026 (NASDAQ:MMYT) | MetaTrader",
+  "date_metadata": [],
+  "json_ld": [
+    "{\"@context\":\"https://schema.org\",\"@type\":\"Corporation\",\"tickerSymbol\":\"MMYT\",\"name\":\"MakeMyTrip Limited\",\"description\":\"MakeMyTrip Limited is an Indian online travel company, headquartered in Gurgaon. Founded in 2000, it operates an online travel-booking platform for travel services such as airline tickets, hotel reservations, holiday packages, and rail and bus tickets. The company also maintains offices outside India, including locations in New York, Singapore, Kuala Lumpur, Phuket, Bangkok, Dubai and Istanbul.\\nIn 2016, MakeMyTrip acquired the Ibibo Group, which owned sites such as Goibibo and Redbus.in.\"}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Markets\",\"item\":\"https://www.metatrader.com/en/markets\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"US Stock Market\",\"item\":\"https://www.metatrader.com/en/markets/stocks\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Consumer Cyclical\",\"item\":\"https://www.metatrader.com/en/markets/stocks/consumercyclical\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Travel Services\",\"item\":\"https://www.metatrader.com/en/markets/stocks/consumercyclical/travel-services\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"MMYT\",\"item\":\"https://www.metatrader.com/en/symbols/nasdaq/mmyt\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"Documents\",\"item\":\"https://www.metatrader.com/en/symbols/nasdaq/mmyt/documents\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"Makemytrip Ltd current report, Q3 FY2026\"}]}"
+  ],
+  "links": [
+    {
+      "text": "Markets",
+      "url": "/en/markets"
+    },
+    {
+      "text": "Charts & Ideas",
+      "url": "/en/ideas"
+    },
+    {
+      "text": "Algo",
+      "url": "/en/algotrading"
+    },
+    {
+      "text": "News",
+      "url": "/en/news"
+    },
+    {
+      "text": "Store",
+      "url": "/en/store"
+    },
+    {
+      "text": "Brokers",
+      "url": "/en/brokers"
+    },
+    {
+      "text": "Download",
+      "url": "/en/download"
+    },
+    {
+      "text": "Economic Calendar",
+      "url": "/en/economic-calendar"
+    },
+    {
+      "text": "Trading Signals",
+      "url": "/en/signals"
+    },
+    {
+      "text": "WebTerminal",
+      "url": "https://web.metatrader.app/terminal?mode=demo&lang=en"
+    },
+    {
+      "text": "Heatmap",
+      "url": "/en/heatmap/stock"
+    },
+    {
+      "text": "Русский",
+      "url": "/ru/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "中文",
+      "url": "/zh/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Español",
+      "url": "/es/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Português",
+      "url": "/pt/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "日本語",
+      "url": "/ja/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Deutsch",
+      "url": "/de/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "한국어",
+      "url": "/ko/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Français",
+      "url": "/fr/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Italiano",
+      "url": "/it/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Türkçe",
+      "url": "/tr/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Markets",
+      "url": "/en/markets"
+    },
+    {
+      "text": "US Stock Market",
+      "url": "/en/markets/stocks"
+    },
+    {
+      "text": "Consumer Cyclical",
+      "url": "/en/markets/stocks/consumercyclical"
+    },
+    {
+      "text": "Travel Services",
+      "url": "/en/markets/stocks/consumercyclical/travel-services"
+    },
+    {
+      "text": "Open full chart",
+      "url": "/en/chart/nasdaq/mmyt"
+    },
+    {
+      "text": "Overview",
+      "url": "/en/symbols/nasdaq/mmyt"
+    },
+    {
+      "text": "Statement",
+      "url": "/en/symbols/nasdaq/mmyt/statement"
+    },
+    {
+      "text": "Statistics",
+      "url": "/en/symbols/nasdaq/mmyt/statistics"
+    },
+    {
+      "text": "Documents",
+      "url": "/en/symbols/nasdaq/mmyt/documents"
+    },
+    {
+      "text": "Current report, Q3 FY2026 2026.09.28 Makemytrip Ltd current report, Q3 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026"
+    },
+    {
+      "text": "Current report, Q3 FY2026 2026.08.07 Makemytrip Ltd current report, Q3 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/1565145-current-report-q3-fy2026"
+    },
+    {
+      "text": "Current report, Q3 FY2026 2026.08.03 Makemytrip Ltd current report, Q3 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/1470093-current-report-q3-fy2026"
+    },
+    {
+      "text": "Current report, Q3 FY2026 2026.07.17 Makemytrip Ltd current report, Q3 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/616240-current-report-q3-fy2026"
+    },
+    {
+      "text": "Current report, Q2 FY2026 2026.08.03 Makemytrip Ltd current report, Q2 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/1470095-current-report-q2-fy2026"
+    },
+    {
+      "text": "Current report, Q2 FY2026 2026.05.19 Makemytrip Ltd current report, Q2 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/271004-current-report-q2-fy2026"
+    },
+    {
+      "text": "Annual report, Q4 FY2026 2026.07.27 Makemytrip Ltd annual report, Q4 FY2026 20-F",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001495153/000119312526318134/mmyt-20260331.htm"
+    },
+    {
+      "text": "Current report, Q1 FY2026 2026.05.19 Makemytrip Ltd current report, Q1 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/271009-current-report-q1-fy2026"
+    },
+    {
+      "text": "Current report, Q1 FY2026 2026.03.16 Makemytrip Ltd current report, Q1 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/87313-current-report-q1-fy2026"
+    },
+    {
+      "text": "Current report, Q1 FY2026 2026.03.05 Makemytrip Ltd current report, Q1 FY2026 6-K",
+      "url": "/en/symbols/nasdaq/mmyt/documents/87311-current-report-q1-fy2026"
+    },
+    {
+      "text": "2",
+      "url": "/en/symbols/nasdaq/mmyt/documents/2"
+    },
+    {
+      "text": "3",
+      "url": "/en/symbols/nasdaq/mmyt/documents/3"
+    },
+    {
+      "text": "4",
+      "url": "/en/symbols/nasdaq/mmyt/documents/4"
+    },
+    {
+      "text": "5",
+      "url": "/en/symbols/nasdaq/mmyt/documents/5"
+    },
+    {
+      "text": "Full document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1495153/000119312526403477/mmyt-6k-post_agm-sep_202.htm"
+    },
+    {
+      "text": "News",
+      "url": "/en/news"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "Is It Worth Investing in MakeMyTrip (MMYT) Based on Wall Street's Bullish Views?",
+      "url": "/en/news/zacks/4296743-is-it-worth-investing-in-makemytrip-mmyt-based-on-wall"
+    },
+    {
+      "text": "Benzinga",
+      "url": "/en/news/benzinga"
+    },
+    {
+      "text": "B of A Securities Maintains Buy on MakeMyTrip, Lowers Price Target to $60",
+      "url": "/en/news/benzinga/4236259-b-of-a-securities-maintains-buy-on-makemytrip-lowers"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "Is MakeMyTrip (MMYT) a Buy as Wall Street Analysts Look Optimistic?",
+      "url": "/en/news/zacks/4048776-is-makemytrip-mmyt-a-buy-as-wall-street-analysts-look"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "Zacks Industry Outlook GoDaddy, Vipshop, MakeMyTrip and QuinStreet",
+      "url": "/en/news/zacks/3931349-zacks-industry-outlook-godaddy-vipshop-makemytrip-and"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "4 Internet Delivery Services Stocks in Focus From a Flourishing Industry",
+      "url": "/en/news/zacks/3924033-4-internet-delivery-services-stocks-in-focus-from-a"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "Brokers Suggest Investing in MakeMyTrip (MMYT): Read This Before Placing a Bet",
+      "url": "/en/news/zacks/3894336-brokers-suggest-investing-in-makemytrip-mmyt-read-this"
+    },
+    {
+      "text": "Seeking Alpha",
+      "url": "/en/news/seeking-alpha"
+    },
+    {
+      "text": "MakeMyTrip Limited (MMYT) Q1 2027 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4929593-makemytrip-limited-mmyt-q1-2027-earnings-call-transcript"
+    },
+    {
+      "text": "Benzinga",
+      "url": "/en/news/benzinga"
+    },
+    {
+      "text": "Jim Cramer: Eli Lilly Is A 'Good Company,' But Doesn't 'Really Care For' This Quantum Stock - Eli Lilly (",
+      "url": "/en/news/benzinga/1929975-jim-cramer-eli-lilly-is-a-good-company-but-doesn-t"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "MakeMyTrip (MMYT) Recently Broke Out Above the 20-Day Moving Average",
+      "url": "/en/news/zacks/1886745-makemytrip-mmyt-recently-broke-out-above-the-20-day"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "Wall Street Analysts See a 34.12% Upside in MakeMyTrip (MMYT): Can the Stock Really Move This High?",
+      "url": "/en/news/zacks/1881272-wall-street-analysts-see-a-34-12-upside-in-makemytrip"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "MakeMyTrip (MMYT) Suffers a Larger Drop Than the General Market: Key Insights",
+      "url": "/en/news/zacks/1876797-makemytrip-mmyt-suffers-a-larger-drop-than-the-general"
+    },
+    {
+      "text": "Zacks",
+      "url": "/en/news/zacks"
+    },
+    {
+      "text": "MakeMyTrip (MMYT) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "url": "/en/news/zacks/1854713-makemytrip-mmyt-stock-falls-amid-market-uptick-what"
+    },
+    {
+      "text": "Markets",
+      "url": "/en/markets"
+    },
+    {
+      "text": "US Stock Market",
+      "url": "/en/markets/stocks"
+    },
+    {
+      "text": "Currencies",
+      "url": "/en/markets/currencies"
+    },
+    {
+      "text": "Cryptocurrencies",
+      "url": "/en/markets/cryptocurrencies"
+    },
+    {
+      "text": "Metals",
+      "url": "/en/markets/metals"
+    },
+    {
+      "text": "Commodities",
+      "url": "/en/markets/commodities"
+    },
+    {
+      "text": "Charts & Ideas",
+      "url": "/en/ideas"
+    },
+    {
+      "text": "Trading Ideas",
+      "url": "/en/ideas"
+    },
+    {
+      "text": "Education Ideas",
+      "url": "/en/ideas/education"
+    },
+    {
+      "text": "Charts",
+      "url": "/en/ideas/charts"
+    },
+    {
+      "text": "MQL5 Community",
+      "url": "https://www.mql5.com"
+    },
+    {
+      "text": "Store",
+      "url": "https://www.mql5.com/en/market"
+    },
+    {
+      "text": "Signals",
+      "url": "https://www.mql5.com/en/signals"
+    },
+    {
+      "text": "Forum",
+      "url": "https://www.mql5.com/en/forum"
+    },
+    {
+      "text": "Articles",
+      "url": "https://www.mql5.com/en/articles"
+    },
+    {
+      "text": "CodeBase",
+      "url": "https://www.mql5.com/en/code"
+    },
+    {
+      "text": "News",
+      "url": "/en/news"
+    },
+    {
+      "text": "US Stock Market",
+      "url": "/en/markets/stocks"
+    },
+    {
+      "text": "Currencies",
+      "url": "/en/markets/currencies"
+    },
+    {
+      "text": "Cryptocurrencies",
+      "url": "/en/markets/cryptocurrencies"
+    },
+    {
+      "text": "Metals",
+      "url": "/en/markets/metals"
+    },
+    {
+      "text": "Commodities",
+      "url": "/en/markets/commodities"
+    },
+    {
+      "text": "Brokers",
+      "url": "/en/brokers"
+    },
+    {
+      "text": "All Brokers",
+      "url": "/en/brokers"
+    },
+    {
+      "text": "Forex",
+      "url": "/en/brokers/forex"
+    },
+    {
+      "text": "Stocks",
+      "url": "/en/brokers/stocks"
+    },
+    {
+      "text": "Metals",
+      "url": "/en/brokers/metals"
+    },
+    {
+      "text": "MetaTrader 5",
+      "url": "https://www.metatrader5.com"
+    },
+    {
+      "text": "MQL5 Channels",
+      "url": "https://www.metatrader5.com/en/news/2270"
+    },
+    {
+      "text": "Economic Calendar",
+      "url": "https://www.tradays.com/en/download"
+    },
+    {
+      "text": "Risk Disclosure",
+      "url": "/en/about/disclaimer"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/en/about/terms"
+    },
+    {
+      "text": "Help",
+      "url": "/en/help"
+    },
+    {
+      "text": "Contacts and Requests",
+      "url": "/en/contact"
+    },
+    {
+      "text": "Legal",
+      "url": "https://www.metaquotes.net/en/legal"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_agm_mirror.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_agm_mirror.html",
+  "sha256": "b0300659f9705357c129807b6ede1ec4e831058faacb78b3640580b6db3636b8",
+  "text_length": 3106
+}

@@ -1,0 +1,337 @@
+[
+  {
+    "source_id": "agoda_ai_report",
+    "accessed_url": "https://www.agoda.com/press/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/?cb=nu4ray",
+    "publication_date": null,
+    "retrieval_timestamp": "2026-10-04T14:45:00.519451+05:30",
+    "retrieval_date": "2026-10-04",
+    "provenance": "live",
+    "http_status": 200,
+    "final_url": "https://www.agoda.com/press/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/?cb=nu4ray",
+    "title": "Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India » Agoda: See The World For Less",
+    "date_metadata": [
+      {
+        "property": "article:modified_time",
+        "content": "2026-09-30T09:04:14+00:00"
+      }
+    ],
+    "json_ld": [
+      "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/\",\"url\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/\",\"name\":\"Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India &#187; Agoda: See The World For Less\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.agoda.com\\/press\\/wp-content\\/uploads\\/2026\\/09\\/Slide1.png\",\"datePublished\":\"2026-09-25T08:49:05+00:00\",\"dateModified\":\"2026-09-30T09:04:14+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/#primaryimage\",\"url\":\"https:\\/\\/www.agoda.com\\/press\\/wp-content\\/uploads\\/2026\\/09\\/Slide1.png\",\"contentUrl\":\"https:\\/\\/www.agoda.com\\/press\\/wp-content\\/uploads\\/2026\\/09\\/Slide1.png\",\"width\":1920,\"height\":1080},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.agoda.com\\/press\\/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.agoda.com/press\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/#website\",\"url\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/\",\"name\":\"Agoda: See The World For Less\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/#organization\",\"name\":\"Agoda\",\"url\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/www.agoda.com\\/press\\/wp-content\\/uploads\\/2025\\/02\\/agoda-press-logo.svg\",\"contentUrl\":\"https:\\/\\/www.agoda.com\\/press\\/wp-content\\/uploads\\/2025\\/02\\/agoda-press-logo.svg\",\"width\":173,\"height\":41,\"caption\":\"Agoda\"},\"image\":{\"@id\":\"https:\\/\\/www.agoda.com/press\\/id-id\\/#\\/schema\\/logo\\/image\\/\"}}]}"
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://www.agoda.com/press/"
+      },
+      {
+        "text": "Newsroom",
+        "url": "https://www.agoda.com/press/newsroom/"
+      },
+      {
+        "text": "Media Assets",
+        "url": "https://www.agoda.com/press/media-assets/"
+      },
+      {
+        "text": "Leadership",
+        "url": "https://www.agoda.com/press/leadership/"
+      },
+      {
+        "text": "Agoda in the News",
+        "url": "https://www.agoda.com/press/agoda-in-the-news/"
+      },
+      {
+        "text": "Awards",
+        "url": "https://www.agoda.com/press/our-awards/"
+      },
+      {
+        "text": "Media Request",
+        "url": "https://www.agoda.com/press/media-request/"
+      },
+      {
+        "text": "Home",
+        "url": "https://www.agoda.com/press/"
+      },
+      {
+        "text": "Newsroom",
+        "url": "https://www.agoda.com/press/newsroom/"
+      },
+      {
+        "text": "Media Assets",
+        "url": "https://www.agoda.com/press/media-assets/"
+      },
+      {
+        "text": "Leadership",
+        "url": "https://www.agoda.com/press/leadership/"
+      },
+      {
+        "text": "Agoda in the News",
+        "url": "https://www.agoda.com/press/agoda-in-the-news/"
+      },
+      {
+        "text": "Awards",
+        "url": "https://www.agoda.com/press/our-awards/"
+      },
+      {
+        "text": "Media Request",
+        "url": "https://www.agoda.com/press/media-request/"
+      },
+      {
+        "text": "English",
+        "url": "https://www.agoda.com/press/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "繁體中文(香港) ( Chinese Simplified )",
+        "url": "https://www.agoda.com/press/zh-hk/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "日本語 ( Japanese )",
+        "url": "https://www.agoda.com/press/ja-jp/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "한국어 ( Korean )",
+        "url": "https://www.agoda.com/press/ko-kr/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Melayu ( Malay )",
+        "url": "https://www.agoda.com/press/ms-my/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "ไทย ( Thai )",
+        "url": "https://www.agoda.com/press/th-th/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Tiếng Việt ( Vietnamese )",
+        "url": "https://www.agoda.com/press/vi-vn/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Indonesian",
+        "url": "https://www.agoda.com/press/id-id/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Newsroom",
+        "url": "https://www.agoda.com/press/newsroom/"
+      },
+      {
+        "text": "apacdeveloperreport.com",
+        "url": "https://www.apacdeveloperreport.com/"
+      },
+      {
+        "text": "Back to main page",
+        "url": "https://www.agoda.com/press/newsroom/"
+      },
+      {
+        "text": "English",
+        "url": "https://www.agoda.com/press/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "繁體中文(香港) ( Chinese Simplified )",
+        "url": "https://www.agoda.com/press/zh-hk/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "日本語 ( Japanese )",
+        "url": "https://www.agoda.com/press/ja-jp/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "한국어 ( Korean )",
+        "url": "https://www.agoda.com/press/ko-kr/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Melayu ( Malay )",
+        "url": "https://www.agoda.com/press/ms-my/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "ไทย ( Thai )",
+        "url": "https://www.agoda.com/press/th-th/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Tiếng Việt ( Vietnamese )",
+        "url": "https://www.agoda.com/press/vi-vn/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Indonesian",
+        "url": "https://www.agoda.com/press/id-id/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "English",
+        "url": "https://www.agoda.com/press/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "繁體中文(香港) ( Chinese Simplified )",
+        "url": "https://www.agoda.com/press/zh-hk/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "日本語 ( Japanese )",
+        "url": "https://www.agoda.com/press/ja-jp/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "한국어 ( Korean )",
+        "url": "https://www.agoda.com/press/ko-kr/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Melayu ( Malay )",
+        "url": "https://www.agoda.com/press/ms-my/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "ไทย ( Thai )",
+        "url": "https://www.agoda.com/press/th-th/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Tiếng Việt ( Vietnamese )",
+        "url": "https://www.agoda.com/press/vi-vn/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      },
+      {
+        "text": "Indonesian",
+        "url": "https://www.agoda.com/press/id-id/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/"
+      }
+    ],
+    "access_status": "retrieved_needs_review",
+    "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\agoda_ai_report.txt",
+    "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\agoda_ai_report.html",
+    "sha256": "26e9173408005a1627604b084dd64ad0f639fd58ef0d5b78c51a98ea8a3b8e53",
+    "text_length": 5478
+  },
+  {
+    "source_id": "mmyt_agm_primary",
+    "accessed_url": "https://www.sec.gov/Archives/edgar/data/1495153/000119312526403477/mmyt-6k-post_agm-sep_202.htm",
+    "publication_date": null,
+    "retrieval_timestamp": "2026-10-04T14:45:00.520035+05:30",
+    "retrieval_date": "2026-10-04",
+    "provenance": "live",
+    "http_status": 403,
+    "final_url": "https://www.sec.gov/Archives/edgar/data/1495153/000119312526403477/mmyt-6k-post_agm-sep_202.htm",
+    "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+    "date_metadata": [],
+    "json_ld": [],
+    "links": [
+      {
+        "text": "sec.gov/developer",
+        "url": "https://www.sec.gov/developer"
+      },
+      {
+        "text": "sign up for email updates",
+        "url": "https://public.govdelivery.com/accounts/USSEC/subscriber/new?topic_id=USSEC_260"
+      },
+      {
+        "text": "opendata@sec.gov",
+        "url": "mailto:opendata@sec.gov"
+      },
+      {
+        "text": "Web Site Privacy and Security Policy",
+        "url": "#internet"
+      }
+    ],
+    "access_status": "blocked",
+    "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_agm_primary.txt",
+    "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\mmyt_agm_primary.html",
+    "sha256": "56a2c8402e8bab68da855d48bc879eec19b112dcc0e3385ee4ebd98073615f80",
+    "text_length": 2993
+  },
+  {
+    "source_id": "airbnb_form4_a",
+    "accessed_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526409153/xslF345X06/ownership.xml",
+    "publication_date": null,
+    "retrieval_timestamp": "2026-10-04T14:45:00.520329+05:30",
+    "retrieval_date": "2026-10-04",
+    "provenance": "live",
+    "http_status": 403,
+    "final_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526409153/xslF345X06/ownership.xml",
+    "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+    "date_metadata": [],
+    "json_ld": [],
+    "links": [
+      {
+        "text": "sec.gov/developer",
+        "url": "https://www.sec.gov/developer"
+      },
+      {
+        "text": "sign up for email updates",
+        "url": "https://public.govdelivery.com/accounts/USSEC/subscriber/new?topic_id=USSEC_260"
+      },
+      {
+        "text": "opendata@sec.gov",
+        "url": "mailto:opendata@sec.gov"
+      },
+      {
+        "text": "Web Site Privacy and Security Policy",
+        "url": "#internet"
+      }
+    ],
+    "access_status": "blocked",
+    "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form4_a.txt",
+    "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form4_a.html",
+    "sha256": "4722c852cf8f37841e0fe164744205c75bd3c71acf6fc02553459134935442c0",
+    "text_length": 2993
+  },
+  {
+    "source_id": "airbnb_form4_b",
+    "accessed_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526409120/xslF345X06/ownership.xml",
+    "publication_date": null,
+    "retrieval_timestamp": "2026-10-04T14:45:00.520559+05:30",
+    "retrieval_date": "2026-10-04",
+    "provenance": "live",
+    "http_status": 403,
+    "final_url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526409120/xslF345X06/ownership.xml",
+    "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+    "date_metadata": [],
+    "json_ld": [],
+    "links": [
+      {
+        "text": "sec.gov/developer",
+        "url": "https://www.sec.gov/developer"
+      },
+      {
+        "text": "sign up for email updates",
+        "url": "https://public.govdelivery.com/accounts/USSEC/subscriber/new?topic_id=USSEC_260"
+      },
+      {
+        "text": "opendata@sec.gov",
+        "url": "mailto:opendata@sec.gov"
+      },
+      {
+        "text": "Web Site Privacy and Security Policy",
+        "url": "#internet"
+      }
+    ],
+    "access_status": "blocked",
+    "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form4_b.txt",
+    "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form4_b.html",
+    "sha256": "9e31422e2cf7f48363e972e0062071454c6e41e3dc272a22149deebe71f20e0d",
+    "text_length": 2993
+  },
+  {
+    "source_id": "airbnb_form144",
+    "accessed_url": "https://www.sec.gov/Archives/edgar/data/1559720/000195917326007130/xsl144X01/primary_doc.xml",
+    "publication_date": null,
+    "retrieval_timestamp": "2026-10-04T14:45:00.520849+05:30",
+    "retrieval_date": "2026-10-04",
+    "provenance": "live",
+    "http_status": 403,
+    "final_url": "https://www.sec.gov/Archives/edgar/data/1559720/000195917326007130/xsl144X01/primary_doc.xml",
+    "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+    "date_metadata": [],
+    "json_ld": [],
+    "links": [
+      {
+        "text": "sec.gov/developer",
+        "url": "https://www.sec.gov/developer"
+      },
+      {
+        "text": "sign up for email updates",
+        "url": "https://public.govdelivery.com/accounts/USSEC/subscriber/new?topic_id=USSEC_260"
+      },
+      {
+        "text": "opendata@sec.gov",
+        "url": "mailto:opendata@sec.gov"
+      },
+      {
+        "text": "Web Site Privacy and Security Policy",
+        "url": "#internet"
+      }
+    ],
+    "access_status": "blocked",
+    "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form144.txt",
+    "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form144.html",
+    "sha256": "44c38dba06fe4108330e458fa8fc7561d0a7e6260696f78c1b93114539ff7ddb",
+    "text_length": 2993
+  }
+]

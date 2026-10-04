@@ -1,0 +1,374 @@
+{
+  "source_id": "booking_cfo",
+  "accessed_url": "https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:57.852838+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/",
+  "title": "Booking Holdings CFO says even AI hyperscalers don’t know their ROI—but he’s learning from his ‘AI coach’ | Fortune",
+  "date_metadata": [],
+  "json_ld": [
+    "{\"@context\":[\"https://schema.org\",{\"stnMeta\":{\"@id\":\"https://stnvideo.com\",\"@type\":\"@json\"}}],\"@type\":\"NewsArticle\",\"publisher\":{\"@type\":\"NewsMediaOrganization\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://fortune.com/static/media/logo.png\"},\"name\":\"Fortune\"},\"articleSection\":\"Conferences\",\"author\":[{\"@type\":\"Person\",\"name\":\"Nick Lichtenberg\",\"url\":\"https://fortune.com/author/nick-lichtenberg/\",\"email\":\"nick.lichtenberg@fortune.com\",\"image\":\"https://fortune.com/img-assets/wp-content/uploads/2022/03/1657913253055.jpg?w=150\"}],\"dateModified\":\"2026-10-02T20:19:55-00:00\",\"datePublished\":\"2026-10-02T14:42:43-00:00\",\"description\":\"At the Fortune AIQ Summit, Ewout Steenbergen said AI is cutting costs, but LLMs still only send the company less than 1% of room nights.\",\"headline\":\"Booking Holdings CFO says even AI hyperscalers don’t know their ROI—but he’s learning from his ‘AI coach’\",\"identifier\":4605755,\"image\":\"https://fortune.com/img-assets/wp-content/uploads/2026/10/55562516512_be5310e2c7_k.jpg\",\"keywords\":[\"Booking Holdings\"],\"mainEntityOfPage\":\"https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/\",\"thumbnailUrl\":\"https://fortune.com/img-assets/wp-content/uploads/2026/10/55562516512_be5310e2c7_k.jpg\",\"url\":\"https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach/\",\"isAccessibleForFree\":false,\"hasPart\":{\"@type\":\"WebPageElement\",\"cssSelector\":\".paywall\",\"isAccessibleForFree\":\"False\"},\"stnMeta\":{\"arcSpan\":[],\"bmb\":\"bmb\",\"campaign\":\"campaign\",\"ch\":\"conferences\",\"cid\":\"4605755\",\"franchise\":\"franchise\",\"tags\":[\"bookingholdings\"],\"topics\":[\"fortuneaiq\"],\"video\":[]}}"
+  ],
+  "links": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "Latest",
+      "url": "/section/latest/"
+    },
+    {
+      "text": "Fortune 500",
+      "url": "/section/fortune-500/"
+    },
+    {
+      "text": "Finance",
+      "url": "/section/finance/"
+    },
+    {
+      "text": "Tech",
+      "url": "/section/tech/"
+    },
+    {
+      "text": "Leadership",
+      "url": "/section/leadership/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/section/lifestyle/"
+    },
+    {
+      "text": "Rankings",
+      "url": "/ranking/"
+    },
+    {
+      "text": "Multimedia",
+      "url": "/multimedia/"
+    },
+    {
+      "text": "Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses",
+      "url": "https://fortune.com/article/how-much-has-google-cofounder-sergey-brin-spent-to-oppose-california-billionaire-tax-102-million-owe-13-billion-if-loses/?itm_source=parsely-api"
+    },
+    {
+      "text": "The 'golden passport': Argentina to offer citizenship for foreigners that make a $350,000 contribution to its treasury—or invest $800,000 in its bonds",
+      "url": "https://fortune.com/2026/10/02/golden-passport-argentina-foreigners-350000-treasury-800000/?itm_source=parsely-api"
+    },
+    {
+      "text": "Where Americans are moving by generation, according to U-Haul: Boomers pick the Carolinas, Gen Z picks Texas and California",
+      "url": "https://fortune.com/2026/10/03/where-americans-moving-generation-uhaul-boomers-gen-z-millennials-gen-x/?itm_source=parsely-api"
+    },
+    {
+      "text": "Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses",
+      "url": "https://fortune.com/article/how-much-has-google-cofounder-sergey-brin-spent-to-oppose-california-billionaire-tax-102-million-owe-13-billion-if-loses/?itm_source=parsely-api"
+    },
+    {
+      "text": "The 'golden passport': Argentina to offer citizenship for foreigners that make a $350,000 contribution to its treasury—or invest $800,000 in its bonds",
+      "url": "https://fortune.com/2026/10/02/golden-passport-argentina-foreigners-350000-treasury-800000/?itm_source=parsely-api"
+    },
+    {
+      "text": "Where Americans are moving by generation, according to U-Haul: Boomers pick the Carolinas, Gen Z picks Texas and California",
+      "url": "https://fortune.com/2026/10/03/where-americans-moving-generation-uhaul-boomers-gen-z-millennials-gen-x/?itm_source=parsely-api"
+    },
+    {
+      "text": "Conferences",
+      "url": "/section/conferences/"
+    },
+    {
+      "text": "Booking Holdings",
+      "url": "/tag/booking-holdings/"
+    },
+    {
+      "text": "Nick Lichtenberg",
+      "url": "/author/nick-lichtenberg/"
+    },
+    {
+      "text": "Nick Lichtenberg",
+      "url": "/author/nick-lichtenberg/"
+    },
+    {
+      "text": "Booking",
+      "url": "https://fortune.com/company/booking-holdings/"
+    },
+    {
+      "text": "Fortune AIQ Summit",
+      "url": "https://conferences.fortune.com/event/AIQ_Summit_2026/HOME"
+    },
+    {
+      "text": "Steenbergen said on the company’s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-bkng-q2-050626472.html"
+    },
+    {
+      "text": "Q2 call",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-bkng-q2-050626472.html"
+    },
+    {
+      "text": "Watch here.",
+      "url": "https://fortune.com/topic/fortune-daily/?&itm_source=fortune&itm_medium=article_tout&itm_campaign=fortune_daily"
+    },
+    {
+      "text": "Nick Lichtenberg",
+      "url": "/author/nick-lichtenberg/"
+    },
+    {
+      "text": "LinkedIn icon",
+      "url": "https://www.linkedin.com/in/nick-lichtenberg-6667b721/"
+    },
+    {
+      "text": "See full bio Right Arrow Button Icon",
+      "url": "/author/nick-lichtenberg/"
+    },
+    {
+      "text": "100 Best Companies",
+      "url": "https://fortune.com/ranking/best-companies/"
+    },
+    {
+      "text": "Fortune 500",
+      "url": "https://fortune.com/ranking/fortune500/"
+    },
+    {
+      "text": "Global 500",
+      "url": "https://fortune.com/ranking/global500/"
+    },
+    {
+      "text": "Fortune 500 Europe",
+      "url": "https://fortune.com/europe/ranking/fortune500-europe/"
+    },
+    {
+      "text": "Most Powerful Women",
+      "url": "https://fortune.com/ranking/most-powerful-women/"
+    },
+    {
+      "text": "World's Most Admired Companies",
+      "url": "https://fortune.com/ranking/worlds-most-admired-companies/"
+    },
+    {
+      "text": "See All Rankings",
+      "url": "https://fortune.com/ranking/"
+    },
+    {
+      "text": "Lists Calendar",
+      "url": "https://fortune.com/lists-calendar"
+    },
+    {
+      "text": "Finance",
+      "url": "/section/finance/"
+    },
+    {
+      "text": "Fortune Crypto",
+      "url": "/section/crypto/"
+    },
+    {
+      "text": "Features",
+      "url": "/section/features/"
+    },
+    {
+      "text": "Leadership",
+      "url": "/section/leadership/"
+    },
+    {
+      "text": "Health",
+      "url": "/section/health/"
+    },
+    {
+      "text": "Commentary",
+      "url": "/section/commentary/"
+    },
+    {
+      "text": "Success",
+      "url": "/section/success/"
+    },
+    {
+      "text": "Retail",
+      "url": "/section/retail/"
+    },
+    {
+      "text": "Mpw",
+      "url": "/section/mpw/"
+    },
+    {
+      "text": "Tech",
+      "url": "/section/tech/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/section/lifestyle/"
+    },
+    {
+      "text": "CEO Initiative",
+      "url": "https://conferences.fortune.com/event/the-fortune-ceo-initiative-2026/home"
+    },
+    {
+      "text": "Asia",
+      "url": "https://fortune.com/section/asia/"
+    },
+    {
+      "text": "Politics",
+      "url": "/section/politics/"
+    },
+    {
+      "text": "Conferences",
+      "url": "/section/conferences/"
+    },
+    {
+      "text": "Europe",
+      "url": "/section/europe/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/section/newsletters/"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "/section/personal-finance/"
+    },
+    {
+      "text": "Environment",
+      "url": "/section/environment/"
+    },
+    {
+      "text": "Magazine",
+      "url": "/section/magazine/"
+    },
+    {
+      "text": "Education",
+      "url": "https://fortune.com/education/"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "url": "https://fortunecustomerservice.zendesk.com/hc/en-us"
+    },
+    {
+      "text": "Customer Service Portal",
+      "url": "https://fortunecustomerservice.zendesk.com/hc/en-us"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "Terms Of Use",
+      "url": "https://fortune.com/terms-of-use/"
+    },
+    {
+      "text": "Single Issues For Purchase",
+      "url": "https://order.emags.com/fortune_single_issues"
+    },
+    {
+      "text": "International Print",
+      "url": "https://fortune.com/international-print-magazine-only-subscribers/"
+    },
+    {
+      "text": "Advertising",
+      "url": "https://fortune.com/advertising/"
+    },
+    {
+      "text": "Fortune Brand Studio",
+      "url": "https://fortune.com/brandstudio/fbs/portfolio/"
+    },
+    {
+      "text": "Fortune Analytics",
+      "url": "https://fortune.com/analytics"
+    },
+    {
+      "text": "Fortune Conferences",
+      "url": "https://fortune.com/conferences"
+    },
+    {
+      "text": "Business Development",
+      "url": "https://fortune.com/business-development/"
+    },
+    {
+      "text": "Group Subscriptions",
+      "url": "https://fortune.com/group-subscriptions/"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us/"
+    },
+    {
+      "text": "Press Center",
+      "url": "https://fortune.com/press-center/"
+    },
+    {
+      "text": "Work At Fortune",
+      "url": "https://fortune.wd108.myworkdayjobs.com/en-US/Fortune"
+    },
+    {
+      "text": "Terms And Conditions",
+      "url": "/terms-of-use/"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us/"
+    },
+    {
+      "text": "Press Center",
+      "url": "https://fortune.com/press-center/"
+    },
+    {
+      "text": "Work At Fortune",
+      "url": "https://fortune.wd108.myworkdayjobs.com/en-US/Fortune"
+    },
+    {
+      "text": "Terms And Conditions",
+      "url": "/terms-of-use/"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Facebook icon",
+      "url": "https://www.facebook.com/FortuneMagazine/"
+    },
+    {
+      "text": "Twitter icon",
+      "url": "https://x.com/FortuneMagazine/"
+    },
+    {
+      "text": "LinkedIn icon",
+      "url": "https://www.linkedin.com/company/fortune-magazine/"
+    },
+    {
+      "text": "Instagram icon",
+      "url": "https://www.instagram.com/fortunemag/"
+    },
+    {
+      "text": "TikTok icon",
+      "url": "https://www.tiktok.com/@fortune"
+    },
+    {
+      "text": "YouTube icon",
+      "url": "https://www.youtube.com/@fortune/featured"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://fortune.com/terms-of-use/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://fortune.com/privacy-policy/"
+    },
+    {
+      "text": "CA Notice at Collection and Privacy Notice",
+      "url": "/california-privacy-policy/#notice"
+    },
+    {
+      "text": "Do Not Sell/Share My Personal Information",
+      "url": "javascript:Optanon.ToggleInfoDisplay();"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\booking_cfo.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\booking_cfo.html",
+  "sha256": "6f9ef1b6ba7171c298154ae36afcba8e4846a59436b0205fa0d63260a6890f6b",
+  "text_length": 7786
+}

@@ -1,0 +1,399 @@
+{
+  "source_id": "airbnb_fall",
+  "accessed_url": "https://news.airbnb.com/airbnb-2026-fall-update",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:56.915970+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://news.airbnb.com/airbnb-2026-fall-update",
+  "title": "Airbnb 2026 fall update",
+  "date_metadata": [
+    {
+      "property": "og:title",
+      "content": "Airbnb 2026 fall update"
+    },
+    {
+      "property": "og:url",
+      "content": "https://news.airbnb.com/airbnb-2026-fall-update"
+    },
+    {
+      "property": "og:image",
+      "content": "https://news-assets.withairbnb.com/wp-content/uploads/sites/21/2026/09/Airbnb-2026-fall-update.png?quality=75&w=1200"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Airbnb 2026 fall update"
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://news-assets.withairbnb.com/wp-content/uploads/sites/21/2026/09/Airbnb-2026-fall-update.png?quality=75&w=1200"
+    }
+  ],
+  "json_ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#article\",\"isPartOf\":{\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update\"},\"author\":{\"name\":\"Airbnb\",\"@id\":\"https://news.airbnb.com/#/schema/person/d30ed8622c2b358bfb968fb447645c41\"},\"headline\":\"Airbnb 2026 fall update\",\"datePublished\":\"2026-09-30T12:00:00+00:00\",\"dateModified\":\"2026-09-30T12:08:19+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update\"},\"wordCount\":842,\"publisher\":{\"@id\":\"https://news.airbnb.com/#organization\"},\"image\":{\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#primaryimage\"},\"thumbnailUrl\":\"https://news.airbnb.com/wp-content/uploads/sites/21/2026/09/Airbnb-2026-fall-update.png\",\"articleSection\":[\"Product\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update\",\"url\":\"https://news.airbnb.com/airbnb-2026-fall-update\",\"name\":\"Airbnb 2026 fall update\",\"isPartOf\":{\"@id\":\"https://news.airbnb.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#primaryimage\"},\"image\":{\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#primaryimage\"},\"thumbnailUrl\":\"https://news.airbnb.com/wp-content/uploads/sites/21/2026/09/Airbnb-2026-fall-update.png\",\"datePublished\":\"2026-09-30T12:00:00+00:00\",\"dateModified\":\"2026-09-30T12:08:19+00:00\",\"description\":\"Get travel recommendations from people you know, plan your trip with AI, and book new services from meal delivery to baby gear\",\"breadcrumb\":{\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://news.airbnb.com/airbnb-2026-fall-update\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#primaryimage\",\"url\":\"https://news.airbnb.com/wp-content/uploads/sites/21/2026/09/Airbnb-2026-fall-update.png\",\"contentUrl\":\"https://news.airbnb.com/wp-content/uploads/sites/21/2026/09/Airbnb-2026-fall-update.png\",\"width\":2048,\"height\":1365},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://news.airbnb.com/airbnb-2026-fall-update#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://news.airbnb.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Airbnb 2026 fall update\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://news.airbnb.com/#website\",\"url\":\"https://news.airbnb.com/\",\"name\":\"Airbnb Newsroom\",\"description\":\"\",\"publisher\":{\"@id\":\"https://news.airbnb.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://news.airbnb.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://news.airbnb.com/#organization\",\"name\":\"Airbnb\",\"url\":\"https://news.airbnb.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://news.airbnb.com/#/schema/logo/image/\",\"url\":\"https://news.airbnb.com/wp-content/uploads/sites/21/2017/01/airbnb_vertical_lockup_web.png\",\"contentUrl\":\"https://news.airbnb.com/wp-content/uploads/sites/21/2017/01/airbnb_vertical_lockup_web.png\",\"width\":451,\"height\":493,\"caption\":\"Airbnb\"},\"image\":{\"@id\":\"https://news.airbnb.com/#/schema/logo/image/\"}},{\"@type\":\"Person\",\"@id\":\"https://news.airbnb.com/#/schema/person/d30ed8622c2b358bfb968fb447645c41\",\"name\":\"Airbnb\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://secure.gravatar.com/avatar/95110c47e5ba0ce0d4e52ab37d2e89ac1e48f0dedf51183d060e39eebf97bd9a?s=96\\u0026d=mm\\u0026r=g\",\"url\":\"https://secure.gravatar.com/avatar/95110c47e5ba0ce0d4e52ab37d2e89ac1e48f0dedf51183d060e39eebf97bd9a?s=96\\u0026d=mm\\u0026r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/95110c47e5ba0ce0d4e52ab37d2e89ac1e48f0dedf51183d060e39eebf97bd9a?s=96\\u0026d=mm\\u0026r=g\",\"caption\":\"Airbnb\"}}]}"
+  ],
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "#main"
+    },
+    {
+      "text": "Airbnb",
+      "url": "/"
+    },
+    {
+      "text": "Newsroom",
+      "url": "/"
+    },
+    {
+      "text": "About us",
+      "url": "/about-us"
+    },
+    {
+      "text": "Media assets",
+      "url": "/media-assets"
+    },
+    {
+      "text": "Product releases",
+      "url": "/product-releases"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "English",
+      "url": "/"
+    },
+    {
+      "text": "AU and NZ",
+      "url": "/en-au"
+    },
+    {
+      "text": "Canada",
+      "url": "/en-ca"
+    },
+    {
+      "text": "India",
+      "url": "/en-in"
+    },
+    {
+      "text": "Ireland",
+      "url": "/en-ie"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/en-uk"
+    },
+    {
+      "text": "Deutsch",
+      "url": "/de"
+    },
+    {
+      "text": "Español (América Latina)",
+      "url": "/ea"
+    },
+    {
+      "text": "Español (España)",
+      "url": "/es"
+    },
+    {
+      "text": "Français",
+      "url": "/fr"
+    },
+    {
+      "text": "Français (Belgique)",
+      "url": "/fr-be"
+    },
+    {
+      "text": "Français (Canada)",
+      "url": "/fr-ca"
+    },
+    {
+      "text": "Italiano",
+      "url": "/it"
+    },
+    {
+      "text": "Nederlands",
+      "url": "/nl"
+    },
+    {
+      "text": "Nederlands (België)",
+      "url": "/nl-be"
+    },
+    {
+      "text": "Português (Brasil)",
+      "url": "/br"
+    },
+    {
+      "text": "Português (Portugal)",
+      "url": "/pt"
+    },
+    {
+      "text": "简体中文",
+      "url": "/zh"
+    },
+    {
+      "text": "日本語",
+      "url": "/ja"
+    },
+    {
+      "text": "한국어",
+      "url": "/ko"
+    },
+    {
+      "text": "English",
+      "url": "/"
+    },
+    {
+      "text": "AU and NZ",
+      "url": "/en-au"
+    },
+    {
+      "text": "Canada",
+      "url": "/en-ca"
+    },
+    {
+      "text": "India",
+      "url": "/en-in"
+    },
+    {
+      "text": "Ireland",
+      "url": "/en-ie"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/en-uk"
+    },
+    {
+      "text": "Deutsch",
+      "url": "/de"
+    },
+    {
+      "text": "Español (América Latina)",
+      "url": "/ea"
+    },
+    {
+      "text": "Español (España)",
+      "url": "/es"
+    },
+    {
+      "text": "Français",
+      "url": "/fr"
+    },
+    {
+      "text": "Français (Belgique)",
+      "url": "/fr-be"
+    },
+    {
+      "text": "Français (Canada)",
+      "url": "/fr-ca"
+    },
+    {
+      "text": "Italiano",
+      "url": "/it"
+    },
+    {
+      "text": "Nederlands",
+      "url": "/nl"
+    },
+    {
+      "text": "Nederlands (België)",
+      "url": "/nl-be"
+    },
+    {
+      "text": "Português (Brasil)",
+      "url": "/br"
+    },
+    {
+      "text": "Português (Portugal)",
+      "url": "/pt"
+    },
+    {
+      "text": "简体中文",
+      "url": "/zh"
+    },
+    {
+      "text": "日本語",
+      "url": "/ja"
+    },
+    {
+      "text": "한국어",
+      "url": "/ko"
+    },
+    {
+      "text": "About us",
+      "url": "/about-us"
+    },
+    {
+      "text": "Media assets",
+      "url": "/media-assets"
+    },
+    {
+      "text": "Product releases",
+      "url": "/product-releases"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Product",
+      "url": "/category/product"
+    },
+    {
+      "text": "even more ways to travel on Airbnb",
+      "url": "https://news.airbnb.com/airbnb-2026-summer-release/"
+    },
+    {
+      "text": "Terms apply",
+      "url": "http://airbnb.com/help/article/4271"
+    },
+    {
+      "text": "Download logo assets",
+      "url": "https://news-assets.withairbnb.com/wp-content/uploads/sites/21/2025/05/2025_airbnb_brand-assets.zip"
+    },
+    {
+      "text": "Airbnb expands Groceries with Instacart across US and Canada",
+      "url": "/airbnb-expands-groceries-with-instacart-across-us-and-canada"
+    },
+    {
+      "text": "2026 Summer Release: Now there’s even more to Airbnb",
+      "url": "/airbnb-2026-summer-release"
+    },
+    {
+      "text": "Introducing private car services on Airbnb with Welcome Pickups",
+      "url": "/introducing-private-car-services-on-airbnb-with-welcome-pickups"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://www.airbnb.com/help"
+    },
+    {
+      "text": "AirCover",
+      "url": "https://www.airbnb.com/aircover"
+    },
+    {
+      "text": "Anti-discrimination",
+      "url": "https://www.airbnb.com/against-discrimination"
+    },
+    {
+      "text": "Disability support",
+      "url": "https://www.airbnb.com/accessibility"
+    },
+    {
+      "text": "Cancellation options",
+      "url": "https://www.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19"
+    },
+    {
+      "text": "Report neighborhood concern",
+      "url": "https://www.airbnb.com/neighbors"
+    },
+    {
+      "text": "Safety information",
+      "url": "https://www.airbnb.com/trust"
+    },
+    {
+      "text": "Our COVID-19 Response",
+      "url": "https://www.airbnb.com/d/covidsafety"
+    },
+    {
+      "text": "Supporting people with disabilities",
+      "url": "https://www.airbnb.com/accessibility"
+    },
+    {
+      "text": "Airbnb your home",
+      "url": "https://www.airbnb.com/host/homes"
+    },
+    {
+      "text": "AirCover for hosts",
+      "url": "https://www.airbnb.com/aircover-for-hosts"
+    },
+    {
+      "text": "Hosting resources",
+      "url": "https://www.airbnb.com/resources"
+    },
+    {
+      "text": "Community forum",
+      "url": "https://www.airbnb.com/help/community?s=footer"
+    },
+    {
+      "text": "Hosting responsibly",
+      "url": "https://www.airbnb.com/help/responsible-hosting"
+    },
+    {
+      "text": "Explore hosting resources",
+      "url": "https://www.airbnb.com/resources"
+    },
+    {
+      "text": "Visit our community forum",
+      "url": "https://www.airbnb.com/help/community?s=footer"
+    },
+    {
+      "text": "How to host responsibly",
+      "url": "https://www.airbnb.com/help/responsible-hosting"
+    },
+    {
+      "text": "Airbnb-friendly apartments",
+      "url": "https://www.airbnb.com/airbnb-friendly"
+    },
+    {
+      "text": "Newsroom",
+      "url": "/"
+    },
+    {
+      "text": "New features",
+      "url": "https://www.airbnb.com/release/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.airbnb.com/careers"
+    },
+    {
+      "text": "Investors",
+      "url": "https://investors.airbnb.com/home/default.aspx"
+    },
+    {
+      "text": "Gift cards",
+      "url": "https://www.airbnb.com/giftcards"
+    },
+    {
+      "text": "Airbnb.org emergency stays",
+      "url": "https://www.airbnb.org/?locale=en"
+    },
+    {
+      "text": "Learn about new features",
+      "url": "https://www.airbnb.com/release/"
+    },
+    {
+      "text": "Letter from our founders",
+      "url": "/what-makes-airbnb-airbnb"
+    },
+    {
+      "text": "Airbnb Luxe",
+      "url": "https://www.airbnb.com/luxury"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.airbnb.com/terms/privacy_policy"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.airbnb.com/terms"
+    },
+    {
+      "text": "Cookie Preferences",
+      "url": "#"
+    },
+    {
+      "text": "Your Privacy Choices",
+      "url": "#"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_fall.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_fall.html",
+  "sha256": "2feb1af63de496760e4ac395f80137fa19411c3c718fbfaa7d8555fbd5593f85",
+  "text_length": 5531
+}

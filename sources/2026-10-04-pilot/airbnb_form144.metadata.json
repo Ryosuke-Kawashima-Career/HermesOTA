@@ -1,0 +1,36 @@
+{
+  "source_id": "airbnb_form144",
+  "accessed_url": "https://www.sec.gov/Archives/edgar/data/1559720/000195917326007130/xsl144X01/primary_doc.xml",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:45:00.520849+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 403,
+  "final_url": "https://www.sec.gov/Archives/edgar/data/1559720/000195917326007130/xsl144X01/primary_doc.xml",
+  "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "sec.gov/developer",
+      "url": "https://www.sec.gov/developer"
+    },
+    {
+      "text": "sign up for email updates",
+      "url": "https://public.govdelivery.com/accounts/USSEC/subscriber/new?topic_id=USSEC_260"
+    },
+    {
+      "text": "opendata@sec.gov",
+      "url": "mailto:opendata@sec.gov"
+    },
+    {
+      "text": "Web Site Privacy and Security Policy",
+      "url": "#internet"
+    }
+  ],
+  "access_status": "blocked",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form144.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\airbnb_form144.html",
+  "sha256": "44c38dba06fe4108330e458fa8fc7561d0a7e6260696f78c1b93114539ff7ddb",
+  "text_length": 2993
+}

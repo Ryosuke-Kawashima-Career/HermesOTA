@@ -1,0 +1,24 @@
+{
+  "source_id": "trip_golden_trade",
+  "accessed_url": "https://www.traveldailynews.asia/statistics-trends/golden-week-travel-2026/",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:43:19.752148+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 403,
+  "final_url": "https://www.traveldailynews.asia/statistics-trends/golden-week-travel-2026/",
+  "title": "Attention Required! | Cloudflare",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "Cloudflare",
+      "url": "https://www.cloudflare.com/5xx-error-landing"
+    }
+  ],
+  "access_status": "blocked",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_golden_trade.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_golden_trade.html",
+  "sha256": "ec188dd6e845dc3af0530c1d1cf907d37f78edf5eed60f033da6dc1b4c26abb9",
+  "text_length": 764
+}

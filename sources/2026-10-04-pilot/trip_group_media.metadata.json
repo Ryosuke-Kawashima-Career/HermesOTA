@@ -1,0 +1,197 @@
+{
+  "source_id": "trip_group_media",
+  "accessed_url": "https://group.trip.com/media?locale=en-US",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:43:19.751865+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://group.trip.com/media?locale=en-US",
+  "title": "Trip.com Group | Media",
+  "date_metadata": [
+    {
+      "name": "description",
+      "content": "Discover the latest news and updates from Trip.com Group in our easy-to-navigate PR Media Centre, designed for journalists and media professionals."
+    }
+  ],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "Our story",
+      "url": "/about/story"
+    },
+    {
+      "text": "Leadership",
+      "url": "/about/leadership"
+    },
+    {
+      "text": "Sustainability",
+      "url": "/about/sustainability"
+    },
+    {
+      "text": "Diversity, equity & inclusion",
+      "url": "/about/equality"
+    },
+    {
+      "text": "Brands",
+      "url": "/brands"
+    },
+    {
+      "text": "Partners",
+      "url": "/partners"
+    },
+    {
+      "text": "Meet us at events",
+      "url": "/partners/events"
+    },
+    {
+      "text": "Hotels, Homes, and More",
+      "url": "/partners/industries/hotels"
+    },
+    {
+      "text": "Flights",
+      "url": "/partners/industries/flights"
+    },
+    {
+      "text": "Tours",
+      "url": "/partners/industries/tours"
+    },
+    {
+      "text": "Car rentals",
+      "url": "/partners/industries/car-rentals"
+    },
+    {
+      "text": "Cruises",
+      "url": "/partners/industries/cruises"
+    },
+    {
+      "text": "Trains",
+      "url": "/partners/industries/trains"
+    },
+    {
+      "text": "Corporate travel",
+      "url": "/partners/industries/corporate-travel"
+    },
+    {
+      "text": "Finance services",
+      "url": "/partners/industries/finance-services"
+    },
+    {
+      "text": "Investors",
+      "url": "https://investors.trip.com/"
+    },
+    {
+      "text": "Media",
+      "url": "/media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://careers.trip.com/#/"
+    },
+    {
+      "text": "Our story",
+      "url": "/about/story"
+    },
+    {
+      "text": "Leadership",
+      "url": "/about/leadership"
+    },
+    {
+      "text": "Sustainability",
+      "url": "/about/sustainability"
+    },
+    {
+      "text": "Diversity, equity & inclusion",
+      "url": "/about/equality"
+    },
+    {
+      "text": "Brands",
+      "url": "/brands"
+    },
+    {
+      "text": "Partners",
+      "url": "/partners"
+    },
+    {
+      "text": "Meet us at events",
+      "url": "/partners/events"
+    },
+    {
+      "text": "Hotels, Homes, and More",
+      "url": "/partners/industries/hotels"
+    },
+    {
+      "text": "Flights",
+      "url": "/partners/industries/flights"
+    },
+    {
+      "text": "Tours",
+      "url": "/partners/industries/tours"
+    },
+    {
+      "text": "Car rentals",
+      "url": "/partners/industries/car-rentals"
+    },
+    {
+      "text": "Cruises",
+      "url": "/partners/industries/cruises"
+    },
+    {
+      "text": "Trains",
+      "url": "/partners/industries/trains"
+    },
+    {
+      "text": "Corporate travel",
+      "url": "/partners/industries/corporate-travel"
+    },
+    {
+      "text": "Finance services",
+      "url": "/partners/industries/finance-services"
+    },
+    {
+      "text": "Investors",
+      "url": "https://investors.trip.com/"
+    },
+    {
+      "text": "Media",
+      "url": "/media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://careers.trip.com/#/"
+    },
+    {
+      "text": "About",
+      "url": "/about/story"
+    },
+    {
+      "text": "Brands",
+      "url": "/brands"
+    },
+    {
+      "text": "Partners",
+      "url": "/partners"
+    },
+    {
+      "text": "Investors",
+      "url": "https://investors.trip.com/"
+    },
+    {
+      "text": "Media",
+      "url": "/media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://careers.trip.com/#/"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "/cookies/statement"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_group_media.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_group_media.html",
+  "sha256": "476181bf814cce8fa3cde8bcd6e7472875b46b032ec68fb62e5c33c70bf2dbec",
+  "text_length": 308
+}

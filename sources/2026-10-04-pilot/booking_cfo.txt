@@ -1,0 +1,110 @@
+Booking Holdings CFO says even AI hyperscalers don’t know their ROI—but he’s learning from his ‘AI coach’ | Fortune
+Search
+Subscribe
+Home
+Latest
+Fortune 500
+Finance
+Tech
+Leadership
+Lifestyle
+Rankings
+Multimedia
+Trending
+now
+1
+Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses
+2
+The 'golden passport': Argentina to offer citizenship for foreigners that make a $350,000 contribution to its treasury—or invest $800,000 in its bonds
+3
+Where Americans are moving by generation, according to U-Haul: Boomers pick the Carolinas, Gen Z picks Texas and California
+1
+Google cofounder Sergey Brin has spent $102 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses
+2
+The 'golden passport': Argentina to offer citizenship for foreigners that make a $350,000 contribution to its treasury—or invest $800,000 in its bonds
+3
+Where Americans are moving by generation, according to U-Haul: Boomers pick the Carolinas, Gen Z picks Texas and California
+Conferences
+Booking Holdings
+Booking Holdings CFO says even AI hyperscalers don’t know their ROI—but he’s learning from his ‘AI coach’
+By
+Nick Lichtenberg
+Nick Lichtenberg
+Business Editor
+Down Arrow Button Icon
+By
+Nick Lichtenberg
+Nick Lichtenberg
+Business Editor
+Down Arrow Button Icon
+October 2, 2026, 10:42 AM ET
+Ewout Steenbergen, executive VP and CFO of Booking Holdings, at the Fortune AIQ Summit, Oct. 1, 2026.
+Rebecca Greenfield/Fortune
+Google source logo
+Add Fortune on Google for similar content.
+Add us on Google
+Add us on Google
+Booking
+Holdings’ chief financial officer thinks the companies spending the most on artificial intelligence are guessing.
+Recommended Video
+“I even think that the hyperscalers that spend hundreds of billions on the development of their large language models, they don’t really know what is going to be the ROI,” Ewout Steenbergen said Thursday at the
+Fortune AIQ Summit
+at the New York Stock Exchange. “They have maybe some assumptions and some hypothesis, but the whole point is, you don’t want to fall behind.”
+He said that’s good news for everyone else. Companies that use the models rather than build them pay far less, as long as they watch the bill. “The returns will be there for those processes that are being redesigned end to end,” he told
+Fortune
+senior writer Sheryl Estrada, “but you also have to make sure that those costs on the other hand are not going out of control.”
+Booking, which owns Booking.com, Agoda, Priceline, and OpenTable, is telling investors that AI will make travel easier for customers and its marketing cheaper. The customer-side numbers are still small.
+Steenbergen said on the company’s
+Q2 call
+in August that referrals from large language models, paid and unpaid, were under 1% of total room nights. The clearer gains he detailed to Estrada are so far occurring inside the company.
+Watching the token bill
+The past two years were about experimenting, Steenbergen said. The next phase means rebuilding processes “from a white sheet.”
+Customer service went first. Bookings are up at a high-single-digit rate while customer service costs are slightly down, he said, so the cost per booking has fallen “by a lot.” Customer satisfaction rose at the same time. Booking’s roughly 9,000 engineers are getting about 30% more code into production, counting only merge requests that pass testing and quality control.
+To keep AI spending in check, Booking uses what Steenbergen called “effective model cost routing.” Basic and open-source models handle simple tasks, and more expensive models take the complex ones. Engineering groups are measured on total IT cost per merge request, which combines human and AI-token costs. Token spending can go up, he said, as long as the cost of each merge request reaching production comes down.
+‘
+The hotel is still the hotel
+’
+AI won’t change how people travel, Steenbergen said, only how they plan and book. “I think fundamentally the way … travel will happen in the future is not going to change with AI, but what is going to change is the experience for travelers,” he said. “The hotel is still the hotel, and the airline is still the airline, and the rental car is still the rental car.”
+Travelers visit about five platforms on average before booking, he said. AI could cut that research, then manage disruptions, such as a delayed flight that breaks a restaurant reservation. Booking calls this its “connected trip.”
+About one-third of Booking’s customers arrive through paid channels such as search, social media, and metasearch sites, and the company spends $8 billion to $9 billion a year on them, he said. Booking runs constant A/B tests and large optimization models to decide where that money goes. The other two-thirds of customers come directly, and Booking is building AI tools into its own apps to keep them.
+Booking’s own AI tools show modest gains, he said. Customers who use them take a little less time to book, convert at slightly higher rates, and cancel slightly less often. “It’s very early stage, so it’s not a lot of data,” he said.
+From transactional to high-frequency
+Steenbergen said the bigger opportunity is growth, not cost. Answering an audience question about trip bundles, he said Booking is “more transactional” today and AI could make it “a much more high-frequency business.”
+His example: A traveler has a trip to Paris, and the weather forecast for Wednesday is bad. “We can proactively say, ‘Hey, shall we change your schedule around on Wednesday? It’s bad, so why don’t you do the Louvre tour then and your walking tour on Thursday?’” If a customer who likes sports has an empty day, it could offer to book kite surfing. That, he said, would build “more loyalty, more trust, and more brand value.”
+Booking points to early signs in its Q2 numbers: Connected trip transactions, where travelers book more than one travel vertical for the same trip, grew at a low-double-digit rate at Booking.com. Merchant bookings reached about 73% of gross bookings. Level 2 and Level 3 Genius members made up more than 30% of active customers.
+Steenbergen is learning, too. He said he has an “AI coach,” and he talks about it inside the company on purpose. He also has two agents working for him. One, which he calls a “strategic thought partner,” helps with board presentations and strategic plans. The other, a “critical equity research agent,” helps him prepare for earnings calls.
+“No one knows this,” he said. “If I have to learn, and I have a coach, it’s very normal. Everyone has to learn.”
+For this story,
+Fortune
+journalists used generative AI as a research tool. An editor verified the accuracy of the information before publishing.
+Fortune Daily
+breaks the traditional barrier between audience and newsroom. The show transforms
+Fortune
+’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders.
+Watch here.
+About the Author
+By
+Nick Lichtenberg
+Business Editor
+LinkedIn icon
+Nick Lichtenberg is business editor and was formerly
+Fortune
+'s executive editor of global news.
+See full bio
+Right Arrow Button Icon
+Google source logo
+Add Fortune on Google for similar content.
+Add us on Google
+Latest from our Conferences
+Most Popular
+Latest from our Conferences
+Most Popular
+© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our
+Terms of Use
+and
+Privacy Policy
+|
+CA Notice at Collection and Privacy Notice
+|
+Do Not Sell/Share My Personal Information
+FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.

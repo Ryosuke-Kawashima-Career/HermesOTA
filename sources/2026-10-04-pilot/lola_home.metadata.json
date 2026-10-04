@@ -1,0 +1,168 @@
+{
+  "source_id": "lola_home",
+  "accessed_url": "https://www.lola.com/",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:56.916612+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://lola.com/",
+  "title": "Your insider across travel, dining, and more | Lola",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "Home",
+      "url": "./"
+    },
+    {
+      "text": "Press",
+      "url": "./press"
+    },
+    {
+      "text": "Blog",
+      "url": "./blog"
+    },
+    {
+      "text": "Log in",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com"
+    },
+    {
+      "text": "Home",
+      "url": "./"
+    },
+    {
+      "text": "Press",
+      "url": "./press"
+    },
+    {
+      "text": "Blog",
+      "url": "./blog"
+    },
+    {
+      "text": "Log in",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/join"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Explore all",
+      "url": "./blog"
+    },
+    {
+      "text": "News Lola Launches AI-Powered Experiences, Memberships, and New Partners",
+      "url": "./blog/lola-launches-ai-powered-experiences-memberships-and-new-partners"
+    },
+    {
+      "text": "News Lola and Ten Group Announce Partnership",
+      "url": "./blog/lola-and-ten-group-announce-partnership"
+    },
+    {
+      "text": "News Lola and ResX Announce Partnership",
+      "url": "./blog/lola-and-resx-announce-partnership"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Home",
+      "url": "./"
+    },
+    {
+      "text": "Blog",
+      "url": "./blog"
+    },
+    {
+      "text": "Press",
+      "url": "./press"
+    },
+    {
+      "text": "Contact",
+      "url": "./contact"
+    },
+    {
+      "text": "Terms",
+      "url": "./terms-conditions"
+    },
+    {
+      "text": "Privacy",
+      "url": "./privacy-policy"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Home",
+      "url": "./"
+    },
+    {
+      "text": "Blog",
+      "url": "./blog"
+    },
+    {
+      "text": "Press",
+      "url": "./press"
+    },
+    {
+      "text": "Contact",
+      "url": "./contact"
+    },
+    {
+      "text": "Terms",
+      "url": "./terms-conditions"
+    },
+    {
+      "text": "Privacy",
+      "url": "./privacy-policy"
+    },
+    {
+      "text": "Join Lola",
+      "url": "https://ask.lola.com/login"
+    },
+    {
+      "text": "Home",
+      "url": "./"
+    },
+    {
+      "text": "Blog",
+      "url": "./blog"
+    },
+    {
+      "text": "Press",
+      "url": "./press"
+    },
+    {
+      "text": "Contact",
+      "url": "./contact"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\lola_home.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\lola_home.html",
+  "sha256": "c1be47e3dc18182a1841ba2f073e1e66240dd271b3ef8ecdb51f28b7dddba92f",
+  "text_length": 7658
+}

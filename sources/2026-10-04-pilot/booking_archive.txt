@@ -1,0 +1,10 @@
+Booking Holdings Inc. - News
+News
+Selecting a year value will change the news content
+Select Year:
+Loading...
+Selecting a category value will change the news content
+Select Category:
+All
+Categorycorporate
+Categoryearnings

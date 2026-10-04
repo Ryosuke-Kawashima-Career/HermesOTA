@@ -1,0 +1,160 @@
+{
+  "source_id": "booking_archive",
+  "accessed_url": "https://ir.bookingholdings.com/news/default.aspx",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:56.912966+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://ir.bookingholdings.com/news/default.aspx",
+  "title": "Booking Holdings Inc. - News",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "Overview",
+      "url": "https://ir.bookingholdings.com/overview/default.aspx"
+    },
+    {
+      "text": "Financials",
+      "url": "https://ir.bookingholdings.com/financials/quarterly-results/default.aspx"
+    },
+    {
+      "text": "Quarterly Results",
+      "url": "https://ir.bookingholdings.com/financials/quarterly-results/default.aspx"
+    },
+    {
+      "text": "Annual Reports",
+      "url": "https://ir.bookingholdings.com/financials/annual-reports/default.aspx"
+    },
+    {
+      "text": "Financial Model",
+      "url": "https://iac.virtuaresearch.com/?Ticker=BKNG&Exchange=NASDAQGS"
+    },
+    {
+      "text": "SEC Filings",
+      "url": "https://ir.bookingholdings.com/financials/sec-filings/default.aspx"
+    },
+    {
+      "text": "News",
+      "url": "https://ir.bookingholdings.com/news/default.aspx"
+    },
+    {
+      "text": "Events & Presentations",
+      "url": "https://ir.bookingholdings.com/events-and-presentations/default.aspx"
+    },
+    {
+      "text": "Stock Info",
+      "url": "https://ir.bookingholdings.com/stock-info/stock-quote/default.aspx"
+    },
+    {
+      "text": "Stock Quote",
+      "url": "https://ir.bookingholdings.com/stock-info/stock-quote/default.aspx"
+    },
+    {
+      "text": "Dividend History",
+      "url": "https://ir.bookingholdings.com/stock-info/dividend-history/default.aspx"
+    },
+    {
+      "text": "Governance",
+      "url": "https://ir.bookingholdings.com/default.aspx"
+    },
+    {
+      "text": "Governance Documents",
+      "url": "https://ir.bookingholdings.com/governance/governance-documents/default.aspx"
+    },
+    {
+      "text": "Executive Management",
+      "url": "https://www.bookingholdings.com/about/leadership/"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "https://www.bookingholdings.com/about/leadership/"
+    },
+    {
+      "text": "Committee Composition",
+      "url": "https://ir.bookingholdings.com/governance/committee-composition/default.aspx"
+    },
+    {
+      "text": "Resources",
+      "url": "https://ir.bookingholdings.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "Investor FAQs",
+      "url": "https://ir.bookingholdings.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "Information Request Form",
+      "url": "https://ir.bookingholdings.com/resources/information-request-form/default.aspx"
+    },
+    {
+      "text": "Investor Email Alerts",
+      "url": "https://ir.bookingholdings.com/resources/investor-email-alerts/default.aspx"
+    },
+    {
+      "text": "Investor Contacts",
+      "url": "https://ir.bookingholdings.com/resources/investor-contacts/default.aspx"
+    },
+    {
+      "text": "ESG",
+      "url": "https://www.bookingholdings.com/sustainability/"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.bookingholdings.com/sustainability/"
+    },
+    {
+      "text": "Sustainable Travel",
+      "url": "https://www.bookingholdings.com/sustainability/"
+    },
+    {
+      "text": "Sustainable Operations",
+      "url": "https://www.bookingholdings.com/sustainability/"
+    },
+    {
+      "text": "Taking Care of Our People",
+      "url": "https://www.bookingholdings.com/sustainability/"
+    },
+    {
+      "text": "Business Excellence",
+      "url": "https://www.bookingholdings.com/sustainability/"
+    },
+    {
+      "text": "SEC Filings opens in new window",
+      "url": "https://ir.bookingholdings.com/financials/sec-filings/default.aspx"
+    },
+    {
+      "text": "Investor FAQs opens in new window",
+      "url": "https://ir.bookingholdings.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "Information Request Form opens in new window",
+      "url": "https://ir.bookingholdings.com/resources/information-request-form/default.aspx"
+    },
+    {
+      "text": "Unsubscribe",
+      "url": "/resources/investor-email-alerts/default.aspx#unsubscribe"
+    },
+    {
+      "text": "Privacy Notice opens in new window",
+      "url": "https://www.bookingholdings.com/privacy-notice/"
+    },
+    {
+      "text": "Site Map opens in new window",
+      "url": "https://ir.bookingholdings.com/site-map/default.aspx"
+    },
+    {
+      "text": "Powered By Q4 Inc. 5.189.1.6 (opens in new window)",
+      "url": "https://www.q4inc.com/platform/q4-platform/default.aspx"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\booking_archive.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\booking_archive.html",
+  "sha256": "89808289ac11922c9f18b1114742b731cd8f5037e916240c3b2e38d1bc03d2fb",
+  "text_length": 221
+}

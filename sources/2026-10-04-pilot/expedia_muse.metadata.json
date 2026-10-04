@@ -1,0 +1,19 @@
+{
+  "source_id": "expedia_muse",
+  "accessed_url": "https://www.phocuswire.com/news/online/expedia-hotel-booking-meta-muse",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:57.246140+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 403,
+  "final_url": "https://www.phocuswire.com/news/online/expedia-hotel-booking-meta-muse",
+  "title": "Just a moment...",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [],
+  "access_status": "blocked",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\expedia_muse.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\expedia_muse.html",
+  "sha256": "7315b5e394a9b25e4966e64005341d1ce7169753f834f4b3a1eb42a18a81174c",
+  "text_length": 58
+}

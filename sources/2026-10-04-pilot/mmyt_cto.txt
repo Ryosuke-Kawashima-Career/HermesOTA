@@ -1,0 +1,357 @@
+AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO
+Skip to content
+MEDIA
+REPORTS
+EVENTS
+COURSES
+INC42 COURSES
+D2CX
+D2CX by Inc42 is a 12-week hands-on program to help you level up your D2C game. Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand.
+view
+ManagementX
+ManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”.
+view
+D2CX Foundations
+D2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably. Learn from India’s top 1% of D2C founders & experts through actionable insights, proven strategies and tactics on how to launch a successful D2C Brand in 6 weeks.
+view
+BRANDLABS
+ABOUT
+DATALABS
+NEWS
+IN-DEPTH
+STARTUPS
+NEWSLETTERS
+INDUSTRY
+INDUSTRY
+Stay ahead with the latest news, funding, startup financials, & governments policies on the hottest tech industries in the Indian startup ecosystem.
+Fintech
+Travel Tech
+Electric Vehicle
+Health Tech
+Edtech
+IT
+Logistics
+Retail
+Ecommerce
+Startup Ecosystem
+Enterprise Tech
+Clean Tech
+Consumer Internet
+Agritech
+MORE
+MORE ON INC42
+Get featured, partner or work with India's #1 startup media & intelligence platform and explore what else Inc42 has to offer.
+PARTNER WITH INC42
+Startup Spotlight
+Guest Posts
+Advertise
+ABOUT INC42
+About
+Ethics
+Careers
+Contact Us
+GLOSSARY
+RESOURCES
+INDIA’S AI ECONOMY
+Markets
+SIGN IN
+JOIN INC42 PLUS NOW
+MEDIA
+REPORTS
+EVENTS
+COURSES
+INC42 COURSES
+D2CX
+D2CX by Inc42 is a 12-week hands-on program to help you level up your D2C game. Learn from India's top 1% D2C founders and experts through actionable insights, proven strategies and tactics on how to 10X your D2C brand.
+view
+ManagementX
+ManagementX by Inc42 – India’s first Startup Management Program is a 6-month hands-on program that will take you on an intense journey that shatters the outdated “employee mindset” and equips you with the “leader mindset”.
+view
+D2CX Foundations
+D2CX Foundations by Inc42 is a 6 week hands-on program to help you launch your D2C brand successfully and profitably. Learn from India’s top 1% of D2C founders & experts through actionable insights, proven strategies and tactics on how to launch a successful D2C Brand in 6 weeks.
+view
+BRANDLABS
+ABOUT
+DATALABS
+FOLLOW INC42
+AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO
+SHARE
+Share on Facebook
+Share on Twitter
+Share on Whatsapp
+Share on LinkedIn
+Share on Email
+Copy Link
+Share story
+[mashshare networks="facebook,twitter,linkedin" services="3"]
+Travel Tech
+AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO
+30 Sep'26
+| By
+Gaurav Bagur
+SUMMARY
+MakeMyTrip Group CTO Sanjay Mohan said travellers are combining flight preferences, visa queries, and payment offers in single AI conversations, cutting across traditional booking steps
+Travel platforms need to understand several requirements at once and connect them with bookable options, rather than rely on users navigating separate searches and filters
+MakeMyTrip’s AI assistant Myra coordinates around 10-12 specialist agents, with the company using a mix of AI models to balance response quality, speed, and cost
+FOLLOW US
+FOLLOW US
+Added to Saved Stories in Login
+VIEW SAVED STORIES
+Generative AI is compressing the traditional travel-booking journey, with travellers combining questions about flights, transit visas, and card offers in a single conversation, according to
+MakeMyTrip
+Group CTO Sanjay Mohan.
+Speaking at Inc42’s inaugural ‘The CTO Summit 2026’, Mohan said this behaviour requires travel platforms to rethink both their search experience and the technology connecting different parts of a booking.
+His session, “What Lakhs Of AI Conversations Are Teaching MakeMyTrip About How India Travels”, explored how conversational AI is changing the way users express their travel needs.
+A conventional travel app takes users through a sequence: browsing listings, reviewing a selection, entering passenger details, paying, and receiving confirmation. In a conversation, however, users can bring up requirements associated with several of these stages at once.
+Mohan cited the example of a traveller asking for a flight with limits on layover duration, no transit visa requirement, and deals on specific bank cards — all within the same request.
+For the platform, answering that request means bringing together information that users would otherwise find across separate screens.
+Moving Beyond Keywords And Filters
+MakeMyTrip is adapting its data systems to handle these overlapping requirements, Mohan said. This includes using knowledge graphs, which connect related information, and search technology that interprets meaning rather than relying solely on exact keyword matches.
+For instance, a traveller asking for a “serene getaway” should be able to find suitable properties even if their listings do not contain that phrase.
+“If you tell me, ‘I want a vacation in a very serene getaway’. If no one has put that text, then you will not be able to find it,” Mohan said. “I have to understand what you really mean by ‘serene’.”
+The shift towards interpreting intent also featured in Flipkart’s session at the Summit, where CPTO Balaji Thiagarajan discussed moving beyond keyword-led search
+to combine conversational interactions, voice, visual inputs, and content feeds
+.
+For MakeMyTrip, voice is another part of this shift. Mohan said the platform is expanding speech-to-text and text-to-speech capabilities to serve users in smaller cities where typing can be a barrier. Voice interactions already account for a significant activity in Tier III and IV regions, he added.
+How Myra Handles Travel Queries
+MakeMyTrip uses its in-house AI assistant Myra to handle conversational interactions across customer touchpoints. Mohan argued that the company’s travel expertise helps it address the detailed questions involved in choosing a trip.
+“Travel is a very experiential buying thing. You don’t want to look at a toothpaste from five different angles. But if you’re booking a hotel room, you want to know what the view from the window looks like,” he said.
+Myra comprises around 10-12 specialist AI agents covering different travel needs, including flights and accommodation. A central coordinating system routes tasks to these agents and brings their responses together.
+Balancing Quality, Speed & Cost
+Mohan said using the largest AI models for every task increases both costs and response times. MakeMyTrip instead combines frontier models with open-source and open-weight alternatives, depending on the task.
+He also emphasised the need for detailed evaluation sets to test whether each specialist agent produces relevant answers.
+“A vertical applied AI can be only as good as your eval set. And therefore, for every expert, flights and hotels and holidays, there has to be a very rich set of evals. Otherwise, you will not know whether the answers are relevant,” Mohan said.
+These checks cover live prices and availability, the relevance of responses, and whether the system retains details shared earlier in a conversation.
+A message from
+:
+Mobavenue AI Tech Limited is an AI-Powered AdTech and Consumer Growth platform helping brands reach high-intent audiences through data-driven, scalable, and transparent marketing solutions.
+Learn More
+Latest Funding Rounds
+Explore More
+Loading Next…
+Share on
+Join Inc42+
+Sign In
+News
+In Depth
+Startup Stories
+By Industry
+FinTech
+TravelTech
+Electric Vehicles
+HealthTech
+EdTech
+IT
+Logistics
+Retail
+Ecommerce
+Startup Ecosystem
+EnterpriseTech
+CleanTech
+Consumer Internet
+AgriTech
+Series
+WHAT THE FINANCIALS
+30 Startups To Watch
+Weekly Startup Funding
+New Age Tech Stocks
+Resources
+Glossary
+Videos
+Inc42 Plus
+Inc42 Datalabs
+Research Reports
+Inc42 Courses
+D2CX
+AngelX
+ManagementX
+My Inc42
+My Feed
+Member Library
+My Membership
+Account Setting
+Partner With Inc42
+Inc42 Startup Spotlight
+Get Featured On Inc42
+Contribute On Inc42
+Advertise On Inc42
+About Inc42
+About Inc42
+Contact Inc42
+Careers At Inc42
+Ethics @ Inc42
+Legal
+Terms of Use
+Disclaimer
+Privacy Policy
+Refund Policy
+×
+Stories
+Profiles
+Not Finding what you are looking for?
+Advanced filter
+Trending On Inc42
+News
+Jack Dorsey’s Bitchat Goes Offline In India, Apple Cites MeitY Order
+By Gaurav B.
+04 Oct'26
+3 min read
+Media & Entertainment
+IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6...
+By Anne F.
+03 Oct'26
+3 min read
+News
+New-Age Tech Stocks Extend Slide, Turtlemint Slumps Another 20% This W...
+By Akshit P.
+03 Oct'26
+6 min read
+In-Depth Stories
+In-Depth
+Is Apple Pay’s India Entry Too Late?
+By Debarghya S.
+04 Oct'26
+6 min read
+In-Depth
+Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More...
+By Akshit P.
+03 Oct'26
+8 min read
+In-Depth
+Skin In The Game: Why Banks Are Taking Stakes In AI Labs
+By Shraddha G.
+03 Oct'26
+8 min read
+You have reached your limit of free stories
+Join Us In Celebrating 5 Years Of Inc42 Plus!
+Unlock special offers and join 10,000+ founders, investors & operators staying ahead in India’s startup economy.
+3 YEAR PLAN
+₹29999
+₹7999
+₹222/Month
+UNLOCK 73% OFF
+Become a member
+Cancel Anytime
+2 YEAR PLAN
+₹19999
+₹5999
+₹249/Month
+UNLOCK 70% OFF
+Become a member
+Cancel Anytime
+1 YEAR PLAN
+₹9999
+₹3499
+₹291/Month
+UNLOCK 65% OFF
+Become a member
+Cancel Anytime
+Become a member                        ₹
+                        7999
+Cancel Anytime
+Already A Member?
+Sign In Here
+Discover Startups &
+Business Models
+Unleash your potential by exploring unlimited articles, trackers, and playbooks. Identify the
+                        hottest startup deals, supercharge your innovation projects, and stay updated with expert
+                        curation.
+How-To’s on Starting &
+Scaling Up
+Empower yourself with comprehensive playbooks, expert analysis, and invaluable insights. Learn
+                        to validate ideas, acquire customers, secure funding, and navigate the journey to startup
+                        success.
+Identify Trends &
+New Markets
+Access 75+ in-depth reports on frontier industries. Gain exclusive market intelligence,
+                        understand market landscapes, and decode emerging trends to make informed decisions.
+Track & Decode the
+Investment Landscape
+Stay ahead with startup and funding trackers. Analyse investment strategies, profile successful
+                        investors, and keep track of upcoming funds, accelerators, and more.
+Community
+Perks
+Join a community of 10,000+ leaders & operators – unlock unlimited access to Inc42 stories,
+                        videos, deals, member-only perks, and more.
+Unlimited
+                                    Access
+Unlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of
+                                    40,000+ stories.
+Inc42 Academy
+Unlock unlimited access to 500+ monthly new stories and Inc42’s complete archive of
+                                    40,000+ stories.
+Startup Deals
+Over $250,000 worth deals on software & tools to help your business scale up.
+Member-Only
+                                    Events
+Network with industry leaders & operators with exclusive invites to Inc42’s
+                                    member-only virtual events
+Clutter-Free Experience
+Enjoy an ad-free and clutter-free
+                                    experience as a member, focus on
+                                    what really matters to you
+Support Independent
+                                    Journalism
+Your contribution will go on to
+                                    support and empower our unbiased
+                                    & data-driven journalism
+You’re in Good company
+Become An Inc42 Plus Member
+Join 1000's of entrepreneurs, business leaders & makers and stay ahead with our sharp,
+                              incisive & data-driven analysis on India’s tech and startup economy!
+Join Inc42 Plus Now
+Sign In To Continue Reading
+Unlock personalised stories, ad-lite reading, and exclusive newsletters on Inc42.
+Sign In To Inc42
+Sign In To Inc42
+Sign up for inc42
+daily Brief
+Tired Of Playing Catchup On Indian Tech?
+Stay Ahead. Every Morning at 8
+Email
+TAKE ME BACK TO THE ARTICLE
+Sign up for inc42
+Weekly Brief
+Get The Week’s Most Consequential Developments.
+Sundays At 11 AM
+Enter Your Email
+TAKE ME BACK TO THE ARTICLE
+Stop Quoting Headlines. Go Beyond.
+Inc42 In-Depth is your daily 9 PM newsletter with sharp insights from India’s startup economy.
+Enter Your Email
+TAKE ME BACK TO THE ARTICLE
+We Get Inside VC Minds—So You Can Too.
+Inc42 Moneyball is your Thursday newsletter on India’s venture capital trends.
+4 PM sharp.
+Enter Your Email
+TAKE ME BACK TO THE ARTICLE
+The Indian Startup Economy Is Going Public.
+Decode It First.
+Inc42 Markets is your weekly newsletter on tech IPOs & startup stocks.
+Every Sunday
+Enter Your Email
+TAKE ME BACK TO THE ARTICLE
+family office tracker
+get access to a list of 200+ family offices betting big on startups
+Email
+TAKE ME BACK TO THE ARTICLE
+the great indian IIT mafia
+Get access to a list of Alma Mater Of India's Unicorn & Soonicorn Founders
+Email
+TAKE ME BACK TO THE ARTICLE
+Unlock
+Unlimited Startup
+Intelligence
+For Free
+Explore 75,000+ startups, 3,500+ investors, 25,000+ funding rounds and more. Build shortlists and export them instantly.
+14-day free trial
+Exports available
+No credit card
+Explore Datalabs
+TAKE ME BACK TO THE ARTICLE
+You're In Private Mode!
+want to read
+the full story?
+Login or create a free account to continue reading in private mode.
+REGISTER NOW
+LOGIN

@@ -1,0 +1,19 @@
+{
+  "source_id": "sec_expedia",
+  "accessed_url": "https://data.sec.gov/submissions/CIK0001324424.json",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:43:19.914300+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://data.sec.gov/submissions/CIK0001324424.json",
+  "title": null,
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_expedia.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_expedia.html",
+  "sha256": "6f5cbb74a7c8bcf1a33b9e172b295a5d27545dae3bffc868dea4adb5555c641a",
+  "text_length": 147429
+}

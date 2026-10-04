@@ -1,0 +1,340 @@
+{
+  "source_id": "expedia_layla",
+  "accessed_url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/Expedia-Group-acquires-Layla-accelerating-its-AI-powered-trip-planning-and-booking-strategy/default.aspx",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:57.567482+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/Expedia-Group-acquires-Layla-accelerating-its-AI-powered-trip-planning-and-booking-strategy/default.aspx",
+  "title": "Expedia Group",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "#maincontent"
+    },
+    {
+      "text": "Investors",
+      "url": "/investors-overview"
+    },
+    {
+      "text": "News & events",
+      "url": "https://ir.expediagroup.com/news-and-events/media/default.aspx"
+    },
+    {
+      "text": "News",
+      "url": "https://ir.expediagroup.com/news-and-events/media/default.aspx"
+    },
+    {
+      "text": "Subscribe to the news",
+      "url": "https://ir.expediagroup.com/news-and-events/media/subscribe-to-the-news/default.aspx"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.expediagroup.com/en-us/about-us/leadership"
+    },
+    {
+      "text": "Expedia Group at a glance",
+      "url": "https://www.expediagroup.com/en-us/about-us"
+    },
+    {
+      "text": "Investor events",
+      "url": "https://ir.expediagroup.com/news-and-events/investor-events/default.aspx"
+    },
+    {
+      "text": "Financial information",
+      "url": "https://ir.expediagroup.com/financial-information/quarterly-results/default.aspx"
+    },
+    {
+      "text": "Quarterly results",
+      "url": "https://ir.expediagroup.com/financial-information/quarterly-results/default.aspx"
+    },
+    {
+      "text": "Annual reports & proxies",
+      "url": "https://ir.expediagroup.com/financial-information/annual-reports/default.aspx"
+    },
+    {
+      "text": "SEC filings",
+      "url": "https://ir.expediagroup.com/financial-information/sec-filings/default.aspx"
+    },
+    {
+      "text": "Stock information",
+      "url": "https://ir.expediagroup.com/stock-information/default.aspx"
+    },
+    {
+      "text": "Stock quote",
+      "url": "/investors/stock-information/default.aspx#stock-quote"
+    },
+    {
+      "text": "Stock chart",
+      "url": "/investors/stock-information/default.aspx#stock-chart"
+    },
+    {
+      "text": "Historical stock quote",
+      "url": "/investors/stock-information/default.aspx#stock-historical"
+    },
+    {
+      "text": "Dividend history",
+      "url": "https://ir.expediagroup.com/stock-information/dividend-history/default.aspx"
+    },
+    {
+      "text": "Analyst coverage",
+      "url": "https://ir.expediagroup.com/stock-information/analyst-coverage/default.aspx"
+    },
+    {
+      "text": "Corporate governance",
+      "url": "https://ir.expediagroup.com/corporate-governance/governance-documents/default.aspx"
+    },
+    {
+      "text": "Governance documents",
+      "url": "https://ir.expediagroup.com/corporate-governance/governance-documents/default.aspx"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.expediagroup.com/en-us/about-us/leadership"
+    },
+    {
+      "text": "Committee composition",
+      "url": "https://ir.expediagroup.com/corporate-governance/committee-composition/default.aspx"
+    },
+    {
+      "text": "Contact the board",
+      "url": "https://ir.expediagroup.com/corporate-governance/contact-the-board/default.aspx"
+    },
+    {
+      "text": "Resources",
+      "url": "https://ir.expediagroup.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "U.S. IRC Section 6045B reporting",
+      "url": "https://ir.expediagroup.com/resources/u-s-irc-section-6045b-reporting/default.aspx"
+    },
+    {
+      "text": "Contact investor relations",
+      "url": "https://ir.expediagroup.com/resources/contact-investor-relations/default.aspx"
+    },
+    {
+      "text": "Expedia stockholders litigation",
+      "url": "https://ir.expediagroup.com/resources/Expedia-Stockholders-Litigation/default.aspx"
+    },
+    {
+      "text": "Public Country-by-Country Reporting",
+      "url": "https://ir.expediagroup.com/resources/Public-Country-by-Country-Reporting/default.aspx"
+    },
+    {
+      "text": "Investor FAQs",
+      "url": "https://ir.expediagroup.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "News & events",
+      "url": "https://ir.expediagroup.com/news-and-events/media/default.aspx"
+    },
+    {
+      "text": "News",
+      "url": "https://ir.expediagroup.com/news-and-events/media/default.aspx"
+    },
+    {
+      "text": "Subscribe to the news",
+      "url": "https://ir.expediagroup.com/news-and-events/media/subscribe-to-the-news/default.aspx"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.expediagroup.com/en-us/about-us/leadership"
+    },
+    {
+      "text": "Expedia Group at a glance",
+      "url": "https://www.expediagroup.com/en-us/about-us"
+    },
+    {
+      "text": "Investor events",
+      "url": "https://ir.expediagroup.com/news-and-events/investor-events/default.aspx"
+    },
+    {
+      "text": "Financial information",
+      "url": "https://ir.expediagroup.com/financial-information/quarterly-results/default.aspx"
+    },
+    {
+      "text": "Quarterly results",
+      "url": "https://ir.expediagroup.com/financial-information/quarterly-results/default.aspx"
+    },
+    {
+      "text": "Annual reports & proxies",
+      "url": "https://ir.expediagroup.com/financial-information/annual-reports/default.aspx"
+    },
+    {
+      "text": "SEC filings",
+      "url": "https://ir.expediagroup.com/financial-information/sec-filings/default.aspx"
+    },
+    {
+      "text": "Stock information",
+      "url": "https://ir.expediagroup.com/stock-information/default.aspx"
+    },
+    {
+      "text": "Stock quote",
+      "url": "/investors/stock-information/default.aspx#stock-quote"
+    },
+    {
+      "text": "Stock chart",
+      "url": "/investors/stock-information/default.aspx#stock-chart"
+    },
+    {
+      "text": "Historical stock quote",
+      "url": "/investors/stock-information/default.aspx#stock-historical"
+    },
+    {
+      "text": "Dividend history",
+      "url": "https://ir.expediagroup.com/stock-information/dividend-history/default.aspx"
+    },
+    {
+      "text": "Analyst coverage",
+      "url": "https://ir.expediagroup.com/stock-information/analyst-coverage/default.aspx"
+    },
+    {
+      "text": "Corporate governance",
+      "url": "https://ir.expediagroup.com/corporate-governance/governance-documents/default.aspx"
+    },
+    {
+      "text": "Governance documents",
+      "url": "https://ir.expediagroup.com/corporate-governance/governance-documents/default.aspx"
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.expediagroup.com/en-us/about-us/leadership"
+    },
+    {
+      "text": "Committee composition",
+      "url": "https://ir.expediagroup.com/corporate-governance/committee-composition/default.aspx"
+    },
+    {
+      "text": "Contact the board",
+      "url": "https://ir.expediagroup.com/corporate-governance/contact-the-board/default.aspx"
+    },
+    {
+      "text": "Resources",
+      "url": "https://ir.expediagroup.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "U.S. IRC Section 6045B reporting",
+      "url": "https://ir.expediagroup.com/resources/u-s-irc-section-6045b-reporting/default.aspx"
+    },
+    {
+      "text": "Contact investor relations",
+      "url": "https://ir.expediagroup.com/resources/contact-investor-relations/default.aspx"
+    },
+    {
+      "text": "Expedia stockholders litigation",
+      "url": "https://ir.expediagroup.com/resources/Expedia-Stockholders-Litigation/default.aspx"
+    },
+    {
+      "text": "Public Country-by-Country Reporting",
+      "url": "https://ir.expediagroup.com/resources/Public-Country-by-Country-Reporting/default.aspx"
+    },
+    {
+      "text": "Investor FAQs",
+      "url": "https://ir.expediagroup.com/resources/investor-faqs/default.aspx"
+    },
+    {
+      "text": "View all news",
+      "url": "https://ir.expediagroup.com/news-and-events/news/default.aspx"
+    },
+    {
+      "text": "www.expediagroup.com",
+      "url": "https://www.expediagroup.com/en-us"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/expedia.group/"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/expediagroup/"
+    },
+    {
+      "text": "X",
+      "url": "https://x.com/ExpediaGroup"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/expediagroup/"
+    },
+    {
+      "text": "press@expedia.com",
+      "url": "mailto:press@expedia.com"
+    },
+    {
+      "text": "View all news",
+      "url": "https://ir.expediagroup.com/news-and-events/news/default.aspx"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.expediagroup.com/en-us/about-us"
+    },
+    {
+      "text": "Travel with us",
+      "url": "https://www.expediagroup.com/en-us/travel-with-us/"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://partner.expediagroup.com"
+    },
+    {
+      "text": "Investors",
+      "url": "/investors-overview"
+    },
+    {
+      "text": "News",
+      "url": "/news-and-events/media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://careers.expediagroup.com/"
+    },
+    {
+      "text": "Corporate standards",
+      "url": "https://www.expediagroup.com/en-us/corporate-standards/"
+    },
+    {
+      "text": "Data Privacy Framework",
+      "url": "https://legal.expediagroup.com/privacy/international-data-transfer/eu"
+    },
+    {
+      "text": "Marketplace policies",
+      "url": "https://www.expediagroup.com/en-us/marketplace-policies/"
+    },
+    {
+      "text": "Privacy and cookie statements",
+      "url": "https://legal.expediagroup.com/privacy/privacy-and-cookies-statements/other/investor-relations-privacy"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.expediagroup.com/en-us/terms-of-use/"
+    },
+    {
+      "text": "Legal overview",
+      "url": "https://legal.expediagroup.com/"
+    },
+    {
+      "text": "Intellectual property",
+      "url": "https://legal.expediagroup.com/intellectual-property"
+    },
+    {
+      "text": "Privacy resources",
+      "url": "https://legal.expediagroup.com/privacy"
+    },
+    {
+      "text": "Regulatory & compliance",
+      "url": "https://legal.expediagroup.com/regulatory-and-compliance"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\expedia_layla.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\expedia_layla.html",
+  "sha256": "4f14804a0bb2c824c15135f574425ddc00c9af599d34936420f60fb29d7b7e27",
+  "text_length": 4340
+}

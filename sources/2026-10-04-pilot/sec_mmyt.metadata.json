@@ -1,0 +1,19 @@
+{
+  "source_id": "sec_mmyt",
+  "accessed_url": "https://data.sec.gov/submissions/CIK0001495153.json",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:43:20.082744+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://data.sec.gov/submissions/CIK0001495153.json",
+  "title": null,
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_mmyt.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\sec_mmyt.html",
+  "sha256": "61a3ca5581212c7965bb84fb5175e3728cbb1f7ada20d6af358a9914fdf39836",
+  "text_length": 77325
+}

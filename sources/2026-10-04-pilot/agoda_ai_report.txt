@@ -1,0 +1,114 @@
+Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India » Agoda: See The World For Less
+English
+繁體中文(香港)
+(
+Chinese Simplified
+)
+日本語
+(
+Japanese
+)
+한국어
+(
+Korean
+)
+Melayu
+(
+Malay
+)
+ไทย
+(
+Thai
+)
+Tiếng Việt
+(
+Vietnamese
+)
+Indonesian
+Newsroom
+Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces  ...
+Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India
+53% of surveyed developers now have AI agents in production or broad use, but only 38% consider their codebase ready for full autonomy.
+Cost is now the top barrier to broader AI adoption, cited by 28% of developers as the primary obstacle to wider AI agent use.
+70% expect AI agents to handle most development work within three years, though 79% still require human approval for production deployment.
+Digital travel platform Agoda has released a new study showing that software developers across Southeast Asia and India are rapidly transitioning from using AI assistants for individual tasks to deploying autonomous AI agents across the software-development lifecycle.
+The Agoda AI Developer Report 2026 explores how this transition is reshaping the way developers work, how organizations manage costs, and where human accountability sits.
+Drawing on extensive input from the developer community across Indonesia, Malaysia, Thailand, the Philippines, Singapore, Vietnam, and India, the report examines the opportunities and challenges shaping AI’s next phase across these markets.
+AI is delivering more value, but developers still verify the output
+Developers are experiencing greater productivity gains from AI. More than half (55%) now save at least seven hours each week, compared with 18% in 2025. Reported code usability has also improved, with 62% saying AI-generated code is usable often or almost always without major changes.
+AI is also being used more broadly across development work, including code review, architecture, debugging, learning, and documentation. Yet human judgment remains essential: 86% of respondents still review or validate AI-generated outputs always or most of the time.
+Agents are arriving fast, but cost is holding back wider adoption
+More than half (53%) of respondents say AI agents are already used in selected production workflows or broadly across their organization. However, only 38% describe their codebase as mostly or fully ready for a fully autonomous agent.
+Cost is the primary barrier to wider adoption, cited by 28% of respondents, ahead of integration complexity (24%) and lack of governance (19%). The report finds that AI costs extend beyond model calls to include the work needed to design, integrate, review, and validate agents. Four in five respondents said they are currently working under some degree of AI usage limits, such as token quotas, usage caps, or budget restrictions.
+Autonomy is growing, while accountability remains human
+Developers are open to granting AI agents more autonomy for lower-risk, reversible work such as documentation. But as work moves closer to production, the demand for human oversight rises: 79% report requiring human approval for production deployment.
+AI is also changing the developer’s role. System architecture and design, AI literacy, and agent orchestration are emerging as future skills. The transition is uneven, however: 49% of junior developers report feeling less secure about their future career prospects, compared with 17% of CTO and VP Engineering respondents.
+Idan Zalzberg, Chief Technology Officer at Agoda, shared, “
+Artificial intelligence is reshaping how developers across Southeast Asia and India build, learn, and collaborate. What began as a way to speed up individual tasks is becoming a broader change in how software is built. Across industries, developers are seeing stronger productivity gains and are beginning to use agents across more of the development lifecycle. But greater capability brings new responsibilities. The real cost is not simply the model call. It is the work required to make AI trustworthy in production. The organizations that will excel in this next phase will be the ones that manage cost carefully, build the right safeguards, and keep human judgment where it matters most.
+”
+The study was commissioned by Agoda and conducted in partnership with Macramé Consulting. As a digital travel and technology company in the region, Agoda is committed to supporting local technology talent, fostering innovation, and sharing insights that help developers and organizations build responsible AI practices.
+Agoda’s commitment to innovation extends beyond AI, offering over 6 million holiday properties, more than 130,000 flight routes, and over 300,000 activities, all of which can be combined in the same booking.
+For more information and to download the free report, visit
+apacdeveloperreport.com
+.
+Technology
+|
+#AgodaB2B  #Agodaconsumer  #Agodacorporate  #AI developer report  #asia  #digitaltravelplatform  #product  #southeastasia  #tech  #travel |
+September 25, 2026
+Share this article:
+Back to main page
+Select your language
+Current language
+English
+繁體中文(香港)
+(
+Chinese Simplified
+)
+日本語
+(
+Japanese
+)
+한국어
+(
+Korean
+)
+Melayu
+(
+Malay
+)
+ไทย
+(
+Thai
+)
+Tiếng Việt
+(
+Vietnamese
+)
+Indonesian
+All languages
+English
+繁體中文(香港)
+(
+Chinese Simplified
+)
+日本語
+(
+Japanese
+)
+한국어
+(
+Korean
+)
+Melayu
+(
+Malay
+)
+ไทย
+(
+Thai
+)
+Tiếng Việt
+(
+Vietnamese
+)
+Indonesian

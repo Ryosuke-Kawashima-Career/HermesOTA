@@ -1,0 +1,24 @@
+{
+  "source_id": "trip_newsroom",
+  "accessed_url": "https://www.trip.com/newsroom/",
+  "publication_date": null,
+  "retrieval_timestamp": "2026-10-04T14:40:57.854223+05:30",
+  "retrieval_date": "2026-10-04",
+  "provenance": "live",
+  "http_status": 200,
+  "final_url": "https://www.trip.com/newsroom/",
+  "title": "Trip.com Official Site‎‎ | News",
+  "date_metadata": [],
+  "json_ld": [],
+  "links": [
+    {
+      "text": "News",
+      "url": "/newsroom"
+    }
+  ],
+  "access_status": "retrieved_needs_review",
+  "evidence_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_newsroom.txt",
+  "html_path": "D:\\Dev\\HermesOTA\\sources\\2026-10-04-pilot\\trip_newsroom.html",
+  "sha256": "2b5f22c4ffd14e4616baf44ca82f6cfb7d02683e1e67d7d487f63e443aab6fc5",
+  "text_length": 28368
+}

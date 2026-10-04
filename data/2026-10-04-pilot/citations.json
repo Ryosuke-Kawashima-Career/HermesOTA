@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://lola.com/blog/lola-launches-ai-powered-experiences-memberships-and-new-partners",
+      "title": "Lola Launches AI-Powered Experiences, Memberships, and New Partners - Lola",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Backed by Booking Holdings, Lola helps you discover and book hotels, restaurants, events, and activities in one AI-powered conversation.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.lola.com",
+      "title": "Your insider across travel, dining, and more | Lola",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Lola is opening to members in waves, and invitations generally go out in the order people join.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/QANTAS-LOYALTY-PARTNERS-WITH-EXPEDIA-GROUP-TO-TRANSFORM-QANTAS-HOTELS--HOLIDAYS-BOOKING-EXPERIENCE/default.aspx",
+      "title": "Expedia Group",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Build and integration work between Qantas Loyalty and Expedia Group B2B is currently underway, with the upgraded Hotels and Holidays platform scheduled to launch in H1 2027.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://group.trip.com/media/article_detail/Trip-com-Group-and-Women-in-Travel-CIC-Launch-Tours-Across-the-UK?id=757",
+      "title": "trip_uk_tours",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Trip.com Group, a leading global travel service provider, and social enterprise Women in Travel CIC have launched three new women-led tours in London, Edinburgh and Manchester, created by graduates of the Enterprising Tour Guiding Academy.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-cto",
+      "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Myra comprises around 10-12 specialist AI agents covering different travel needs, including flights and accommodation.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://news.airbnb.com/airbnb-2026-fall-update",
+      "title": "Airbnb 2026 fall update",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Starting in the US, we are bringing AI into every step of a trip to help take you from planning to check-in in less time.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://fortune.com/2026/10/02/booking-holdings-cfo-says-even-ai-hyperscalers-dont-know-their-roi-but-hes-learning-from-his-ai-coach",
+      "title": "Booking Holdings CFO says even AI hyperscalers don’t know their ROI—but he’s learning from his ‘AI coach’ | Fortune",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Booking’s roughly 9,000 engineers are getting about 30% more code into production, counting only merge requests that pass testing and quality control.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features",
+      "title": "Airbnb adds AI search, more social features | TechCrunch",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Now, users can switch on a toggle to search for properties via text or voice prompts.",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://ir.expediagroup.com/news-and-events/news/news-details/2026/Expedia-Group-acquires-Layla-accelerating-its-AI-powered-trip-planning-and-booking-strategy/default.aspx",
+      "title": "Expedia Group",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "July 31, 2026",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.agoda.com/press/agoda-releases-ai-developer-report-2026-agentic-ai-adoption-outpaces-enterprise-readiness-across-southeast-asia-and-india/?cb=nu4ray",
+      "title": "Agoda Releases AI Developer Report 2026: Agentic AI Adoption Outpaces Enterprise Readiness Across Southeast Asia and India » Agoda: See The World For Less",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "September 25, 2026",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://www.bookingholdings.com/newsroom",
+      "title": "Newsroom - Booking Holdings",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "October 1, 2026",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://data.sec.gov/submissions/CIK0001075531.json",
+      "title": "sec_booking",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "\"filingDate\": [\n        \"2026-09-16\",",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://data.sec.gov/submissions/CIK0001324424.json",
+      "title": "sec_expedia",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "\"filingDate\": [\n        \"2026-08-25\",",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://data.sec.gov/submissions/CIK0001269238.json",
+      "title": "sec_trip",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "\"filingDate\": [\n        \"2026-09-16\",",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://data.sec.gov/submissions/CIK0001495153.json",
+      "title": "sec_mmyt",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "\"filingDate\": [\n        \"2026-09-28\",",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://data.sec.gov/submissions/CIK0001559720.json",
+      "title": "sec_airbnb",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "\"filingDate\": [\n        \"2026-09-30\",",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://www.sec.gov/Archives/edgar/data/1495153/000119312526403477/mmyt-6k-post_agm-sep_202.htm",
+      "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 18,
+      "url": "https://ir.bookingholdings.com/news/default.aspx",
+      "title": "Booking Holdings Inc. - News",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 19,
+      "url": "https://ir.expediagroup.com/news-and-events/news/default.aspx",
+      "title": "Expedia Group",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 20,
+      "url": "https://investors.trip.com/news-releases",
+      "title": "trip_archive",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 21,
+      "url": "https://investors.makemytrip.com/investors/press-releases",
+      "title": "mmyt_archive",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 22,
+      "url": "https://investors.airbnb.com/press-releases/default.aspx",
+      "title": "Investor Relations | Airbnb | Press Releases",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 23,
+      "url": "https://www.phocuswire.com/news/technology/steve-hafner-paul-english-launch-ai-assistant-lola",
+      "title": "Just a moment...",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 24,
+      "url": "https://www.phocuswire.com/news/online/expedia-hotel-booking-meta-muse",
+      "title": "Just a moment...",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 25,
+      "url": "https://www.phocuswire.com/news/online/airbnb-expands-social-discovery-strategy-latest-app-updates-fall-2026",
+      "title": "Just a moment...",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 26,
+      "url": "https://www.webintravel.com/lola-launches-ai-powered-experiences-memberships-and-new-partners",
+      "title": "Just a moment...",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 27,
+      "url": "https://www.traveldailynews.asia/statistics-trends/golden-week-travel-2026",
+      "title": "Attention Required! | Cloudflare",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 28,
+      "url": "https://www.stocktitan.net/sec-filings/MMYT/6-k-make-my-trip-ltd-current-report-foreign-issuer-8858846b56a8.html",
+      "title": "mmyt_agm",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 29,
+      "url": "https://www.metatrader.com/en/symbols/nasdaq/mmyt/documents/2874828-current-report-q3-fy2026",
+      "title": "Makemytrip Ltd current report, Q3 FY2026 (NASDAQ:MMYT) | MetaTrader",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 30,
+      "url": "https://group.trip.com/media?locale=en-US",
+      "title": "trip_group_media_browser",
+      "accessed": "2026-10-04",
+      "quotes": [
+        {
+          "text": "Golden Week 2026 Fuels Extended Breaks and New Travel Routes: Trip.com Group Reveals Rising Destinations and Regional Trends",
+          "added": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526409153/xslF345X06/ownership.xml",
+      "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 32,
+      "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526409120/xslF345X06/ownership.xml",
+      "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": 33,
+      "url": "https://www.sec.gov/Archives/edgar/data/1559720/000195917326007130/xsl144X01/primary_doc.xml",
+      "title": "SEC.gov | Your Request Originates from an Undeclared Automated Tool",
+      "accessed": "2026-10-04"
+    }
+  ]
+}
