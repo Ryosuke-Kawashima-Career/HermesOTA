@@ -1,0 +1,77 @@
+{
+  "run_date": "2026-11-21",
+  "status": "unverified_leads_only",
+  "note": "These items come only from the WebSearch tool's synthesized summaries of search results. No underlying page could be opened via WebFetch this run (see sources/2026-11-21/access-log.json) because the session's cloud environment network policy blocked all external hosts. Per AGENTS.md, search snippets are discovery aids, not evidence a source was read, so none of these are promoted to state/developments.json as claim-level records. They are kept here so the next run (once network access is restored) can open the primary filings/releases, save evidence, and formally extract claim records with full provenance.",
+  "leads": [
+    {
+      "company": "Booking Holdings",
+      "topic": "financial_performance",
+      "candidate_event": "Q3 2026 earnings release",
+      "candidate_primary_source": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000044/q3-26bkngearningsrelease.htm",
+      "candidate_event_date": "2026-11-03",
+      "websearch_summary": "Room nights +7% YoY, gross bookings +10% YoY (~11% constant currency). Reported revenue -1% to $8.9B, cited by secondary coverage as reduced ~$900M by a Priceline-related FTC matter; Adjusted Revenue +9%. Adjusted EPS $4.66 (+17% YoY); GAAP EPS +7%. Adjusted EBITDA +9% to $4.6B. Buyback $2.1B in quarter; dividend $0.42/share payable 2026-12-31. Q4 guidance: room nights +1% to +3%, gross bookings +2% to +4%; full-year gross bookings/adjusted revenue/adjusted EBITDA still guided to high-single-digit growth. Per-share figures reflect a 25-for-1 stock split effective 2026-04-02.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.zacks.com/stock/news/3023239/booking-holdings-q3-earnings-beat-on-travel-growth,-revenues-miss",
+        "https://stocktitan.net/articles/booking-holdings-q3-2026-earnings-ftc-900-million-revenue-cut"
+      ],
+      "verification_needed": ["Open SEC 8-K/exhibit directly", "Confirm exact FTC/Priceline revenue-impact figure in the primary release, not just secondary paraphrase", "Confirm stock-split adjustment basis for all per-share figures"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Expedia Group",
+      "topic": "financial_performance",
+      "candidate_event": "Q3 2026 earnings release",
+      "candidate_primary_source": "https://www.sec.gov/Archives/edgar/data/0001324424/000132442426000059/earningsrelease-q32026.htm",
+      "candidate_event_date": "2026-11-04",
+      "websearch_summary": "Gross bookings +11% to $34.0B; revenue +12% to $4.94B. GAAP net income +7%; Adjusted Net Income +19%. Adjusted EBITDA +17%, margin +135bps. Adjusted EPS $9.39 (+24%); GAAP diluted EPS $8.42 (+15%). B2B segment revenue +23% YoY to $1.71B. Full-year 2026 gross-bookings guidance raised to $131.4-131.9B (from $129.5-130.8B). Q4 revenue guide ~$3.72B; Q4 EBITDA guide $855M midpoint (below consensus $917.3M per secondary coverage). Buyback ~2M shares / $576M in quarter; dividend $0.48/share declared. Secondary sources disagree on post-earnings stock-price move (-8.6% vs -13.7% cited by different outlets) and attribute it to Q3 room-night growth of only 7% with low-single-digit EMEA growth.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.zacks.com/stock/news/3024558/expedia-group-q3-earnings-revenues-beat-estimates-rise-y-y",
+        "https://www.stocktitan.net/articles/expedia-q3-2026-earnings-raised-outlook-q4-bookings-slow"
+      ],
+      "verification_needed": ["Open SEC 8-K/exhibit directly", "Resolve conflicting stock-reaction percentages between secondary sources"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Airbnb",
+      "topic": "financial_performance",
+      "candidate_event": "Q3 2026 shareholder letter / results",
+      "candidate_primary_source": "SEC 8-K accession 0001193125-26-449727, Exhibit 99.1 (shareholder letter), filed 2026-11-05",
+      "candidate_event_date": "2026-11-05",
+      "websearch_summary": "Revenue +19% YoY to ~$4.87-4.9B (one figure given as $4.869B), called the fastest growth in 3+ years. Nights and Seats Booked +16% to 155M; GBV +21% to ~$27.715B. Net income $1.890B (prior year $1.374B); diluted EPS $3.16 (prior $2.21). Adjusted EBITDA +22% to $2.509B, 52% margin (vs 50% prior year). Free cash flow $1.426B (prior $1.349B). Full-year 2026 revenue-growth outlook raised to high teens (from 'at least mid-teens'); adjusted EBITDA margin outlook raised to ~36% (from 'at least 35.5%'). Q4 guide: revenue $3.22-3.28B, +16% to +18% YoY including ~2pt FX tailwind. One secondary source attributes to management a claim that ~40% of all customer-support issues (not only ones starting in the AI assistant) were resolved without a human agent, up from ~a third the prior quarter -- this would be a management claim requiring explicit attribution once the primary letter is opened. A Tagalog-language source mentioned a new $12B buyback authorization plus ~$2.7B remaining, which WebSearch itself flagged as unconfirmed in English-language coverage.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.morningstar.com/news/pr-newswire/20261105sf78241/airbnb-announces-third-quarter-2026-results",
+        "https://www.rttnews.com/3592395/airbnb-inc-q3-income-advances-but-misses-estimates.aspx"
+      ],
+      "verification_needed": ["Open the Exhibit 99.1 shareholder letter directly", "Confirm or discard the buyback-authorization figure", "Classify the AI customer-support resolution-rate statement as a management claim with exact wording once primary text is available"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Trip.com Group",
+      "topic": "financial_performance",
+      "candidate_event": "Possible Q3 2026 unaudited results (not located by WebSearch this run)",
+      "candidate_primary_source": "https://www.sec.gov/Archives/edgar/data/0001269238/000119312526392473/d167816dex991.htm (unverified which quarter this exhibit covers)",
+      "candidate_event_date": null,
+      "websearch_summary": "WebSearch could not confirm Trip.com Group Q3 2026 figures; most recent confirmed-by-search release was Q2 2026 (released 2026-09-15: total net revenue ~RMB15.7B, +6% YoY, with a net loss attributed by one secondary summary to a RMB5.2B anti-monopoly penalty) and Q1 2026 (net revenue RMB16.2B, +17% YoY). One RTTNews result reporting 'Q3 profit' with revenue RMB18.367B appears, per WebSearch's own caution, to actually match Q3 2025 figures, not Q3 2026 -- flagged explicitly as a likely date mix-up, not relied upon.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.rttnews.com/3596012/trip-com-group-limited-q3-profit-increases-beats-estimates.aspx"
+      ],
+      "verification_needed": ["Open SEC 6-K exhibits directly to identify which reporting period each covers", "Locate and open the actual Q3 2026 (quarter ended Sept 30, 2026) release from investors.trip.com or SEC EDGAR", "Do not reuse the RTTNews figures without confirming the period they describe"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "MakeMyTrip",
+      "topic": "financial_performance",
+      "candidate_event": "Q2 FY2027 results (quarter ended 2026-09-30)",
+      "candidate_primary_source": "https://www.sec.gov/Archives/edgar/data/0001495153/000119312526431006/mmyt-ex99_1.htm",
+      "candidate_event_date": "2026-10-26",
+      "websearch_summary": "Revenue $235.2M, +2.5% reported / +11.2% constant currency. Gross bookings $2.72B, +11.3% reported / +20.9% constant currency per secondary source. Net profit $1.8M vs a $5.7M loss a year earlier. Adjusted operating profit $46.2M (vs $44.2M). Revenue missed analyst forecasts (~$267-269M per one source); shares still rose ~4.8% the following Monday per Finviz. INR depreciation (~10% YoY) cited as a drag on reported figures; outbound long-haul India travel weak on higher fares, domestic strong. Segment: hotels & packages revenue -1% to $107M; air ticketing -7% to $57M; bus ticketing +17% to $39M. Cash and cash equivalents $815M at quarter end.",
+      "secondary_sources_cited_by_websearch": [
+        "https://inc42.com/buzz/makemytrip-swings-to-1-8-mn-profit-in-q2-fy27-revenue-up-2-5-yoy/",
+        "https://www.phocuswire.com/news/finance/makemytrips-q2-impacted-subdued-outbound-travel",
+        "https://yourstory.com/2026/10/makemytrip-swings-back-into-profit-in-second-quarter-of-fy27"
+      ],
+      "verification_needed": ["Open the SEC 6-K exhibit directly", "Confirm whether this is fiscal Q2 2027 (Jul-Sep 2026) framing is consistent across sources", "Verify gross bookings figure, which only one secondary source gave"],
+      "access_status": "not_opened_network_blocked"
+    }
+  ]
+}

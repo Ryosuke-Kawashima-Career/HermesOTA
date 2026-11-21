@@ -1,0 +1,83 @@
+{
+  "run_date": "2026-11-21",
+  "purpose": "Log of external-access attempts for the 2026-11-21 Hermes OTA daily research run. All WebFetch calls to every external host attempted this run failed with DNS resolution errors (getaddrinfo ENOTFOUND), consistent with the session's cloud environment network policy (type: limited, allowed_hosts: []) blocking all non-package-manager, non-MCP hosts. This is a change from the 2026-10-04 pilot run, whose saved sources/2026-10-04-pilot/*.html files show live WebFetch access to sec.gov, ir.expediagroup.com, lola.com, inc42.com, and others succeeded at that time.",
+  "environment_check": {
+    "tool": "get_environment",
+    "result_summary": "network.type=limited, network.allowed_hosts=[] (empty), allow_package_managers=true, allow_mcp_servers=true",
+    "retrieval_timestamp": "2026-11-21T17:45:00Z"
+  },
+  "remediation_attempted": {
+    "tool": "update_environment",
+    "requested_hosts": ["www.sec.gov", "sec.gov", "news.airbnb.com", "ir.bookingholdings.com", "ir.expediagroup.com", "investors.trip.com", "ir.makemytrip.com", "ctripcominternationalltd.gcs-web.com", "www.prnewswire.com", "www.globenewswire.com", "www.businesswire.com", "finance.yahoo.com"],
+    "outcome": "refused",
+    "reason": "update_environment requires a human approval prompt; this is an unattended scheduled routine run with no person present to approve it.",
+    "timestamp": "2026-11-21T17:46:00Z"
+  },
+  "fetch_attempts": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001269238/000119312526392473/d167816dex991.htm",
+      "intended_source": "Trip.com Group 6-K exhibit (candidate Q3 2026 earnings release), SEC EDGAR",
+      "host": "www.sec.gov",
+      "timestamp": "2026-11-21T17:40:00Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND www.sec.gov"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/0001495153/000119312526431006/mmyt-ex99_1.htm",
+      "intended_source": "MakeMyTrip 6-K exhibit (Q2 FY2027 earnings release), SEC EDGAR",
+      "host": "www.sec.gov",
+      "timestamp": "2026-11-21T17:40:05Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND www.sec.gov"
+    },
+    {
+      "url": "https://news.airbnb.com/airbnb-announces-third-quarter-2026-results/",
+      "intended_source": "Airbnb newsroom Q3 2026 results post",
+      "host": "news.airbnb.com",
+      "timestamp": "2026-11-21T17:42:00Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND news.airbnb.com"
+    },
+    {
+      "url": "https://ir.bookingholdings.com/news-releases",
+      "intended_source": "Booking Holdings IR news-releases index",
+      "host": "ir.bookingholdings.com",
+      "timestamp": "2026-11-21T17:42:05Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND ir.bookingholdings.com"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/airbnb-announces-third-quarter-2026-results-302917687.html",
+      "intended_source": "Airbnb Q3 2026 results release, PR Newswire syndication",
+      "host": "www.prnewswire.com",
+      "timestamp": "2026-11-21T17:42:10Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND www.prnewswire.com"
+    },
+    {
+      "url": "https://www.stocktitan.net/articles/booking-holdings-q3-2026-earnings-ftc-900-million-revenue-cut",
+      "intended_source": "Trade-press corroboration, Booking Holdings Q3 2026",
+      "host": "www.stocktitan.net",
+      "timestamp": "2026-11-21T17:47:00Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND www.stocktitan.net"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+      "intended_source": "Connectivity control test (arbitrary non-financial host)",
+      "host": "en.wikipedia.org",
+      "timestamp": "2026-11-21T17:47:30Z",
+      "result": "error",
+      "failure_type": "dns_resolution_blocked",
+      "error_message": "getaddrinfo ENOTFOUND en.wikipedia.org",
+      "note": "Confirms the block is a blanket environment network-policy restriction, not specific to financial-data or SEC hosts."
+    }
+  ],
+  "conclusion": "Every WebFetch call this run failed identically regardless of host, including a neutral control (Wikipedia). The WebSearch tool remained functional and returned synthesized summaries with embedded quotations for all five covered companies' most recent quarterly results, but per AGENTS.md ('Search snippets are discovery aids, not evidence that the source was read. Open the source before citing its contents'), these summaries cannot be treated as opened, verified primary sources and are not entered into state/developments.json as claim-level records this run. They are recorded separately as unverified leads for the next run to verify once network access is restored."
+}

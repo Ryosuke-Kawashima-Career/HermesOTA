@@ -1,0 +1,21 @@
+{
+  "cutoff": "2026-11-21T17:48:00Z",
+  "window_start": "2026-10-04T14:39:33+05:30",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "This run's cloud environment network policy (type: limited, allowed_hosts: []) blocked WebFetch to every external host attempted, including SEC EDGAR, all five companies' official investor-relations/newsroom domains, PR Newswire, a trade-press site, and a neutral control host (en.wikipedia.org). A request to the user to approve adding these hosts (update_environment) was automatically refused because this is an unattended scheduled run with no person present to approve it. The WebSearch tool remained available and surfaced likely-material candidate events (principally Q3 2026 / fiscal Q2 2027 earnings releases for all five covered entities), but per AGENTS.md those search summaries are discovery aids, not evidence a source was opened, so no claim-level records were added to state/developments.json this run. Candidates are preserved in data/2026-11-21/leads-unverified.json for the next run to verify once access is restored. This is a regression from the 2026-10-04 pilot run, whose saved sources/2026-10-04-pilot/*.html files show live WebFetch access to sec.gov, ir.expediagroup.com, lola.com, inc42.com and others succeeded at that time -- the environment's allowed-hosts list appears to have been reset or not persisted since then.",
+  "access_log": "sources/2026-11-21/access-log.json",
+  "leads": "data/2026-11-21/leads-unverified.json",
+  "report": "reports/daily/2026-11-21.md",
+  "remediation": "A person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com.",
+  "validated_at": null,
+  "validation_path": null
+}
