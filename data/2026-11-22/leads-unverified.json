@@ -1,0 +1,104 @@
+{
+  "run_date": "2026-11-22",
+  "status": "unverified_leads_only",
+  "note": "Second consecutive run with WebFetch blocked for all external hosts (see sources/2026-11-22/access-log.json). No primary source could be opened. These items come only from the WebSearch tool's synthesized summaries and are NOT promoted to state/developments.json per AGENTS.md ('search snippets are discovery aids, not evidence that the source was read'). Kept here for the next run to open, save evidence for, and (if confirmed) promote with full claim-level provenance. This file is additive to data/2026-11-21/leads-unverified.json, which remains open and unverified (Trip.com Group Q3 2026 results specifically were still not located by WebSearch today -- see carried-forward item below).",
+  "carried_forward_from_2026_11_21": {
+    "company": "Trip.com Group",
+    "topic": "financial_performance",
+    "candidate_event": "Q3 2026 results, not yet located",
+    "status_today": "Still not found by WebSearch. All Q3-labeled results returned today (e.g. rttnews.com/3596012) are confirmed by WebSearch's own cross-check to be Q3 2025 figures (released 2025-11-17, net revenue RMB18.3B, +16% YoY), not Q3 2026. Most recent confirmed 2026 release remains Q2 2026 (2026-09-15, net revenue RMB15.7B, +6% YoY). Trip.com Group's Q3 2026 release, if issued, would likely have appeared by now (per WebSearch's own observation that Q3 releases historically land mid-November) -- this is now a notable gap worth flagging for direct verification against investors.trip.com / SEC EDGAR once access is restored, rather than assuming non-disclosure.",
+    "verification_needed": ["Open investors.trip.com news/events page directly once access restored", "Search SEC EDGAR full-text search for Trip.com Group 6-K filings dated November 2026", "Do not reuse RTTNews 3596012 figures -- confirmed mislabeled Q3 2025 data"]
+  },
+  "leads": [
+    {
+      "company": "Booking Holdings",
+      "brand": "Lola",
+      "topic": "product_ai",
+      "candidate_event": "Lola adds in-app flight booking (via Duffel) plus reported up-to-$100M conditional investment commitment",
+      "candidate_event_date_range": "2026-11-05 to 2026-11-10 (sources disagree on exact date)",
+      "websearch_summary": "PhocusWire (phocuswire.com/news/startups/bookings-lola-gets-flight-booking-capabilities-100-million-dollar-planned-investment) reports Lola, Booking Holdings-backed AI travel assistant, now lets users search and book flights without leaving the Lola interface, powered by Duffel (same flight-booking supplier used by Meta's Muse agent). Skift's reporting on sister startup Vayo and a Japanese outlet (Travel Voice, dated 2026-11-10, travelvoice.jp/20261110-160813) both describe the $100M figure as a planned/conditional investment commitment tied to continued product advancement and market conditions, reportedly raised and discussed around Booking's Q3 2026 earnings call (2026-11-03). Lola reportedly will not accept advertising or paid placement, unlike Booking's other brands, per PhocusWire.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.phocuswire.com/news/startups/bookings-lola-gets-flight-booking-capabilities-100-million-dollar-planned-investment",
+        "https://www.travelvoice.jp/20261110-160813",
+        "https://skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/"
+      ],
+      "relation_to_existing_record": "Updates/extends development_id booking-lola-2026-09-29 in state/developments.json (Lola launch, 2026-09-29, currently classified ai_status=piloted). This would be a lifecycle progression (new capability added) if confirmed -- needs primary-source opening before any update to that record, per AGENTS.md 'preserve historical progression... as linked updates with history.'",
+      "verification_needed": ["Open PhocusWire article and the Lola product page/blog directly", "Confirm whether $100M is a firm commitment or conditional/not-yet-executed (sources disagree)", "Attribute the $100M figure precisely -- management claim vs. reported fact -- once primary wording is available", "Confirm exact date; secondary sources range 2026-11-05 to 2026-11-10"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Airbnb",
+      "brand": "Airbnb",
+      "topic": "strategy_ai",
+      "candidate_event": "CEO Brian Chesky commits to launching AI travel agent in first half of 2027",
+      "candidate_event_date": "2026-11-05 (Q3 2026 shareholder letter) / remarks also reported from Skift Global Forum",
+      "websearch_summary": "Multiple secondary outlets (TechCrunch, PhocusWire's airbnb-q3-2026-earnings item, cryptobriefing, runtimewire, and others) report Airbnb narrowed an earlier 'within a year' AI-agent timetable to a first-half-2027 rollout window, stated in the Q3 2026 shareholder letter (filed as an 8-K exhibit, dated 2026-11-05) and reiterated by CEO Brian Chesky at Skift Global Forum ('Next year we will launch our agent... much richer than a chatbot'). Coverage says the agent is meant to help travelers plan, compare, book, and manage trips and get in-stay assistance. Open items per secondary coverage: which markets get it first, whether it covers non-Airbnb inventory, model supplier, and monetization -- Chesky reportedly said ad economics will only be worked out after launch and refinement.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.phocuswire.com/news/finance/airbnb-q3-2026-earnings",
+        "https://cryptobriefing.com/airbnb-ai-travel-agent-2027-launch/",
+        "https://runtimewire.com/article/airbnb-ai-travel-agent-first-half-2027-brian-chesky"
+      ],
+      "relation_to_existing_record": "New development, distinct from the existing airbnb-fall-2026-09-30 record (which covers AI search/filters/listing-description features already launched, not this forward-looking agent commitment). Per AGENTS.md AI lifecycle classification this is 'announced' (a target/expectation), not 'launched' -- must not be conflated with the September fall-update launch.",
+      "verification_needed": ["Open the Q3 2026 shareholder letter (8-K Exhibit 99.1) directly for Chesky's exact wording", "Classify as management_claim / announced since no product is yet available", "Confirm whether this is a new commitment or a restatement of a previously announced timetable"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Expedia Group",
+      "brand": "Expedia Group",
+      "topic": "distribution_ai",
+      "candidate_event": "CEO Ariane Gorin confirms Expedia is participating in OpenAI advertising products (e.g. 'Sponsored Agents'), on Q3 2026 earnings call",
+      "candidate_event_date": "2026-11-04 (Q3 2026 earnings call)",
+      "websearch_summary": "Secondary coverage (PYMNTS, FourWeekMBA, Hospitality Net) reports CEO Ariane Gorin said on the Q3 2026 earnings call that Expedia is 'participating' in OpenAI's advertising products, is willing to accept lower returns than mature ad products while testing, and that partnership economics are 'being worked out.' One outlet says she did not confirm exactly which OpenAI ad product(s) Expedia is part of; another names 'Sponsored Agents' (introduced by OpenAI in September 2026) as the product in question. Coverage separately notes Expedia also has a Google AI Mode integration and a Meta Muse integration, and that AI-agent-sourced traffic is described as a small share of total traffic not yet affecting direct bookings.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.pymnts.com/earnings/2026/expedia-says-travelers-plan-with-ai-agents-but-book-direct/",
+        "https://fourweekmba.com/ai-expedia-buys-openai-ads-as-5-of-10-analysts-ask-about-ai/",
+        "https://www.hospitalitynet.org/news/4129684.html"
+      ],
+      "relation_to_existing_record": "New development; no existing Expedia-OpenAI record in state/developments.json. Distinct from the existing expedia-qantas-2026-09-30 record.",
+      "verification_needed": ["Open the Q3 2026 earnings call transcript (official IR source) directly for Gorin's exact quote", "Confirm which specific OpenAI product(s) are involved", "Classify as management_claim (forward-looking/strategic statement on a call) with exact attribution"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "MakeMyTrip",
+      "brand": "Quick Ride / redBus",
+      "topic": "strategy_distribution",
+      "candidate_event": "MakeMyTrip acquires majority stake in ride-pooling firm Quick Ride, forming new entity Co Ride Mobility Private Limited",
+      "candidate_event_date_range": "2026-11-06 to 2026-11-10 (sources disagree on exact date)",
+      "websearch_summary": "Multiple India trade outlets (Entrepreneur India, Inc42, YourStory, Autocar Pro, Exchange4Media) report MakeMyTrip took a majority stake in Bengaluru-based Quick Ride, moving its ride-pooling business into a new entity, Co Ride Mobility Private Limited, with MakeMyTrip holding the majority and Quick Ride's existing promoters continuing to lead it. Quick Ride's separate EV-taxi business reportedly stays with its prior parent, iDisha Info Labs Private Limited, outside the new entity. Group CEO Rajesh Magow is quoted linking the move to MakeMyTrip's redBus experience and intercity-travel strategy. Financial terms are reported as undisclosed. This is not an AI development.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.phocuswire.com/news/online/makemytrip-enters-ride-pooling-segment-majority-stake-quick-ride",
+        "https://inc42.com/buzz/makemytrip-acquires-majority-stake-in-quick-ride-to-enter-ride-pooling/",
+        "https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride"
+      ],
+      "relation_to_existing_record": "New development; distribution/strategy diversification (shared mobility), not AI. No existing related record in state/developments.json.",
+      "verification_needed": ["Open an official MakeMyTrip press release or SEC 6-K disclosing the transaction, if filed", "Confirm the exact announcement date (sources split between 2026-11-06 and 2026-11-10)", "Confirm deal structure/entity details against a primary source rather than only trade-press paraphrase"],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Trip.com Group",
+      "brand": "Trip.com",
+      "topic": "distribution_ai",
+      "candidate_event": "Trip.com cited among early adopters of an unnamed third party's 'personal AI agent' alongside Agoda, Klook, and Grab",
+      "candidate_event_date": "around 2026-11-02 (date approximate; WebSearch could not surface a clear primary article)",
+      "websearch_summary": "A single WebSearch pass surfaced a passing mention that Trip.com, Agoda, Klook, and Grab are among early adopters of a 'personal AI agent' (platform/vendor unnamed in the snippet). This is the thinnest lead of this run -- no outlet, headline, or direct URL was clearly resolved for it.",
+      "secondary_sources_cited_by_websearch": [],
+      "relation_to_existing_record": "Unclear / not yet linkable to any existing record.",
+      "verification_needed": ["Re-run a more targeted search to identify the vendor, outlet, and exact date before treating this as a lead worth primary-source verification", "Do not carry this forward as a named development until a locatable article is found"],
+      "access_status": "not_opened_network_blocked",
+      "confidence": "low -- flagged for re-search, not yet a solid lead"
+    },
+    {
+      "company": "Booking Holdings",
+      "brand": "KAYAK",
+      "topic": "product_ai",
+      "candidate_event": "KAYAK unveils 28 new/enhanced AI travel features",
+      "candidate_event_date": "2026-11-17",
+      "websearch_summary": "A WebSearch snippet (in the context of a report on the Seattle startup Vayo's AI agents being able to book through Expedia) separately mentions KAYAK unveiled 28 new and enhanced AI travel features on 2026-11-17. No direct URL for this specific KAYAK item was resolved in this pass.",
+      "secondary_sources_cited_by_websearch": [],
+      "relation_to_existing_record": "Would attribute to KAYAK specifically (a Booking Holdings brand), per AGENTS.md's brand-attribution rule -- must not be extrapolated to Booking Holdings group-wide claims.",
+      "verification_needed": ["Locate the specific KAYAK press release or product page listing the 28 features", "Confirm date and enumerate which features are newly launched vs. enhancements of existing ones"],
+      "access_status": "not_opened_network_blocked",
+      "confidence": "low -- needs a direct, locatable source"
+    }
+  ]
+}

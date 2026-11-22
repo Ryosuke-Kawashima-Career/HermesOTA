@@ -1,0 +1,47 @@
+{
+  "run_date": "2026-11-22",
+  "retrieval_timestamp_utc": "2026-11-22T18:10:00Z",
+  "environment_check": {
+    "tool": "get_environment",
+    "result": {
+      "network_type": "limited",
+      "allowed_hosts": [],
+      "allow_mcp_servers": true,
+      "allow_package_managers": true
+    },
+    "note": "Identical configuration to the 2026-11-21 run. Empty allowed_hosts list blocks all non-package-registry, non-MCP external hosts."
+  },
+  "remediation_attempt": {
+    "tool": "update_environment",
+    "requested_hosts": [
+      "www.sec.gov", "sec.gov", "news.airbnb.com", "ir.bookingholdings.com",
+      "ir.expediagroup.com", "investors.trip.com", "ir.makemytrip.com",
+      "ctripcominternationalltd.gcs-web.com", "www.prnewswire.com",
+      "www.globenewswire.com", "www.businesswire.com", "en.wikipedia.org"
+    ],
+    "result": "refused",
+    "reason": "update_environment requires a human to approve an on-screen prompt; this is an unattended scheduled run with nobody present to approve. Second consecutive day this remediation has been attempted and refused for the same reason."
+  },
+  "webfetch_attempts": [
+    {
+      "intended_source": "SEC EDGAR, Booking Holdings company search",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=booking+holdings&type=10-Q&dateb=&owner=include&count=40",
+      "host": "www.sec.gov",
+      "result": "blocked",
+      "error": "getaddrinfo ENOTFOUND www.sec.gov",
+      "timestamp_utc": "2026-11-22T18:05:00Z"
+    }
+  ],
+  "note_on_further_attempts": "Per the tool's own error guidance (\"If another host has failed the same way, stop trying more sites\"), and because sources/2026-11-21/access-log.json already documents identical failures across 7 distinct hosts (SEC EDGAR, Airbnb newsroom, Booking IR, Airbnb via PR Newswire, a trade-press site, and a neutral Wikipedia control) under the same unchanged environment configuration, this run did not repeat the full multi-host sweep. One confirmatory attempt (sec.gov) reproduced the identical failure mode, which is sufficient to establish the blocker persists unchanged from yesterday.",
+  "websearch_status": "available_and_used",
+  "websearch_queries_run": [
+    "Trip.com Group Q3 2026 results third quarter earnings investors.trip.com",
+    "Booking Holdings Expedia Airbnb MakeMyTrip news November 22 2026",
+    "OTA AI travel news November 2026 Booking.com Expedia Airbnb Trip.com MakeMyTrip announcement",
+    "\"Booking Holdings\" Lola AI assistant flight booking $100 million November 2026",
+    "Airbnb AI agent launch first half 2027 target",
+    "Expedia Group testing OpenAI ad products agentic partnership November 2026",
+    "MakeMyTrip Quick Ride majority stake ride pooling"
+  ],
+  "websearch_caveat": "WebSearch results are a separate backend not subject to the proxy host allowlist, per the 2026-11-21 run's finding. Per AGENTS.md, search-engine summaries are discovery aids, not evidence a source was opened; no claim-level development records were created from them this run. All items are saved as unverified leads in data/2026-11-22/leads-unverified.json."
+}

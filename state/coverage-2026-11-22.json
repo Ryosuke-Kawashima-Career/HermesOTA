@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-22T18:10:00Z",
+  "window_start": "2026-11-21T17:48:00Z",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "Second consecutive run blocked by the same condition as 2026-11-21: the cloud environment's network policy (type: limited, allowed_hosts: []) is unchanged. One confirmatory WebFetch attempt against www.sec.gov reproduced the identical DNS-resolution failure documented for seven hosts yesterday, so the full multi-host sweep was not repeated this run. A renewed update_environment request to add the needed hosts was again automatically refused because this is an unattended scheduled run with no person present to approve it. WebSearch remained available and surfaced several new unverified candidate developments (Booking Holdings/Lola flight-booking + reported $100M investment; Airbnb's first-half-2027 AI-agent timing; Expedia's OpenAI-ads participation; MakeMyTrip's Quick Ride ride-pooling stake) plus confirmation that Trip.com Group's Q3 2026 earnings release still could not be located (a growing gap, since Q3 releases have historically landed by mid-November). Per AGENTS.md, none of this is claim-level evidence, so no new entries were added to state/developments.json this run. All items preserved in data/2026-11-22/leads-unverified.json, additive to the still-open data/2026-11-21/leads-unverified.json.",
+  "access_log": "sources/2026-11-22/access-log.json",
+  "leads": "data/2026-11-22/leads-unverified.json",
+  "report": "reports/daily/2026-11-22.md",
+  "remediation": "Unchanged from 2026-11-21: a person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com. This is now a two-day-old unresolved blocker.",
+  "validated_at": null,
+  "validation_path": null,
+  "prior_checkpoint": "state/coverage-2026-11-21.json"
+}
