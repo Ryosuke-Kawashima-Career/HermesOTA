@@ -1,0 +1,56 @@
+{
+  "run_date": "2026-11-23",
+  "retrieval_timestamp_utc": "2026-11-23T17:45:52Z",
+  "environment_check": {
+    "tool": "get_environment",
+    "result": {
+      "network_type": "limited",
+      "allowed_hosts": [],
+      "allow_mcp_servers": true,
+      "allow_package_managers": true
+    },
+    "note": "Identical configuration to the 2026-11-21 and 2026-11-22 runs. Empty allowed_hosts list blocks all non-package-registry, non-MCP external hosts. Third consecutive day unchanged."
+  },
+  "remediation_attempt": {
+    "tool": "update_environment",
+    "requested_hosts": [
+      "www.sec.gov", "data.sec.gov", "sec.gov", "news.airbnb.com", "ir.bookingholdings.com",
+      "ir.expediagroup.com", "investors.trip.com", "ir.makemytrip.com",
+      "ctripcominternationalltd.gcs-web.com", "www.prnewswire.com",
+      "www.globenewswire.com", "www.businesswire.com"
+    ],
+    "result": "refused",
+    "reason": "Tool returned explicitly: \"The update_environment call needs a person's approval, and nobody is present on this routine run, so it was refused and nothing was changed.\" Third consecutive day this remediation has been attempted and refused for the same reason.",
+    "tool_instruction_received": "Don't retry it, and don't look for another way to do what it would have done. Do what you can without it."
+  },
+  "connectivity_probes": [
+    {
+      "method": "curl (Bash, via agent proxy)",
+      "urls": ["https://www.sec.gov/", "https://ir.bookingholdings.com/", "https://news.airbnb.com/", "https://investors.trip.com/"],
+      "result": "blocked",
+      "detail": "All 4 hosts returned connect_rejected / HTTP 403 from the egress proxy (agent-proxy diagnostic: \"the host is not allowed for this session\")."
+    },
+    {
+      "method": "WebFetch",
+      "url": "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
+      "result": "blocked",
+      "error": "getaddrinfo ENOTFOUND skift.com",
+      "note": "Confirms WebFetch is subject to the same host allowlist as curl/Bash â€” not only SEC/IR domains but ordinary trade-press domains are blocked too. No source could be opened by any tool this run."
+    }
+  ],
+  "note_on_further_attempts": "Given identical confirmed blocks on 2026-11-21 and 2026-11-22 across many hosts, plus today's confirmation that curl, WebFetch, and update_environment are all blocked/refused for the same underlying reason (empty allowed_hosts, no human present to approve a change), no further probing was conducted. This is now a three-day-old unresolved blocker with no remediation possible from within an unattended run.",
+  "websearch_status": "available_and_used",
+  "websearch_queries_run": [
+    "Booking Holdings news November 23 2026",
+    "Expedia Group news November 2026",
+    "Trip.com Group Q3 2026 earnings release date",
+    "MakeMyTrip news November 2026",
+    "Airbnb news November 2026 AI",
+    "Booking Holdings Partner Division B2B launch October 2026",
+    "Lola Booking Holdings $100 million investment Duffel flight booking",
+    "Expedia app ChatGPT OpenAI Sponsored Agents partnership",
+    "MakeMyTrip Quick Ride Co Ride Mobility stake acquisition",
+    "KAYAK 28 new AI travel features November 2026"
+  ],
+  "websearch_caveat": "WebSearch results are a separate backend not subject to the proxy host allowlist, per the 2026-11-21 run's finding; confirmed again today. Per AGENTS.md, search-engine summaries are discovery aids, not evidence a source was opened; no claim-level development records were created from them this run, including for leads that were already carried forward from 2026-11-21/2026-11-22 with now better-specified dates and URLs. All items are saved as unverified leads in data/2026-11-23/leads-unverified.json."
+}

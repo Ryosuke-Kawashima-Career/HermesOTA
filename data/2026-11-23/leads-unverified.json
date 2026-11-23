@@ -1,0 +1,149 @@
+{
+  "run_date": "2026-11-23",
+  "status": "unverified_leads_only",
+  "note": "Third consecutive run with WebFetch/curl blocked for all external hosts (see sources/2026-11-23/access-log.json). No primary source could be opened. These items come only from the WebSearch tool's synthesized summaries and are NOT promoted to state/developments.json per AGENTS.md ('search snippets are discovery aids, not evidence that the source was read'). Kept here, additive to data/2026-11-21/leads-unverified.json and data/2026-11-22/leads-unverified.json, for the next run (once access is restored) to open, save evidence for, and promote with full claim-level provenance. Several items carried forward from 2026-11-22 now have specific, locatable URLs and dates (today's WebSearch found the exact articles), which should make primary-source opening fast once network access is granted.",
+  "carried_forward_resolved_this_run": {
+    "company": "Trip.com Group",
+    "topic": "financial_performance",
+    "item": "Q3 2026 earnings release date",
+    "status_today": "RESOLVED (scheduling only, not results): WebSearch surfaced a specific press-release citation -- Plataforma Media, dated 2026-11-19 (https://www.plataformamedia.com/en/2026/11/19/trip-com-group-limited-to-report-third-quarter-of-2026-financial-results-on-december-1-2026-u-s-time/) -- stating Trip.com Group will report Q3 2026 results and host its earnings call at 7:00pm U.S. Eastern Time on 2026-12-01 (08:00 HKT 2026-12-02). This explains the gap flagged on 2026-11-21/2026-11-22: Trip.com Group's Q3 2026 release is scheduled later than its typical mid-November pattern, not missing or withheld. Other calendar-aggregator dates (TipRanks: Nov 23 estimate; MarketScreener: Nov 22 estimate; ARINC: Nov 16 estimate) conflict with this and should be disregarded as unconfirmed estimates once the company's own announcement is opened and verified.",
+    "action_for_next_run": "Do not expect Trip.com Group Q3 2026 actual results before 2026-12-01. Open the Plataforma Media article and, ideally, investors.trip.com directly to confirm the scheduling announcement verbatim before treating this as settled; do not add a financial record until the actual Dec 1 release is opened."
+  },
+  "leads": [
+    {
+      "company": "Booking Holdings",
+      "brand": "Booking Partner Division (new B2B unit; Agoda, Booking.com, Priceline brands affected)",
+      "topic": "strategy_distribution",
+      "candidate_event": "Booking Holdings formally unveils 'Booking Partner Division,' a merged B2B unit combining Agoda, Booking.com and (initially) Priceline's B2B/white-label businesses, excluding Priceline 'at the moment' per the unit's head; becomes operational January 2027",
+      "candidate_event_date": "2026-11-18 (announcement); operational January 2027",
+      "websearch_summary": "Multiple outlets (Kyodo News PR Wire, Macau Business, TheNextWeb, Finviz/press-release syndication, Skift) report Booking Holdings announced the Booking Partner Division on 2026-11-18, combining global B2B product/technology with local commercial teams, offering White Label, API, Branded Solutions and Chain B2B Rates Distribution across a claimed combined 33 million accommodation listings. Agoda CEO Omri Morgenshtern leads the division. Skift (2026-11-18, 'Booking Holdings Leaves Priceline Out of B2B Unit Amid FTC Scrutiny') reports Priceline's B2B business is excluded from the new division 'at the moment,' explicitly linked by Skift to ongoing FTC scrutiny of Booking Holdings. Background: Skift first reported the unit's formation in July 2026 and reported consolidation beginning in August 2026.",
+      "secondary_sources_cited_by_websearch": [
+        "https://kyodonewsprwire.jp/release/202611180525",
+        "https://thenextweb.com/news/booking-holdings-merges-its-b2b-travel-units-into-a-new-partner-division",
+        "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
+        "https://skift.com/2026/07/10/booking-holdings-is-forming-a-new-b2b-unit-agoda-ceo-is-overseeing-it-scoop/",
+        "https://skift.com/2026/08/06/booking-holdings-has-begun-merging-agoda-booking-com-and-pricelines-b2b-units-scoop/"
+      ],
+      "relation_to_existing_record": "New development; no existing Booking Partner Division record in state/developments.json. Brand attribution matters: this is a group-level restructuring that explicitly spans Agoda and Booking.com but, per Skift, excludes Priceline -- must not be described as covering 'all Booking Holdings brands.' The FTC-scrutiny linkage is Skift's own framing/reporting, not a company statement, and needs separate attribution if promoted.",
+      "verification_needed": [
+        "Open the official Booking Holdings press release (bookingholdings.com newsroom or a wire-service primary, e.g. the Kyodo/PR Newswire original) directly for exact wording",
+        "Open the Skift FTC-scrutiny article directly to confirm sourcing for the Priceline-exclusion claim and whether it is reported fact or Skift's own inference",
+        "Confirm the January 2027 operational date against a primary source"
+      ],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Booking Holdings",
+      "brand": "Lola",
+      "topic": "product_ai",
+      "candidate_event": "Update to 2026-11-22 lead: Lola's Duffel-powered flight booking and ~$100M Booking Holdings investment commitment, now with additional detail that an identical $100M commitment applies to sister AI startup Vayo, and that Lola connects to suppliers (GetYourGuide, Viator, Hertz) and distributors (Duffel, NuitÃ©e) via API rather than browsing websites",
+      "candidate_event_date_range": "2026-11-05 to 2026-11-18 (sources still disagree on the exact flight-booking-launch date; the $100M figure was reiterated in a Skift piece dated 2026-11-18 about Lola CEO Steve Hafner discussing Meta's Muse)",
+      "websearch_summary": "PhocusWire (phocuswire.com/news/startups/bookings-lola-gets-flight-booking-capabilities-100-million-dollar-planned-investment) and a 2026-11-18 Skift article (skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/) together describe: (a) Lola now offers in-app flight search/booking via Duffel (same supplier Meta's Muse agent uses); (b) Booking Holdings' up-to-$100M investment commitment is conditional on continued product advancement and market conditions, and an identical commitment reportedly applies to sister startup Vayo; (c) Lola has 14 employees and will not accept advertising/paid placement, unlike other Booking brands, per PhocusWire.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.phocuswire.com/news/startups/bookings-lola-gets-flight-booking-capabilities-100-million-dollar-planned-investment",
+        "https://skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/",
+        "https://skift.com/2026/09/29/kayak-co-founders-launch-lola-booking-holdings-new-ai-assistant-exclusive/"
+      ],
+      "relation_to_existing_record": "Updates/extends development_id booking-lola-2026-09-29 in state/developments.json (currently ai_status=piloted, dated 2026-09-29). Per AGENTS.md, this is a lifecycle-progression update (new capability: flight booking) requiring primary-source opening before the existing record is amended with linked history, not a silent overwrite.",
+      "verification_needed": [
+        "Open PhocusWire and the Skift Hafner interview directly",
+        "Determine whether $100M is now committed/disbursed or still conditional as of this run's date",
+        "Classify as management_claim (CEO/company-sourced) vs reported_fact (independent financial disclosure) once primary wording is read"
+      ],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Booking Holdings",
+      "brand": "KAYAK",
+      "topic": "product_ai",
+      "candidate_event": "KAYAK launches 28 new/enhanced AI-powered travel-planning features, combining conversational 'Ask AI' trip planning with live flight/hotel/car prices and bookable results",
+      "candidate_event_date": "2026-11-17",
+      "websearch_summary": "Confirmed with specific, locatable sources this run (unresolved as of 2026-11-22): Finviz/press-release syndication ('KAYAK Introduces 28 AI-Powered Updates...'), Skift (skift.com, 'Kayak Adds 28 AI Features, Letting Travelers Ask for the Cheapest Dates to Fly'), TechCrunch, and Breaking Travel News all cover a 2026-11-17 KAYAK announcement. Reported features include: price-aware conversational planning; a 'cheapest dates to fly' search tool not requiring a fixed departure date; Ask AI now on iOS and Android; AI-assisted itinerary building; a Starlink-connectivity flight filter (listed as 'coming soon'); and saved travel preferences for Ask AI (also 'coming soon'). Ask AI itself originally launched 2026-05-14, so several of the 28 items are enhancements to an existing feature rather than net-new launches.",
+      "secondary_sources_cited_by_websearch": [
+        "https://finviz.com/news/423838/kayak-introduces-28-ai-powered-updates-that-bring-conversation-comparison-and-live-prices-together",
+        "https://skift.com/?p=849507",
+        "https://www.breakingtravelnews.com/news/article/kayak-introduces-28-ai-powered-updates-that-bring-conversation-comparison-a/",
+        "https://www.kayak.com/news/ask-ai/"
+      ],
+      "relation_to_existing_record": "New development, attributable to KAYAK specifically (a Booking Holdings brand) -- per AGENTS.md's brand-attribution rule, must not be described as a Booking Holdings group-wide AI launch.",
+      "verification_needed": [
+        "Open the KAYAK press release / kayak.com/news/ask-ai/ directly to enumerate which of the 28 items are newly launched vs. already-available enhancements, and which are 'coming soon' vs. live today",
+        "Confirm platform and geographic availability for each feature rather than treating 'rolled out' as universal"
+      ],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Expedia Group",
+      "brand": "Expedia Group",
+      "topic": "financial_performance",
+      "candidate_event": "Q3 2026 results (already reported 2026-11-04, prior to this coverage window) plus follow-on items: Seattle layoffs (58 roles, WARN notice, Nov 21-Dec 1), Black Friday promotions (up to 50% off, starting Nov 20), Travel Shops expansion to the US, and continued OpenAI/ChatGPT-app commentary",
+      "candidate_event_date": "2026-11-04 (earnings); 2026-11-16 to 2026-11-20 (layoffs/Black Friday/Travel Shops coverage)",
+      "websearch_summary": "Skift and a Washington State WARN-notice-sourced item report Expedia is cutting 58 roles in Seattle between 2026-11-21 and 2026-12-01. Separately, Expedia's own newsroom highlights Black Friday deals (up to 50% off on Expedia and Hotels.com, starting 2026-11-20) and a US expansion of 'Travel Shops' (creator-recommendation bookable listings). On the OpenAI/ChatGPT front, WebSearch could not confirm the specific term 'Sponsored Agents'; it surfaced two distinct, previously-reported integrations instead -- the Expedia app available inside ChatGPT (an OpenAI Apps SDK partner since October 2025) and an older in-app ChatGPT trip-planning beta inside Expedia's own iOS app. Hospitalitynet.org (2026-11-04-05 window) separately covers CEO Ariane Gorin's Q3 2026 earnings-call remarks on Expedia 'participating' in OpenAI advertising products at lower near-term returns while economics are 'worked out,' consistent with the 2026-11-22 carried-forward lead but without confirming the 'Sponsored Agents' product name.",
+      "secondary_sources_cited_by_websearch": [
+        "https://skift.com/?p=841398",
+        "https://www.hospitalitynet.org/news/4129684.html",
+        "https://www.expedia.com/newsroom/?p=61847",
+        "https://www.stocktitan.net/articles/expedia-q3-2026-earnings-raised-outlook-q4-bookings-slow"
+      ],
+      "relation_to_existing_record": "Layoffs, Black Friday, and Travel Shops are new items with no existing record. The OpenAI-ads item remains the same open lead carried forward from 2026-11-22 (no Expedia-OpenAI record yet in state/developments.json); today's WebSearch could not confirm the 'Sponsored Agents' product name specifically, which should be corrected/narrowed when a primary transcript is opened.",
+      "verification_needed": [
+        "Open the official Q3 2026 earnings call transcript (EXPE-USQ_Transcript_2026-11-04.pdf per s202.q4cdn.com, an Expedia IR-hosted file) directly for Gorin's exact wording and to confirm or rule out the 'Sponsored Agents' product name",
+        "Open the Washington State WARN notice directly (public record) to confirm layoff headcount and dates rather than relying on Skift's paraphrase",
+        "Open Expedia's own newsroom pages for Black Friday and Travel Shops claims"
+      ],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "Airbnb",
+      "brand": "Airbnb",
+      "topic": "strategy_ai",
+      "candidate_event": "Update to 2026-11-22 lead: additional Q3 2026 shareholder-letter detail -- ~40% of Q3 2026 customer-support issues resolved without a human agent (up from about one-third in Q2 2026), and ~50 products/features shipped in 'recent months' (reported as ~70% more than a year earlier)",
+      "candidate_event_date": "2026-11-05 (Q3 2026 shareholder letter); 2026-11-12 (Diginomica commentary piece)",
+      "websearch_summary": "A Diginomica piece dated around 2026-11-12 cites Airbnb's Q3 2026 shareholder letter for the ~40%-of-support-issues-without-a-human figure (vs. roughly one-third in Q2 2026) and a claim of about 50 shipped products/features in recent months, which the source describes as nearly 70% more than a year earlier. The same letter is the source for the previously-reported 2027 AI-agent timing. Airbnb also reported Q3 2026 revenue of $4.87B, up 19% year over year, and raised full-year 2026 revenue-growth guidance to the high teens, per the same coverage.",
+      "secondary_sources_cited_by_websearch": [
+        "https://diginomica.com/fellow-travelers-45-checking-airbnbs-ai-ambitions-ceo-brian-chesky-highlights-limitations-generic.md",
+        "https://diginomica.com/node/31470"
+      ],
+      "relation_to_existing_record": "Extends the 2027-AI-agent-timing lead already carried forward from 2026-11-22 (no existing state/developments.json record yet for either the 2027 timing or the support-automation figures) and is distinct from the already-recorded airbnb-fall-2026-09-30 record. The ~40% support-automation figure is Airbnb's own self-reported metric (management claim), not independently measured; AGENTS.md requires it be labeled as such, not as an independently evidenced outcome, if promoted.",
+      "verification_needed": [
+        "Open the actual Q3 2026 shareholder letter (8-K exhibit via SEC EDGAR, once access restored) for the exact wording and any stated methodology behind the 40% figure",
+        "Open the Diginomica article directly rather than relying on the WebSearch paraphrase",
+        "Classify the support-automation and feature-shipping figures explicitly as management_claim, 'outcomes not independently evidenced' per AGENTS.md's AI lifecycle section"
+      ],
+      "access_status": "not_opened_network_blocked"
+    },
+    {
+      "company": "MakeMyTrip",
+      "brand": "MakeMyTrip (India) Ltd.",
+      "topic": "governance",
+      "candidate_event": "India market regulator SEBI clears MakeMyTrip (India) Ltd.'s proposed India IPO with final observations",
+      "candidate_event_date": "2026-11-06",
+      "websearch_summary": "Inc42 ('SEBI Clears MakeMyTrip's India IPO') reports SEBI issued final observations clearing the IPO on 2026-11-06, following a confidential draft-paper filing in July 2026. This is a new, distinct item from the Quick Ride/Co Ride Mobility acquisition already flagged on 2026-11-22 (and reconfirmed today with consistent detail: majority stake, promoters retain leadership, terms undisclosed, dates split 2026-11-06/2026-11-10 across outlets).",
+      "secondary_sources_cited_by_websearch": [
+        "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/",
+        "https://skift.com/2026/08/03/makemytrip-hotel-growth-offsets-decline-in-air-travel-new-ipo-details/"
+      ],
+      "relation_to_existing_record": "New development; no existing MakeMyTrip-IPO record in state/developments.json. Note potential entity-attribution complexity: 'MakeMyTrip (India) Ltd.' as a listed-in-India entity may differ from the SEC-registered MakeMyTrip Limited (Nasdaq: MMYT) that holds development_id mmyt-6k-0001193125-26-403477 -- this distinction must be verified and stated explicitly, not assumed, per AGENTS.md's 'attribute to the relevant entity' rule.",
+      "verification_needed": [
+        "Open the SEBI final-observations document or an official MakeMyTrip/India-IPO filing directly",
+        "Clarify the precise corporate relationship between the India-listed IPO entity and the Nasdaq-listed MakeMyTrip Limited before any record conflates them",
+        "Confirm there is no SEC Form 6-K or press release from MakeMyTrip Limited corroborating this independently"
+      ],
+      "access_status": "not_opened_network_blocked"
+    }
+  ],
+  "carried_forward_unresolved": [
+    {
+      "company": "Trip.com Group",
+      "topic": "distribution_ai",
+      "item": "Trip.com cited among early adopters of an unnamed 'personal AI agent' alongside Agoda, Klook, and Grab",
+      "status": "Not re-searched this run; still flagged low-confidence, no locatable source as of 2026-11-22. Needs a targeted re-search in a future run before being treated as a real lead."
+    },
+    {
+      "company": "Booking Holdings, Expedia Group, Airbnb, MakeMyTrip",
+      "topic": "financial_performance",
+      "item": "Five Q3 2026 / fiscal-Q2-2027 earnings leads originally flagged 2026-11-21",
+      "status": "Booking Holdings and Expedia Group Q3 2026 results and Airbnb Q3 2026 results are now corroborated by multiple trade-press secondary sources with specific dates (Booking: ~2026-11-03 per StreetInsider earnings-date listing; Expedia: 2026-11-04; Airbnb: 2026-11-05) but STILL NOT OPENED from a primary IR/SEC source this run -- network remains blocked. MakeMyTrip's most recent confirmed results remain Q2 FY27 (reported ~2026-10-28/29 per prior-run leads); no MakeMyTrip Q3-equivalent figures were newly surfaced today beyond the IPO and Quick Ride items above."
+    }
+  ]
+}

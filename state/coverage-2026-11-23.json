@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-23T17:45:52Z",
+  "window_start": "2026-11-22T18:10:00Z",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "Third consecutive run blocked by the same condition as 2026-11-21 and 2026-11-22: get_environment shows network.type=limited, allowed_hosts=[], unchanged. Confirmatory probes this run: (1) curl via Bash against www.sec.gov, ir.bookingholdings.com, news.airbnb.com, investors.trip.com all returned connect_rejected/HTTP 403 from the egress proxy; (2) WebFetch against an ordinary trade-press host (skift.com, not only SEC/IR domains) returned getaddrinfo ENOTFOUND, confirming the block is a blanket empty allowlist, not specific to government/IR hosts; (3) a renewed update_environment request to add the needed hosts was refused outright by the tool itself with an explicit message that unattended scheduled runs cannot get human approval and the request should not be retried. WebSearch remained available and surfaced substantially more specific detail than prior runs, including exact URLs and dates, for several carried-forward leads (Lola/Duffel + $100M investment, Airbnb's 2027 AI-agent timing and support-automation metrics, Expedia's OpenAI-ads participation) plus brand-new leads (Booking Holdings' 'Booking Partner Division' B2B restructuring announced 2026-11-18 excluding Priceline amid reported FTC scrutiny; KAYAK's 28 new AI features announced 2026-11-17, now well-sourced; MakeMyTrip SEBI IPO clearance 2026-11-06; Expedia Seattle layoffs). Trip.com Group's previously-flagged Q3 2026 earnings gap was resolved as a scheduling fact (not a disclosure failure): a 2026-11-19 press release states Trip.com Group will report Q3 2026 results on 2026-12-01 U.S. time. Per AGENTS.md ('search snippets are discovery aids, not evidence that the source was read'), none of this is claim-level evidence, so no new entries were added to state/developments.json this run. All items preserved in data/2026-11-23/leads-unverified.json, additive to data/2026-11-21/ and data/2026-11-22/.",
+  "access_log": "sources/2026-11-23/access-log.json",
+  "leads": "data/2026-11-23/leads-unverified.json",
+  "report": "reports/daily/2026-11-23.md",
+  "remediation": "Unchanged from 2026-11-21/2026-11-22: a person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, data.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com. This is now a three-day-old unresolved blocker with no remediation possible from within an unattended run; it will recur on every future scheduled fire until a person acts.",
+  "validated_at": null,
+  "validation_path": null,
+  "prior_checkpoint": "state/coverage-2026-11-22.json"
+}
