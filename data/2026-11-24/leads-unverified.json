@@ -1,0 +1,61 @@
+{
+  "run_date": "2026-11-24",
+  "status": "unverified_leads_only",
+  "note": "Fourth consecutive run with WebFetch/curl blocked for all external hosts (see sources/2026-11-24/access-log.json). No primary source could be opened. Per AGENTS.md ('search snippets are discovery aids, not evidence that the source was read'), nothing here is promoted to state/developments.json. This run's WebSearch queries (one per covered company plus a general query) surfaced NO new candidate developments beyond what is already recorded in data/2026-11-23/leads-unverified.json. All items below are either unchanged confirmations of prior leads or explicit non-findings.",
+  "queries_run": [
+    "Booking Holdings Expedia Trip.com MakeMyTrip Airbnb news November 24 2026",
+    "Booking Holdings news November 24 2026",
+    "Expedia Group news November 24 2026",
+    "Trip.com Group news November 2026",
+    "MakeMyTrip news November 2026",
+    "Airbnb news November 24 2026"
+  ],
+  "findings_by_company": [
+    {
+      "company": "Booking Holdings",
+      "result": "no_new_leads",
+      "detail": "WebSearch returned the same Booking Partner Division announcement already logged on 2026-11-23 (finviz.com/news/424558 syndication of the official release, and bookingholdings.com/?p=11761 / ?p=11802 newsroom links) and the same Q2 2026 prepared-remarks PDF (s201.q4cdn.com) already known from before this coverage window. A board appointment (Kurt Sievers, dated 2026-04-01 per a finviz snippet) is outside the coverage window and already stale. No KAYAK- or Lola-specific new items surfaced; the 2026-11-17/18 KAYAK and Lola leads from 2026-11-23 remain the most recent known items for those brands.",
+      "action_for_next_run": "Carry forward unchanged: Booking Partner Division, KAYAK's 28 AI features, Lola/Duffel/$100M investment (all from data/2026-11-23/leads-unverified.json)."
+    },
+    {
+      "company": "Expedia Group",
+      "result": "no_new_leads",
+      "detail": "WebSearch surfaced only older items (B2B/Supply reorganization under Alfonso Paredes dated May 11 2026; Bill Watkins advertising hire dated June 1 2026; a Tiqets acquisition agreement with no stated date; PhocusWire coverage dated September 17 2026) -- all predate or fall outside this coverage window and are not new. No confirmation or denial surfaced for the Seattle WARN-notice layoffs (58 roles) or the 'Sponsored Agents'/OpenAI-ads naming question flagged 2026-11-23.",
+      "action_for_next_run": "Carry forward unchanged: Seattle layoffs (WARN notice), Black Friday promotions, Travel Shops US expansion, and the unresolved OpenAI 'Sponsored Agents' product-name question."
+    },
+    {
+      "company": "Trip.com Group",
+      "result": "no_new_leads; prior lead reconfirmed",
+      "detail": "WebSearch reconfirmed the same Plataforma Media press release (2026-11-19) announcing Q3 2026 results and earnings call on 2026-12-01 U.S. time. No results actual figures exist yet -- the release date has not occurred. Background items returned (Q2 2026 results reported 2026-09-15 with an antitrust-penalty-driven net loss; the China antitrust probe from January 2026; Arabian Travel Market partnerships from September 2026) all predate this coverage window.",
+      "action_for_next_run": "No action needed until 2026-12-01. Do not expect Q3 2026 actual figures before then. The Trip.com/Agoda/Klook/Grab 'personal AI agent' lead (flagged low-confidence since 2026-11-21/22) was not re-searched this run; still needs a targeted follow-up query in a future run."
+    },
+    {
+      "company": "MakeMyTrip",
+      "result": "no_new_leads; prior leads reconfirmed",
+      "detail": "WebSearch returned the same SEBI IPO-clearance item (2026-11-06, Inc42) already logged 2026-11-23, plus older/out-of-window items (Q2 FY27 results reported late October 2026 showing a swing to profit; FY26 full-year gross bookings of ~$10.4B per a Yahoo Finance/Q4-call recap). No new item on the Quick Ride/Co Ride Mobility stake or the India-entity-vs-Nasdaq-entity question surfaced.",
+      "action_for_next_run": "Carry forward unchanged: SEBI IPO clearance for 'MakeMyTrip (India) Ltd.' and the still-unresolved question of whether that entity is distinct from the Nasdaq-listed MakeMyTrip Limited (development_id mmyt-6k-0001193125-26-403477)."
+    },
+    {
+      "company": "Airbnb",
+      "result": "no_new_leads",
+      "detail": "WebSearch for 'Airbnb news November 24 2026' returned no items dated in the current coverage window -- most results were from 2025 or earlier (CIO departure, Experiences social-features launch from October 2025). No new confirmation on the Q3 2026 shareholder-letter figures (support-automation rate, products shipped) already logged 2026-11-23.",
+      "action_for_next_run": "Carry forward unchanged: Q3 2026 shareholder-letter support-automation and feature-shipping figures (both management claims, outcomes not independently evidenced), and the 2027 AI-agent timing (Chesky)."
+    }
+  ],
+  "carried_forward_unresolved": [
+    {
+      "company": "Trip.com Group",
+      "topic": "distribution_ai",
+      "item": "Trip.com cited among early adopters of an unnamed 'personal AI agent' alongside Agoda, Klook, and Grab",
+      "status": "Not re-searched this run (second run in a row without a targeted re-search). Still flagged low-confidence, no locatable primary source."
+    },
+    {
+      "company": "Booking Holdings, Expedia Group, Airbnb, MakeMyTrip",
+      "topic": "financial_performance",
+      "item": "Q3 2026 / fiscal-Q2-2027 earnings -- primary-source opening still pending",
+      "status": "Unchanged from 2026-11-23: Booking Holdings (~2026-11-03), Expedia Group (2026-11-04), and Airbnb (2026-11-05) Q3 2026 results, and MakeMyTrip's Q2 FY27 results (~late October 2026), remain corroborated only by secondary trade-press paraphrase. None have been opened from a primary IR/SEC source in this coverage window because network access remains blocked. Trip.com Group's Q3 2026 results are not yet due (scheduled 2026-12-01)."
+    }
+  ],
+  "all_prior_leads_from_2026-11-23_remain_open": true,
+  "reference": "See data/2026-11-23/leads-unverified.json for full detail on all carried-forward candidate developments; nothing in that file is superseded by this run."
+}

@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-24T17:46:38Z",
+  "window_start": "2026-11-23T17:45:52Z",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "Fourth consecutive run blocked by the same condition as 2026-11-21, 2026-11-22, and 2026-11-23: get_environment shows network.type=limited, allowed_hosts=[], unchanged. This run ran a single confirmatory curl probe (www.sec.gov -> CONNECT tunnel failed, response 403) rather than repeating the full multi-host/WebFetch probe set already established on the prior three runs. WebSearch remained available; six targeted queries (one general, one per covered company) surfaced NO new candidate developments beyond those already recorded in data/2026-11-23/leads-unverified.json -- only reconfirmations (Booking Partner Division, KAYAK's 28 AI features, Lola/Duffel/$100M investment, Trip.com Group's 2026-12-01 scheduled Q3 2026 release, MakeMyTrip's SEBI IPO clearance) and one explicit non-finding (no Airbnb items within the coverage window). No environment-change tool (update_environment/create_environment) was called this run: the 2026-11-23 update_environment call was refused outright with an explicit statement that unattended runs cannot obtain the required human approval and that the call should not be retried, and that condition is unchanged. Per AGENTS.md, none of this run's WebSearch output is claim-level evidence, so no new entries were added to state/developments.json.",
+  "access_log": "sources/2026-11-24/access-log.json",
+  "leads": "data/2026-11-24/leads-unverified.json",
+  "report": "reports/daily/2026-11-24.md",
+  "remediation": "Unchanged from 2026-11-21/2026-11-22/2026-11-23: a person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, data.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com. This is now a four-day-old unresolved blocker with no remediation possible from within an unattended run; it will recur on every future scheduled fire until a person acts.",
+  "validated_at": null,
+  "validation_path": null,
+  "prior_checkpoint": "state/coverage-2026-11-23.json"
+}
