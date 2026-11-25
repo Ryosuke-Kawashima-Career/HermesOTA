@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-25T17:47:23Z",
+  "window_start": "2026-11-24T17:46:38Z",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "Fifth consecutive run blocked by the same condition as 2026-11-21 through 2026-11-24: get_environment shows network.type=limited, allowed_hosts=[], unchanged. This run ran three probes: curl to www.sec.gov (CONNECT tunnel failed, response 403, same as prior runs), WebFetch to ir.bookingholdings.com (getaddrinfo ENOTFOUND), and a new control probe, WebFetch to www.google.com (also getaddrinfo ENOTFOUND) -- confirming the block is total and not limited to research-specific hosts. WebSearch remained available; eleven targeted queries surfaced several NEW candidate developments beyond data/2026-11-24/leads-unverified.json, most notably: (1) Agoda and Trip.com named as launch/connector partners for Meta's 'Muse' personal AI agent in Japan/Singapore, which resolves the long-dangling unidentified 'personal AI agent' lead carried since 2026-11-21; (2) Agoda's own AI Assistant expansion to 21 markets; (3) a material FTC-related contingent-liability disclosure reportedly in Booking Holdings' own Q3 2026 Form 10-Q regarding Priceline, with inconsistent secondary-reported dollar figures that must be reconciled against the primary filing; (4) partial resolution (still not fully confirmed) of the Expedia 'Sponsored Agents' product-name question via Q3 2026 earnings-call secondary coverage. Per AGENTS.md, none of this run's WebSearch output is claim-level evidence, so no new entries were added to state/developments.json. No environment-change tool was called this run, for the same reason documented on 2026-11-23/24: update_environment was explicitly refused for an unattended scheduled run and told not to be retried, and this run is likewise unattended.",
+  "access_log": "sources/2026-11-25/access-log.json",
+  "leads": "data/2026-11-25/leads-unverified.json",
+  "report": "reports/daily/2026-11-25.md",
+  "remediation": "Unchanged from 2026-11-21 through 2026-11-24: a person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, data.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com, www.agoda.com, group.trip.com, skift.com, www.phocuswire.com. This is now a five-day-old unresolved blocker with no remediation possible from within an unattended run; it will recur on every future scheduled fire until a person acts. Given the duration and the materiality of leads now piling up unverified (notably the Booking Holdings/Priceline FTC disclosure), this run's notification to the user flags this explicitly.",
+  "validated_at": null,
+  "validation_path": null,
+  "prior_checkpoint": "state/coverage-2026-11-24.json"
+}

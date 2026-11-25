@@ -1,0 +1,148 @@
+{
+  "run_date": "2026-11-25",
+  "status": "unverified_leads_only",
+  "note": "Fifth consecutive run with WebFetch/curl blocked for all external hosts, including a non-research control host (google.com) -- see sources/2026-11-25/access-log.json. No primary source could be opened. Per AGENTS.md ('search snippets are discovery aids, not evidence that the source was read'), nothing here is promoted to state/developments.json. Despite the access block, this run's WebSearch queries surfaced several genuinely NEW candidate developments beyond data/2026-11-24/leads-unverified.json, most notably a group-spanning agentic-commerce partnership and a material FTC-related financial disclosure from Booking Holdings' own Q3 2026 10-Q. Both resolve/replace the long-dangling 'Trip.com/Agoda/Klook/Grab personal AI agent' lead carried since 2026-11-21.",
+  "queries_run": [
+    "Booking Holdings Expedia Trip.com MakeMyTrip Airbnb news November 25 2026",
+    "Booking Holdings news November 25 2026",
+    "Expedia Group news November 25 2026",
+    "Trip.com Group AI agent Agoda Klook Grab personal AI agent announcement",
+    "MakeMyTrip news November 25 2026",
+    "Airbnb news November 25 2026",
+    "Agoda AI Assistant 21 markets press release November 10 2026",
+    "\"Trip.com\" \"Agoda\" \"Klook\" \"Grab\" AI agent partnership launch November 2026 (extended)",
+    "Expedia \"Sponsored Agents\" OpenAI advertising travel 2026",
+    "Booking Holdings Priceline FTC B2B Partner Division scrutiny November 2026",
+    "online travel agency AI agent news this week November 24 25 2026"
+  ],
+  "new_leads_this_run": [
+    {
+      "lead_id": "lead-2026-11-25-meta-muse-ota-partners",
+      "companies_involved": ["Booking Holdings (Agoda)", "Trip.com Group"],
+      "also_mentions_non_scope_companies": ["Klook", "Grab"],
+      "topic": "distribution_ai",
+      "candidate_event": "Agoda and Trip.com Group are named launch/connector partners for Meta's personal AI agent 'Muse' as it rolled out in Japan and Singapore; Klook (travel experiences) and Grab (GrabMart baskets) are also named partners but are outside this project's company scope.",
+      "candidate_event_date": "Muse reached Japan 2026-10-23 and Singapore 2026-10-27, per Skift; Agoda's own connector announcement reported by Skift on 2026-10-28. Note: an Australia Muse launch on 2026-11-17 used a different partner set that explicitly did NOT include these four companies.",
+      "websearch_summary": "Resolves the low-confidence 'Trip.com cited among early adopters of an unnamed personal AI agent alongside Agoda, Klook, and Grab' lead first flagged 2026-11-21/22 and carried forward unresolved through 2026-11-24. Multiple independent secondary outlets (Skift, Hospitality.today, traveldailynews.asia, marketing-interactive.com, ppc.land) converge on the same underlying event: Meta's AI agent 'Muse', not a travel-company product. Agoda connects its own AI travel assistant into Muse so Muse users in Singapore and Japan can search destinations, book hotels, and manage itineraries through Muse. Trip.com is described as a connector partner and, per one source, is named alongside Agoda as one of two hotel-booking sellers inside Muse in Singapore. Klook integrated travel experiences for the Japan launch; Grab's integration is a GrabMart shopping basket, unrelated to travel booking.",
+      "secondary_sources_cited_by_websearch": [
+        "https://skift.com/2026/10/28/agoda-plugs-into-metas-muse-in-singapore-and-japan/",
+        "https://www.hospitality.today/article/agoda-plugged-its-own-ai-into-metas-agent-your-hotel-is-now-two-ais-away-from-the-guest",
+        "https://www.traveldailynews.asia/tour-operators/klook-meta-muse-ai-travel-booking-japan/",
+        "https://www.marketing-interactive.com/meta-brings-personal-ai-agent-muse-to-singapore",
+        "https://ppc.land/metas-muse-reaches-australia-with-9-local-partners-from-canva-to-kogan/"
+      ],
+      "relation_to_existing_record": "No existing record in state/developments.json. If promoted after primary-source verification, must be attributed carefully: this is Meta's product with Agoda/Trip.com as distribution partners, not an Agoda- or Trip.com-branded AI agent launch. Brand-level evidence (Agoda) must not be extrapolated to all of Booking Holdings; Trip.com-specific evidence must not be extrapolated to all Trip.com Group brands.",
+      "verification_needed": [
+        "Open Agoda's or Meta's own press materials (not yet attempted -- network blocked) to confirm partner scope, markets, and whether this is a pilot or general availability",
+        "Confirm whether Trip.com Group or only the Trip.com brand specifically is the connector partner",
+        "Confirm exact launch dates per market directly from a primary release rather than secondary paraphrase"
+      ],
+      "priority": "medium-high -- first evidence this run of cross-company agentic-commerce distribution integration in scope"
+    },
+    {
+      "lead_id": "lead-2026-11-25-agoda-ai-assistant-21-markets",
+      "companies_involved": ["Booking Holdings (Agoda)"],
+      "topic": "product_ai",
+      "candidate_event": "Agoda expanded its AI Assistant (trip planning + booking in one conversational interface) from a limited September 2026 test to 21 markets in its mobile app.",
+      "candidate_event_date": "Sources disagree: theprint.in/Kyodo PR Wire-syndicated release and IT Brief both reference a 2026-11-10 dateline; techcoffeehouse.com dates coverage 2026-10-31. Date is unconfirmed pending primary-source access.",
+      "websearch_summary": "Distinct from the Meta Muse lead above -- this is Agoda's own first-party AI assistant, not a Muse integration. Technology: conversational intelligence powered by OpenAI models; Gemini with Google Maps Grounding used for restaurants/attractions; live web search integrated alongside Agoda's own inventory (6M+ accommodations, flights, tours, attractions, ancillaries). Agoda calls it the first entirely new booking experience in the company's 20+ year history. Agoda claims (company-reported, no figures given) that beta testers showed a higher rate of booking 'connected trips' combining multiple product types.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.agoda.com/press/1509063/",
+        "https://kyodonewsprwire.jp/release/202611109809",
+        "https://itbrief.com.au/story/agoda-rolls-out-ai-assistant-across-21-travel-markets",
+        "https://www.phocuswire.com/news/technology/agoda-rolls-out-openai-powered-assistant",
+        "https://macaubusiness.com/agodas-ai-assistant-brings-travel-planning-and-booking-into-one-conversation/"
+      ],
+      "relation_to_existing_record": "No existing record in state/developments.json. ai_status would be 'launched' (defined audience: 21 named markets) once a primary source is opened and the market list and launch date are confirmed; the 'connected trip' booking-rate claim must be recorded as a management claim only (outcome not independently evidenced -- no methodology or figures given).",
+      "verification_needed": [
+        "Open agoda.com/press/1509063/ directly once network access is restored to confirm exact date, market list, and exact wording of the 'connected trip' claim",
+        "Reconcile the 2026-10-31 vs 2026-11-10 date discrepancy across secondary outlets"
+      ],
+      "priority": "medium"
+    },
+    {
+      "lead_id": "lead-2026-11-25-booking-priceline-ftc-10q",
+      "companies_involved": ["Booking Holdings (Priceline)"],
+      "topic": "governance_financial",
+      "candidate_event": "Booking Holdings' own Q3 2026 Form 10-Q reportedly discloses that in July 2026, FTC staff informed Priceline they intend to recommend the FTC file a complaint against Priceline and a B2B affiliate partner over alleged unfair or deceptive hotel-advertising practices; the 10-Q is reported to describe a $900 million revenue reduction and a $100 million accrued loss, while Skift separately describes a $1 billion Q3 charge and potential FTC-sought restitution/penalties exceeding $1 billion. Unnamed-source reporting (via PYMNTS, citing Reuters) names the affiliate as 'Guest Reservations' and cites a source estimating potential penalties above $500 million. Booking's own filing is reported to state the company 'does not agree with the FTC's position.'",
+      "candidate_event_date": "FTC staff notice: 2026-07 (per 10-Q, as reported). Skift coverage and the Booking Partner Division's exclusion of Priceline 'amid FTC scrutiny': 2026-11-18 (already logged as a lead in data/2026-11-23/leads-unverified.json, but WITHOUT this financial-disclosure detail, which is new to this run).",
+      "websearch_summary": "This is the single highest-priority unverified lead from this run: a company's own SEC filing (a Form 10-Q, filing-type URL pattern sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm surfaced directly in search results) is the implied source, not merely trade-press paraphrase -- but WebSearch only returns snippets/summaries of that filing via secondary aggregation, and the filing itself could not be opened this run (network blocked). The figures reported ($900M revenue reduction, $100M accrued loss vs. Skift's '$1 billion Q3 charge', and the $500M-$1B+ penalty range) are inconsistent across secondary sources and MUST NOT be treated as reconciled or as reported_fact until the 10-Q itself is opened and the exact figures, periods, and accounting treatment are read directly.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm",
+        "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
+        "https://www.pymnts.com/cpi-posts/ftc-targets-booking-holdings-in-hotel-booking-advertising-probe/",
+        "https://hartfordbusiness.com/article/booking-holdings-discloses-ftc-threat-against-priceline/",
+        "https://www.insurancejournal.com/news/national/2026/10/08/888476.htm"
+      ],
+      "relation_to_existing_record": "No existing record in state/developments.json. The Booking Partner Division lead already logged 2026-11-23 should be linked/updated with this financial-disclosure detail once verified, rather than treated as a wholly separate development -- Skift explicitly frames the Priceline carve-out from that new B2B unit as driven by this FTC matter.",
+      "verification_needed": [
+        "HIGHEST PRIORITY for the next run with network access: open the Form 10-Q directly at the SEC EDGAR URL above and read the exact contingency-disclosure language, dollar figures, accounting treatment (accrual vs. contingent liability), and reporting period",
+        "Reconcile the $900M/$100M (10-Q, as reported) vs. '$1 billion Q3 2026 charge' (Skift) figures -- these may refer to different things (e.g., gross revenue impact vs. a P&L charge) and must not be blended",
+        "Determine whether 'Guest Reservations' as the named affiliate is confirmed by any primary source or remains solely anonymous-sourced Reuters/PYMNTS reporting",
+        "Check for any FTC complaint filing or settlement after 2026-11-18 (none found by WebSearch as of this run)"
+      ],
+      "priority": "highest -- material financial/legal disclosure from the company's own SEC filing, currently unverifiable only because of the persistent network block"
+    },
+    {
+      "lead_id": "lead-2026-11-25-expedia-sponsored-agents",
+      "companies_involved": ["Expedia Group"],
+      "topic": "distribution_ai",
+      "candidate_event": "On Expedia's Q3 2026 earnings call, CEO Ariane Gorin reportedly confirmed Expedia participates in OpenAI advertising products within ChatGPT, without naming which specific product; secondary analysis infers this may be OpenAI's 'Sponsored Agents' format (a September 2026 launch letting users start a conversation with a business-sponsored AI agent after clicking an ad), but this inference is explicitly unconfirmed by Expedia or OpenAI per the secondary sources themselves.",
+      "candidate_event_date": "Expedia Q3 2026 earnings call (date not confirmed this run; Q3 2026 results were previously flagged as reported ~2026-11-04 in data/2026-11-23 carried-forward items).",
+      "websearch_summary": "This is a continuation/partial resolution of the open 'Sponsored Agents product-name question' flagged 2026-11-23/24, not a fully new lead. Per PhocusWire (via WebSearch summary) and a secondary analysis (karlobag.eu), Gorin said agent-driven traffic is still very small and is either incremental or cannibalized from other paid channels, and that roughly two-thirds of Expedia bookings are direct. Gorin reportedly said the company may accept lower returns while testing these new ad products.",
+      "secondary_sources_cited_by_websearch": [
+        "https://www.phocuswire.com/news/finance/expedia-group-q3-2026-earnings",
+        "https://www.pymnts.com/earnings/2026/expedia-says-travelers-plan-with-ai-agents-but-book-direct/",
+        "https://fourweekmba.com/ai-expedia-buys-openai-ads-as-5-of-10-analysts-ask-about-ai/",
+        "https://karlobag.eu/en/travel/expedia-tests-openai-ads-and-travel-ai-assistants-what-changes-when-you-search-f-lcwbq/"
+      ],
+      "relation_to_existing_record": "Updates (does not replace) the open question carried forward since 2026-11-23. Still unresolved: exact product name. New this run: Gorin's quantification of agent traffic as 'very small' and the ~two-thirds-direct booking figure, both of which are management claims requiring the earnings-call transcript as primary source.",
+      "verification_needed": [
+        "Open Expedia's Q3 2026 earnings call transcript/prepared remarks (ir.expediagroup.com) directly to get Gorin's exact quote and confirm/deny the 'Sponsored Agents' product name",
+        "Open an OpenAI primary source describing 'Sponsored Agents' to confirm the product exists as described"
+      ],
+      "priority": "medium -- carried-forward item, now with more secondary detail but still no primary source opened"
+    }
+  ],
+  "reconfirmed_no_change": [
+    {
+      "company": "Booking Holdings",
+      "items": ["Booking Partner Division (2026-11-18 announcement, operational Jan 2027)", "KAYAK's 28 AI features (2026-11-17)", "Lola/Duffel flight booking, ~$100M conditional investment"],
+      "note": "All unchanged from data/2026-11-23 and 2026-11-24 leads files. No newer items surfaced."
+    },
+    {
+      "company": "Expedia Group",
+      "items": ["Seattle WARN-notice layoffs (58 roles)", "Black Friday promotions", "Travel Shops US expansion"],
+      "note": "Unchanged; no new confirmation or denial."
+    },
+    {
+      "company": "Trip.com Group",
+      "items": ["2026-11-19 Plataforma Media release: Q3 2026 results and earnings call scheduled 2026-12-01 U.S. time"],
+      "note": "Unchanged. Results not yet due. Do not expect actual figures before 2026-12-01."
+    },
+    {
+      "company": "MakeMyTrip",
+      "items": ["SEBI 2026-11-06 IPO clearance for 'MakeMyTrip (India) Ltd.'"],
+      "note": "Unchanged. The question of whether this entity is distinct from the Nasdaq-listed MakeMyTrip Limited (development_id mmyt-6k-0001193125-26-403477) remains unresolved."
+    },
+    {
+      "company": "Airbnb",
+      "items": ["Q3 2026 shareholder-letter figures (support-automation rate, products shipped)", "2027 H1 AI-agent rollout timing (Chesky)"],
+      "note": "No items dated within this coverage window surfaced for Airbnb specifically this run."
+    }
+  ],
+  "carried_forward_unresolved": [
+    {
+      "company": "Booking Holdings, Expedia Group, Airbnb, MakeMyTrip",
+      "topic": "financial_performance",
+      "item": "Q3 2026 / fiscal-Q2-2027 earnings -- primary-source opening still pending",
+      "status": "Unchanged: Booking Holdings (~2026-11-03), Expedia Group (2026-11-04), and Airbnb (2026-11-05) Q3 2026 results, and MakeMyTrip's Q2 FY27 results, remain corroborated only by secondary trade-press paraphrase. None opened from a primary IR/SEC source because network access remains blocked for a fifth consecutive day. Trip.com Group's Q3 2026 results are not yet due (scheduled 2026-12-01)."
+    }
+  ],
+  "resolved_this_run": [
+    {
+      "formerly": "Trip.com cited among early adopters of an unnamed 'personal AI agent' alongside Agoda, Klook, and Grab (flagged 2026-11-21, carried unresolved through 2026-11-24)",
+      "resolution": "Identified as Meta's personal AI agent 'Muse' -- see lead-2026-11-25-meta-muse-ota-partners above. Still requires primary-source verification before promotion to state/developments.json, but the vendor/product ambiguity that blocked progress on this lead for four prior runs is now resolved."
+    }
+  ]
+}

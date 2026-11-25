@@ -1,0 +1,56 @@
+{
+  "run_date": "2026-11-25",
+  "retrieval_timestamp_utc": "2026-11-25T17:47:23Z",
+  "environment_check": {
+    "tool": "get_environment",
+    "result": {
+      "environment_id": "env_0144bVPgkceBiXkkQE9ZG6Pv",
+      "name": "Default",
+      "network": {
+        "type": "limited",
+        "allow_mcp_servers": true,
+        "allow_package_managers": true,
+        "allowed_hosts": []
+      },
+      "is_default": true,
+      "editable_by_you": true
+    },
+    "comparison_to_prior_runs": "Identical to the configuration recorded on 2026-11-21, 2026-11-22, 2026-11-23, and 2026-11-24 (network.type=limited, allowed_hosts=[]). No change in five consecutive daily runs."
+  },
+  "probes": [
+    {
+      "method": "curl via Bash",
+      "target": "https://www.sec.gov/",
+      "result": "curl: (56) CONNECT tunnel failed, response 403",
+      "classification": "connect_rejected_by_egress_proxy"
+    },
+    {
+      "method": "curl via Bash",
+      "target": "https://ir.bookingholdings.com/",
+      "result": "curl: (56) CONNECT tunnel failed, response 403",
+      "classification": "connect_rejected_by_egress_proxy"
+    },
+    {
+      "method": "WebFetch",
+      "target": "https://ir.bookingholdings.com/news-releases",
+      "result": "getaddrinfo ENOTFOUND ir.bookingholdings.com",
+      "classification": "dns_blocked_by_egress_proxy"
+    },
+    {
+      "method": "WebFetch",
+      "target": "https://www.google.com",
+      "result": "getaddrinfo ENOTFOUND www.google.com",
+      "classification": "dns_blocked_by_egress_proxy",
+      "note": "Control probe against a generic, non-research host to confirm the block is total (not limited to research-specific hosts). Confirmed: even google.com fails to resolve, consistent with allowed_hosts=[] blocking essentially all non-package-manager, non-MCP external HTTPS traffic."
+    }
+  ],
+  "websearch_status": {
+    "available": true,
+    "note": "WebSearch tool (a separate backend not subject to the proxy host allowlist) remained usable, consistent with 2026-11-21 through 2026-11-24. Used only for discovery of candidate leads per AGENTS.md ('search snippets are discovery aids, not evidence that the source was read'); results are not claim-level evidence because no primary source could be opened this run either."
+  },
+  "remediation_attempted_this_run": {
+    "action": "none",
+    "reason": "On 2026-11-23, update_environment was called with the required-hosts request and was refused by the tool itself, with an explicit statement that an unattended scheduled run has no person present to grant the approval the tool requires, and that the call should not be retried. This run is likewise an unattended scheduled fire (no live user input since the last genuine user message), and that underlying mechanism (a human-approval prompt shown 'every time, in every permission mode') is not time-bound or something that would change between runs -- it depends on whether a person is present at call time, which is unchanged. Re-attempting update_environment or create_environment would repeat an already-documented, architecturally certain refusal. Neither was called this run."
+  },
+  "conclusion": "Fifth consecutive daily run blocked by the identical condition. All external HTTPS access via curl/WebFetch to any host -- research-relevant (SEC, company IR sites, wire services) or generic (google.com) -- remains unavailable. This can only be resolved by a person adding hosts to the environment's Network access allowlist, or by running the routine interactively ('Run now') and approving an access-request prompt when shown. See reports/daily/2026-11-25.md for full detail and the escalation note, which should now be surfaced to the user directly given the duration of this blocker."
+}
