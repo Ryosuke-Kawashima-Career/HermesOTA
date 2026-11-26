@@ -1,0 +1,93 @@
+{
+  "run_date": "2026-11-26",
+  "status": "unverified_websearch_only",
+  "methodology_note": "Primary-source access (SEC EDGAR, company IR sites, newswires) remains blocked for the sixth consecutive day (see sources/2026-11-26/access-log.json). All items below are secondary-source paraphrase from WebSearch results only. Per AGENTS.md, none constitute claim-level evidence and none were promoted to state/developments.json. This file supersedes data/2026-11-25/leads-unverified.json as the authoritative unverified-leads list, carrying forward unresolved items and adding/updating items found this run.",
+  "leads": [
+    {
+      "lead_id": "booking-priceline-ftc-10q-2026Q3",
+      "company": "Booking Holdings",
+      "brand": "Priceline",
+      "topic": "governance_financial",
+      "summary": "Booking Holdings' Q3 2026 Form 10-Q reportedly discloses that FTC staff notified Priceline in July 2026 of intent to recommend a complaint over allegedly unfair/deceptive hotel-advertising practices (disclosures, fees, customer support, billing). Secondary sources report a $900M revenue reduction and $100M accrued loss recorded in the quarter, with potential FTC-sought restitution/penalties variously reported as \"exceeding $1 billion\" (Skift) or \"above $500 million\" (Reuters, per an anonymous source). New this run: secondary reporting now also describes Priceline as being in settlement discussions with the FTC, with no settlement yet reached and litigation still possible; one outlet names the B2B affiliate as \"Guest Reservations\" (not named in the filing itself per that same reporting).",
+      "candidate_primary_source": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm",
+      "secondary_sources": [
+        "https://skift.com/?p=846888",
+        "https://skift.com/?p=849787",
+        "https://hartfordbusiness.com/article/booking-holdings-discloses-ftc-threat-against-priceline/",
+        "https://www.techlicious.com/blog/priceline-owner-takes-1b-hit-over-alleged-deceptive-hotel-bookings/",
+        "https://www.pymnts.com/cpi-posts/ftc-targets-booking-holdings-in-hotel-booking-advertising-probe/",
+        "https://www.tikr.com/blog/booking-holdings-faces-ftc-action-over-hotel-ads-more-than-500-million-at-stake"
+      ],
+      "verification_status": "not_opened_primary_source_blocked",
+      "priority": "highest - material financial/legal disclosure, exact SEC URL now identified",
+      "carried_from": "data/2026-11-25/leads-unverified.json",
+      "updated_this_run": true
+    },
+    {
+      "lead_id": "expedia-q3-2026-earnings-sponsored-agents",
+      "company": "Expedia Group",
+      "brand": null,
+      "topic": "financial_strategy_ai",
+      "summary": "Expedia Q3 2026 earnings call held 2026-11-04. Secondary coverage (PhocusWire, Zacks, FourWeekMBA, 247wallst, Hospitalitynet) reports: Q3 revenue ~$4.9B (+12% YoY), B2B revenue ~$1.7B (+23% YoY); advertising revenue growth slowed to 7% in Q3 from 13% in Q2, attributed by CFO Derek Andersen partly to AI tooling/campaign-management changes; CEO Ariane Gorin reportedly confirmed participation in OpenAI ad products (via an automated Benzinga transcript quoted by FourWeekMBA) but PhocusWire separately reports she did NOT confirm which specific product, so whether this is 'Sponsored Agents' specifically remains unconfirmed; agentic traffic described as 'still small' but with 'strong purchase intent' per Zacks paraphrase of Gorin. New this run: PhocusWire reports Expedia's integration with Meta's 'Muse' agent was due to go live 'during the call' (i.e. on/around 2026-11-04), which would newly establish Expedia (not just Agoda/Trip.com) as a Muse integration partner -- unconfirmed pending primary source.",
+      "candidate_primary_source": "https://s202.q4cdn.com/757635260/files/content_files/EXPE-USQ_Transcript_2026-11-04.pdf (or ir.expediagroup.com earnings materials)",
+      "secondary_sources": [
+        "https://www.phocuswire.com/news/finance/expedia-group-q3-2026-earnings",
+        "https://www.zacks.com/stock/news/3024413/expe-q3-earnings-call-highlights-higher-outlook-q4-caution",
+        "https://fourweekmba.com/ai-expedia-buys-openai-ads-as-5-of-10-analysts-ask-about-ai/",
+        "https://www.hospitalitynet.org/news/4129684.html",
+        "https://247wallst.com/cards/expedia-s-ceo-is-positioning-ai-as-a-growth-driver-on-the-q3-expe-quote-01m6m63e0f4f0nkte0kzys7xn3"
+      ],
+      "verification_status": "not_opened_primary_source_blocked",
+      "priority": "high",
+      "carried_from": "data/2026-11-25/leads-unverified.json (Sponsored Agents item); Meta Muse/Expedia detail is new this run"
+    },
+    {
+      "lead_id": "airbnb-q3-2026-shareholder-letter-ai-agent",
+      "company": "Airbnb",
+      "brand": "Airbnb",
+      "topic": "strategy_ai",
+      "summary": "Airbnb's Q3 2026 shareholder letter (reported release date 2026-11-05) reportedly sets a first-half-2027 timeline for rolling out Airbnb's own AI travel agent to guests, handling bookings across 'every vertical in travel' within the Airbnb app, plus in-trip assistance. CEO Brian Chesky reportedly rejects a single general-purpose-agent model, and is quoted (via secondary sources) saying general-purpose agents such as Meta's 'Muse' and 'Instinct' generate 'little traffic and even fewer bookings' for Airbnb -- a management claim about competitor products, not independently measured. Sponsored listings reportedly planned only after the agent ships. Separately, Airbnb's AI customer-support tooling reportedly resolved ~40% of support issues without a human agent in Q3 2026, up from about one-third in Q2 2026 (management-reported metric, no independent verification).",
+      "candidate_primary_source": "https://news.airbnb.com (Q3 2026 shareholder letter) or SEC 8-K exhibit",
+      "secondary_sources": [
+        "https://skift.com/?p=840625",
+        "https://runtimewire.com/article/airbnb-ai-travel-agent-first-half-2027-brian-chesky",
+        "https://www.cxtoday.com/?p=212503",
+        "https://diginomica.com/fellow-travelers-45-checking-airbnbs-ai-ambitions-ceo-brian-chesky-highlights-limitations-generic.md",
+        "https://www.phocuswire.com/news/finance/airbnb-q3-2026-earnings"
+      ],
+      "verification_status": "not_opened_primary_source_blocked",
+      "priority": "high",
+      "carried_from": "data/2026-11-25/leads-unverified.json (noted as 'most recent known leads'); now has more specific secondary detail"
+    },
+    {
+      "lead_id": "mmyt-india-ipo-sebi-nov6",
+      "company": "MakeMyTrip",
+      "brand": "MakeMyTrip (India) Ltd.",
+      "topic": "governance_financial",
+      "summary": "Secondary coverage (Inc42, YourStory, IndMoney, Chittorgarh, IPOJI) reports SEBI issued final observations on MakeMyTrip (India) Ltd.'s draft IPO documents on 2026-11-06, clearing the way for the India-arm listing (an offer-for-sale by parent MakeMyTrip and ibibo Group Holdings (Singapore) Pte Ltd, not a fresh capital raise). No issue date, price band, or issue size has been formally announced; earlier reports estimated $1B+. New this run: the exact SEBI date (2026-11-06) and the OFS seller structure are now specified, more precisely than the prior run's generic 'cleared' framing.",
+      "candidate_primary_source": "SEBI final observations letter / MakeMyTrip (India) Ltd. updated draft offer document (not yet filed per secondary sources)",
+      "secondary_sources": [
+        "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/",
+        "https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo",
+        "https://www.indmoney.com/blog/ipo/sebi-clears-makemytrip-india-ipo",
+        "https://www.ipoji.com/blog/makemytrip-ipo-sebi-approval-2026/"
+      ],
+      "verification_status": "not_opened_primary_source_blocked",
+      "priority": "medium",
+      "carried_from": "data/2026-11-25/leads-unverified.json (entity-identity question); refined with specific date this run"
+    },
+    {
+      "lead_id": "tripcom-q3-2026-earnings-not-yet-released",
+      "company": "Trip.com Group",
+      "brand": null,
+      "topic": "financial",
+      "summary": "No Q3 2026 earnings release found via WebSearch as of this run. Prior run's leads file noted a scheduled 2026-12-01 release date (not yet due as of 2026-11-26). Search results returned only Q3 2025 (reported 2025-11-17: net revenue RMB18.3B/US$2.6B, +16% YoY) and Q2 2026 (reported 2026-09-15: net revenue RMB15.7B/US$2.3B, +6% YoY) results as the most recent confirmed figures. No change from prior run's status on this item.",
+      "candidate_primary_source": "https://ctripcominternationalltd.gcs-web.com or investors.trip.com (Q3 2026 release, not yet observed)",
+      "secondary_sources": [],
+      "verification_status": "no_release_found_yet",
+      "priority": "low (not due)",
+      "carried_from": "data/2026-11-25/leads-unverified.json, unchanged"
+    }
+  ],
+  "note_on_kayak_ai_mode": "A WebSearch for 'KAYAK AI Mode launch November 2026' returned only the KAYAK AI Mode launch from 2025-10-15 (ChatGPT-integrated conversational search). This is NOT a new 2026 development; it is the same KAYAK AI Mode feature already reconfirmed in prior leads files as part of KAYAK's broader AI feature set. No new KAYAK-specific item to add this run."
+}

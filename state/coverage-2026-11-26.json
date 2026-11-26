@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-26T17:47:05Z",
+  "window_start": "2026-11-25T17:47:23Z",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "Sixth consecutive run blocked by the identical condition first reported 2026-11-21: get_environment shows network.type=limited, allowed_hosts=[], unchanged. This run re-ran the standard probes: curl to www.sec.gov (CONNECT tunnel failed, response 403), WebFetch to ir.bookingholdings.com (getaddrinfo ENOTFOUND), and WebFetch to the exact Booking Holdings Q3 2026 Form 10-Q URL surfaced by WebSearch this run (https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm), also getaddrinfo ENOTFOUND. WebSearch remained available; five targeted queries surfaced updated/new unverified leads: (1) more specific secondary detail on the Booking Holdings/Priceline FTC Q3 2026 10-Q disclosure, including that Priceline is reportedly now in settlement discussions with the FTC and an affiliate named 'Guest Reservations' in some reporting, with the exact SEC filing URL now identified but still unopened; (2) Expedia's Q3 2026 earnings call (2026-11-04) secondary coverage, including an unconfirmed report that Expedia's Meta 'Muse' integration went live around the call date, and continued ambiguity over whether Expedia's OpenAI ad participation is specifically the 'Sponsored Agents' product; (3) Airbnb's Q3 2026 shareholder letter (2026-11-05) detail on the planned H1 2027 AI travel agent, Chesky's claim that Meta's Muse/Instinct generate little traffic/bookings for Airbnb, and a reported 40% AI-resolved support-ticket rate; (4) a more precise date (2026-11-06) and OFS seller structure for the MakeMyTrip (India) Ltd. SEBI IPO clearance; (5) confirmation that Trip.com Group's Q3 2026 results have not yet been released. Per AGENTS.md, none of this run's WebSearch output is claim-level evidence, so no new entries were added to state/developments.json. No environment-change tool was called this run, for the same reason documented on 2026-11-23 through 2026-11-25: update_environment requires live human approval unavailable to an unattended scheduled run, and was explicitly told not to be retried.",
+  "access_log": "sources/2026-11-26/access-log.json",
+  "leads": "data/2026-11-26/leads-unverified.json",
+  "report": "reports/daily/2026-11-26.md",
+  "remediation": "Unchanged from 2026-11-21 through 2026-11-25: a person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, data.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com, www.agoda.com, group.trip.com, skift.com, www.phocuswire.com. This is now a six-day-old unresolved blocker with no remediation possible from within an unattended run; it will recur on every future scheduled fire until a person acts. This run's notification to the user flags this explicitly given the duration and the now-identified exact primary-source URL for the material Booking Holdings/Priceline FTC disclosure that still cannot be opened.",
+  "validated_at": null,
+  "validation_path": null,
+  "prior_checkpoint": "state/coverage-2026-11-25.json"
+}

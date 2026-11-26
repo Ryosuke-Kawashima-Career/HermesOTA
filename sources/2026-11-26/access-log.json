@@ -1,0 +1,56 @@
+{
+  "run_date": "2026-11-26",
+  "retrieval_timestamp_utc": "2026-11-26T17:47:05Z",
+  "environment_check": {
+    "tool": "get_environment",
+    "result": {
+      "network.type": "limited",
+      "allowed_hosts": [],
+      "allow_mcp_servers": true,
+      "allow_package_managers": true
+    },
+    "note": "Identical configuration to every run from 2026-11-21 through 2026-11-25. Sixth consecutive day with allowed_hosts=[]."
+  },
+  "probes": [
+    {
+      "method": "curl (Bash)",
+      "target": "https://www.sec.gov/",
+      "result": "CONNECT tunnel failed, response 403 (exit 56)",
+      "classification": "connect_rejected"
+    },
+    {
+      "method": "curl (Bash)",
+      "target": "https://ir.bookingholdings.com/",
+      "result": "CONNECT tunnel failed, response 403",
+      "classification": "connect_rejected"
+    },
+    {
+      "method": "WebFetch",
+      "target": "https://ir.bookingholdings.com/news-releases",
+      "result": "getaddrinfo ENOTFOUND ir.bookingholdings.com",
+      "classification": "dns_block"
+    },
+    {
+      "method": "WebFetch",
+      "target": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm",
+      "result": "getaddrinfo ENOTFOUND www.sec.gov",
+      "classification": "dns_block",
+      "note": "This is the exact Booking Holdings Q3 2026 Form 10-Q URL surfaced by WebSearch this run; could not be opened as a primary source."
+    },
+    {
+      "method": "WebSearch",
+      "target": "n/a (search backend, not proxied through allowed_hosts)",
+      "result": "functional",
+      "classification": "available"
+    }
+  ],
+  "conclusion": "Sixth consecutive daily run blocked by the identical network configuration first observed 2026-11-21. No change in remediation status. update_environment not attempted this run for the same reason documented on 2026-11-23 through 2026-11-25: it requires live human approval, which is architecturally unavailable in an unattended scheduled fire, and was explicitly told not to be retried on 2026-11-23.",
+  "remediation_hosts_needed": [
+    "www.sec.gov", "data.sec.gov", "sec.gov",
+    "news.airbnb.com", "ir.bookingholdings.com", "ir.expediagroup.com",
+    "investors.trip.com", "ir.makemytrip.com",
+    "ctripcominternationalltd.gcs-web.com",
+    "www.prnewswire.com", "www.globenewswire.com", "www.businesswire.com",
+    "www.agoda.com", "group.trip.com", "skift.com", "www.phocuswire.com"
+  ]
+}
