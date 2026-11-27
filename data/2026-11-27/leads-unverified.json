@@ -1,0 +1,49 @@
+{
+  "run_date": "2026-11-27",
+  "status": "unverified_secondary_only",
+  "note": "AGENTS.md requires an opened primary source before any claim-level record is created in state/developments.json. All items below come from WebSearch result snippets only; no primary or trade-press source could be opened this run (network remains blocked per sources/2026-11-27/access-log.json). These are carried/updated leads for the next run with access, not claims.",
+  "supersedes": "data/2026-11-26/leads-unverified.json",
+  "leads": [
+    {
+      "topic": "Booking Holdings / Priceline FTC matter",
+      "priority": "highest",
+      "update_since_2026_11_26": "WebSearch snippet (query: 'Booking Holdings Priceline FTC 10-Q settlement November 2026') paraphrases language said to be from the Q3 2026 Form 10-Q: no settlement reached; Priceline is in discussions with the FTC; a deal would likely require payment to the FTC, restitution to some U.S. consumers, and business-practice changes. Snippet also repeats the $900M revenue-reduction / $100M G&A accrual figures, and that the FTC may seek penalties/restitution 'in excess of these amounts,' with Skift cited as reporting a figure that could exceed $1 billion. Reuters reportedly names the affiliate as 'Guest Reservations,' not named by the company itself. None of this has been read from the primary filing.",
+      "candidate_primary_source": "https://www.sec.gov/Archives/edgar/data/0001075531/000107553126000045/bkng-20260930.htm",
+      "primary_source_status": "identified since 2026-11-26; still unreachable (getaddrinfo ENOTFOUND / 403 via proxy)",
+      "secondary_sources_in_snippet": [
+        "https://skift.com/?p=846888",
+        "https://skift.com/es/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
+        "https://www.techlicious.com/blog/priceline-owner-takes-1b-hit-over-alleged-deceptive-hotel-bookings/"
+      ],
+      "action_next_run": "Open the primary 10-Q URL directly once www.sec.gov is reachable; reconcile the $900M/$100M vs. >$1B vs. >$500M figures against the filing text itself, and check whether 'Guest Reservations' is named in the filing."
+    },
+    {
+      "topic": "Trip.com Group Q3 2026 results release date",
+      "priority": "medium",
+      "update_since_2026_11_26": "WebSearch snippet reports the company's own announcement (via a secondary aggregator, Plataforma Media, 2026-11-19) sets the Q3 2026 release for Tuesday 2026-12-01 (U.S. time), after market close, covering the three months ended 2026-09-30, with a conference call same day 7:00pm ET. This is a schedule announcement, not results, and was not read from a primary Trip.com Group IR page.",
+      "candidate_primary_source": "https://ctripcominternationalltd.gcs-web.com/ (investor relations news releases)",
+      "primary_source_status": "ir host blocked; not opened",
+      "action_next_run": "Not yet due (release date 2026-12-01). Revisit on or after that date; do not expect Q3 financial figures before then."
+    },
+    {
+      "topic": "Expedia Group x Meta Muse integration go-live",
+      "priority": "medium",
+      "update_since_2026_11_26": "WebSearch snippet paraphrases a Skift article dated 2026-11-09 reporting the Expedia-hotel-booking integration inside Meta's Muse AI agent is live in the U.S., about six weeks after the partnership was announced (~late September 2026). Reported scope: natural-language hotel search and booking; cancellations/rebooking excluded and routed to Expedia support, since Expedia remains merchant of record. No usage numbers, cancellation-support timeline, or non-U.S. market plans reported. This resolves the 'unconfirmed go-live' ambiguity carried from 2026-11-26 leads, but remains unverified because skift.com could not be opened this run (getaddrinfo ENOTFOUND).",
+      "candidate_primary_source": "https://skift.com/2026/11/09/expedia-goes-live-on-muse-but-its-ai-wins-are-inside-its-own-apps/",
+      "primary_source_status": "attempted via WebFetch this run; blocked (host not allowed)",
+      "action_next_run": "Open the Skift article directly, and look for an Expedia or Meta primary announcement/press release of the same go-live, once trade-press and IR hosts are reachable."
+    },
+    {
+      "topic": "Airbnb Q3 2026 shareholder letter detail (Muse/Instinct comments, 40% AI support-resolution rate, H1 2027 AI agent)",
+      "priority": "medium",
+      "update_since_2026_11_26": "No new WebSearch query run this cycle; carried unchanged from 2026-11-26 leads pending access to news.airbnb.com / SEC 8-K exhibit.",
+      "action_next_run": "Open Airbnb's Q3 2026 shareholder letter primary document once news.airbnb.com or sec.gov is reachable."
+    },
+    {
+      "topic": "MakeMyTrip (India) Ltd. SEBI IPO clearance",
+      "priority": "low",
+      "update_since_2026_11_26": "No new WebSearch query run this cycle; carried unchanged (SEBI clearance reported 2026-11-06; OFS structure by MakeMyTrip and ibibo Group Holdings (Singapore) Pte Ltd; no issue date/price band/size announced).",
+      "action_next_run": "Check SEBI and MakeMyTrip (India) Ltd. filings once reachable; confirm relationship to Nasdaq-listed MakeMyTrip Limited."
+    }
+  ]
+}

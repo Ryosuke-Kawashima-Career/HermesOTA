@@ -1,0 +1,53 @@
+{
+  "run_date": "2026-11-27",
+  "retrieval_timestamp_utc": "2026-11-27T17:46:22Z",
+  "environment_check": {
+    "tool": "get_environment",
+    "result": {
+      "network": {
+        "type": "limited",
+        "allow_mcp_servers": true,
+        "allow_package_managers": true,
+        "allowed_hosts": []
+      },
+      "is_default": true,
+      "editable_by_you": true
+    },
+    "note": "Identical to every run since 2026-11-21 (seventh consecutive day). allowed_hosts remains empty."
+  },
+  "probes": [
+    {
+      "method": "curl (Bash)",
+      "target": "https://www.sec.gov/",
+      "timestamp_utc": "2026-11-27T17:45:49Z",
+      "result": "FAILED",
+      "detail": "curl exit 56: CONNECT tunnel failed, response 403. Agent-proxy log: connect_rejected, HTTP 403 for www.sec.gov:443."
+    },
+    {
+      "method": "curl (Bash)",
+      "target": "https://ir.bookingholdings.com/",
+      "timestamp_utc": "2026-11-27T17:45:49Z",
+      "result": "FAILED",
+      "detail": "curl exit 56: CONNECT tunnel failed, response 403. Agent-proxy log: connect_rejected, HTTP 403 for ir.bookingholdings.com:443."
+    },
+    {
+      "method": "WebFetch",
+      "target": "https://ir.bookingholdings.com/",
+      "result": "FAILED",
+      "detail": "getaddrinfo ENOTFOUND ir.bookingholdings.com (host not in allowed network domains for this session)."
+    },
+    {
+      "method": "WebFetch",
+      "target": "https://skift.com/2026/11/09/expedia-goes-live-on-muse-but-its-ai-wins-are-inside-its-own-apps/",
+      "result": "FAILED",
+      "detail": "getaddrinfo ENOTFOUND skift.com (host not in allowed network domains for this session). Confirms trade-press primary sources are also blocked, not only SEC/IR hosts."
+    },
+    {
+      "method": "WebSearch",
+      "result": "AVAILABLE",
+      "detail": "WebSearch remained usable and returned secondary-source snippets, as in all prior runs since 2026-11-21. Snippets are discovery aids only, not opened primary sources, per AGENTS.md; no claim-level records were created from them."
+    }
+  ],
+  "conclusion": "Blocker first identified 2026-11-21 is unchanged on 2026-11-27 (seventh consecutive scheduled run). No environment-change tool (update_environment) was called this run, consistent with the standing decision recorded in state/coverage-2026-11-23.json through state/coverage-2026-11-26.json that such a change requires live human approval not available to an unattended scheduled run.",
+  "remediation_unchanged": "A person must either run this routine with \"Run now\" and approve the update_environment host-allowlist prompt, or add the hosts manually in the environment's Network access settings (session menu -> Edit environment -> Limited -> Allowed domains): www.sec.gov, data.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com, www.agoda.com, group.trip.com, skift.com, www.phocuswire.com."
+}

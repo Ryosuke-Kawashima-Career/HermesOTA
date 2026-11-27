@@ -1,0 +1,22 @@
+{
+  "cutoff": "2026-11-27T17:46:22Z",
+  "window_start": "2026-11-26T17:47:05Z",
+  "companies": [
+    "Booking Holdings",
+    "Expedia Group",
+    "Trip.com Group",
+    "MakeMyTrip",
+    "Airbnb"
+  ],
+  "source_manifest": null,
+  "new_developments_added": 0,
+  "status": "blocked_network_access",
+  "limitations": "Seventh consecutive run blocked by the identical condition first reported 2026-11-21: get_environment shows network.type=limited, allowed_hosts=[], unchanged. This run re-ran the standard probes: curl to www.sec.gov (CONNECT tunnel failed, response 403), curl and WebFetch to ir.bookingholdings.com (403 / getaddrinfo ENOTFOUND), and for the first time also WebFetch to a trade-press URL (skift.com) specifically to test whether non-SEC/IR sources were reachable; it returned the same getaddrinfo ENOTFOUND, confirming the block is a session-wide allowlist restriction, not limited to SEC/IR hosts. WebSearch remained available; three targeted queries surfaced updated/new unverified leads: (1) a more detailed secondary paraphrase of the Booking Holdings/Priceline FTC Q3 2026 10-Q language (no settlement reached, discussions ongoing, likely required elements of any deal, repeated $900M/$100M figures and the disputed >$1B/>$500M exposure estimates, and the unconfirmed 'Guest Reservations' affiliate name), still not read from the primary filing; (2) Trip.com Group's Q3 2026 results release date, per secondary report of the company's own schedule announcement, confirmed for 2026-12-01 (not yet due, no figures); (3) Expedia's Meta Muse hotel-booking integration reported live in the US per a Skift article dated 2026-11-09, resolving the go-live ambiguity carried from 2026-11-25/26 leads, but still unverified because skift.com could not be opened. Per AGENTS.md, none of this run's WebSearch output is claim-level evidence, so no new entries were added to state/developments.json. No environment-change tool was called this run, for the same reason documented on 2026-11-23 through 2026-11-26: update_environment requires live human approval unavailable to an unattended scheduled run, and was explicitly told not to be retried.",
+  "access_log": "sources/2026-11-27/access-log.json",
+  "leads": "data/2026-11-27/leads-unverified.json",
+  "report": "reports/daily/2026-11-27.md",
+  "remediation": "Unchanged from 2026-11-21 through 2026-11-26: a person needs to either (a) start this routine with \"Run now\" and approve the update_environment host-allowlist request when prompted, or (b) add the hosts manually in the environment's Network access settings (cloud environment menu in the session title bar -> Edit -> Limited -> Allowed domains): www.sec.gov, data.sec.gov, sec.gov, news.airbnb.com, ir.bookingholdings.com, ir.expediagroup.com, investors.trip.com, ir.makemytrip.com, ctripcominternationalltd.gcs-web.com, www.prnewswire.com, www.globenewswire.com, www.businesswire.com, www.agoda.com, group.trip.com, skift.com, www.phocuswire.com. This is now a seven-day-old unresolved blocker with no remediation possible from within an unattended run. This run's notification to the user flags this explicitly given the duration, and that this run additionally confirmed the block extends to trade-press sources (skift.com), not only SEC/IR hosts.",
+  "validated_at": null,
+  "validation_path": null,
+  "prior_checkpoint": "state/coverage-2026-11-26.json"
+}
